@@ -28,7 +28,11 @@ git config --global core.editor "code -w -n"
 git config --global diff.tool code
 git config --global difftool.code.cmd "code -w -d \$LOCAL \$REMOTE"
 
+<<<<<<< HEAD
+echo
+=======
 echo 
+>>>>>>> 4a00c4e1a17e6b2e276cb05c10bb3074c3af92e9
 echo "Configuring Upstream..."
 
 git remote add upstream "${upstream_repo}"
