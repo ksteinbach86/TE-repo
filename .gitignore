@@ -3,7 +3,7 @@ preview-curriculum.zip
 autoconfig.yaml
 #ignore thumbnails created by windows
 Thumbs.db
-#Ignore files build by Visual Studio
+#Ignore files build by Visual Studio and IntelliJ
 *.obj
 *.exe
 *.pdb
