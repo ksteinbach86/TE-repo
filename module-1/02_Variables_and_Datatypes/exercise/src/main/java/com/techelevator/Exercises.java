@@ -26,47 +26,81 @@ public class Exercises {
         3. 3 raccoons are playing in the woods. 2 go home to eat dinner. How
         many raccoons are left in the woods?
         */
+		int raccoonsPlayingInWoods = 3;
+		int raccoonsHomeForDinner = 2;
+		int numberOfRaccoonsInWoods = raccoonsPlayingInWoods - raccoonsHomeForDinner;
+
 
 
         /* Exercise 4
         4. There are 5 flowers and 3 bees. How many less bees than flowers?
         */
+		int numberOfFlowers = 5;
+		int numberOfBees = 3;
+		int numberOfLessBees =  numberOfFlowers - numberOfBees;
+
 
 
         /* Exercise 5
         5. 1 lonely pigeon was eating breadcrumbs. Another pigeon came to eat
         breadcrumbs, too. How many pigeons are eating breadcrumbs now?
         */
+		int lonelyPigeonEatingCrumbs = 1;
+		int anotherPigeonEatingToo = 1;
+		int totalPigeonsEating = lonelyPigeonEatingCrumbs + anotherPigeonEatingToo;
+
 
 
         /* Exercise 6
         6. 3 owls were sitting on the fence. 2 more owls joined them. How many
         owls are on the fence now?
         */
+		int sittingOwlsOnFence = 3;
+		int joiningOwls = 2;
+		int numberOfOwlsOnFence = sittingOwlsOnFence + joiningOwls;
+
 
 
         /* Exercise 7
         7. 2 beavers were working on their home. 1 went for a swim. How many
         beavers are still working on their home?
         */
+		int numberOfBeaversWorking = 2;
+		int beaverOnSwimBreak = 1;
+		int numberOfWorkingBeavers = numberOfBeaversWorking - beaverOnSwimBreak;
+
 
 
         /* Exercise 8
         8. 2 toucans are sitting on a tree limb. 1 more toucan joins them. How
         many toucans in all?
         */
+		int sittingToucansOnLimb = 2;
+		int joiningToucan = 1;
+		int numberOfToucansOnLimb = sittingToucansOnLimb + joiningToucan;
+
 
 
         /* Exercise 9
         9. There are 4 squirrels in a tree with 2 nuts. How many more squirrels
         are there than nuts?
         */
+		int numberOfSquirrelsInTree = 4;
+		int numberOfNuts = 2;
+		int numberOfSquirrels = numberOfSquirrelsInTree - numberOfNuts;
+
 
 
         /* Exercise 10
         10. Mrs. Hilt found a quarter, 1 dime, and 2 nickels. How much money did
         she find?
         */
+		double foundQuarter = 0.25;
+		double foundDime = 0.10;
+		double foundNickels = 0.10;
+		double numberAmountOfMoneyFound = foundDime + foundNickels + foundQuarter;
+
+
 
 
         /* Exercise 11
@@ -75,12 +109,17 @@ public class Exercises {
         Mrs. Flannery's class bakes 17 muffins. How many muffins does first
         grade bake in all?
         */
+		int muffinsOfMrsBriersClass = 18;
+		int muffinsOfMrsMacAdamsClass = 20;
+		int muffinsOfMrsFlannerysClass = 17;
+		int numberOfMuffinsBaked = muffinsOfMrsBriersClass + muffinsOfMrsFlannerysClass + muffinsOfMrsMacAdamsClass;
 
 
         /* Exercise 12
         12. Mrs. Hilt bought a yoyo for 24 cents and a whistle for 14 cents. How
         much did she spend in all for the two toys?
         */
+		
 
 
         /* Exercise 13
