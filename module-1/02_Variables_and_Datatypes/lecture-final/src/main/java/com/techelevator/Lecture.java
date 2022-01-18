@@ -140,6 +140,21 @@ public class Lecture {
 		/*
 		22. What is 66.6 divided by 100? Is the answer you get right or wrong?
 		*/
+		double myTry = 66.6 / 100;
+		System.out.println(myTry);
+
+		/*
+		NOTE: If this looks strange, remember that floating point numbers (floats and doubles)
+		can have what we call rounding errors. They simply can't represent all results accurately.
+		Think about this.
+		1.0/9.0 -> .111111111111111111 (repeating forever)
+		2.0/9.0 -> .222222222222222222 (repeating forever)
+		...
+		9.0/9.0 -> .999999999999999999 (repeating forever)
+		but 9.0/9.0 really equals 1.0. All floating point results are approximations.
+		This is the answer to the question (asked by Elias) of why we don't always use double. It
+		can be more precise to use int or long, because they can always be represented.
+		*/
 
 		/*
 		23. If I divide 5 by 2, what's my remainder?
