@@ -478,6 +478,10 @@ public class Exercises {
         them on the shelves in their bedroom. If every shelf can carry a
         maximum of 7 teddy bears, how many shelves will be filled?
         */
+		int numberOfSistersTeddybears = 98;
+		int shelfSpaceForTeddybears = 7;
+		int numberOfShelfSpaceAvailable = numberOfSistersTeddybears / shelfSpaceForTeddybears;
+
 
 
         /* Exercise 47
@@ -485,6 +489,10 @@ public class Exercises {
         them in an album. If an album can contain 20 pictures, how many
         albums will she need if there are 480 pictures?
         */
+		int totalFamilyPictures = 480;
+		int numberOfPicturesPerAlbum = 20;
+		int numberAlbumsNeeded = totalFamilyPictures / numberOfPicturesPerAlbum;
+
 
 
         /* Exercise 48
@@ -493,6 +501,10 @@ public class Exercises {
         cards, how many boxes were filled and how many cards are there in
         the unfilled box?
         */
+		double totalTradingCardsCollected = 94;
+		double numberOfCardsPerBox = 8;
+		double boxesFilled = totalTradingCardsCollected / numberOfCardsPerBox;
+
 
 
         /* Exercise 49
@@ -500,12 +512,20 @@ public class Exercises {
         210 books to be distributed equally on the 10 shelves he repaired,
         how many books will each shelf contain?
         */
+		int numberOfBooks = 210;
+		int repairedBookshelves = 10;
+		int booksPerShelfContained = numberOfBooks / repairedBookshelves;
+
 
 
         /* Exercise 50
         50. Cristina baked 17 croissants. If she planned to serve this equally to
         her seven guests, how many will each have?
         */
+		double bakedCroissants = 17;
+		double numberOfGuests = 7;
+		double numberOfCroissantsPerGuest = bakedCroissants / numberOfGuests;
+
 
 
 	    /* Exercise 51
@@ -513,6 +533,10 @@ public class Exercises {
 	    1.90 hours. How long will it take the two painters working together to paint 5 12 x 14 rooms?
 	    Hint: Calculate the hourly rate for each painter, combine them, and then divide the total walls in feet by the combined hourly rate of the painters.
 	    */
+		double totalTimeToPaint = 4.05;
+		int totalSquareFootage = 840;
+		double combinedTimeToPaint = totalSquareFootage / totalTimeToPaint;
+
 
 
 	    /* Exercise 52
@@ -522,12 +546,20 @@ public class Exercises {
 		with a period. Use "Grace", "Hopper, and "B" for the first name, last name, and middle initial.
 		Example: "John", "Smith, "D" —> "Smith, John D."
 	    */
+		var fullName = "Hopper, Grace B.";
+
+
+
 
 
 	    /* Exercise 53
 	    53. The distance between New York and Chicago is 800 miles, and the train has already travelled 537 miles.
 	    What percentage of the trip as a whole number has been completed?
 	    */
+		int distanceFromNewYorkToChicago = 800;
+		int trainHasTraveled = 537;
+		double percentageOfTripCompleted = trainHasTraveled / distanceFromNewYorkToChicago;
+
 
 	}
 
