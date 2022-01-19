@@ -345,43 +345,66 @@ public class Exercises {
 		double moneyDanHas = 3.00;
 		double costOfCandyBar = 1.00;
 		double moneyLeft = moneyDanHas - costOfCandy;
-		
+
 
 
         /* Exercise 34
         34. 5 boats are in the lake. Each boat has 3 people. How many people are
         on boats in the lake?
         */
+		int boatsOnLake = 5;
+		int numberOfPeopleOnBoats = 3;
+		int totalPeopleOnLake = boatsOnLake * numberOfPeopleOnBoats;
+
 
 
         /* Exercise 35
         35. Ellen had 380 legos, but she lost 57 of them. How many legos does she
         have now?
         */
+		int numberOfLegos = 380;
+		int legosLost = 57;
+		int numberOfLegosNow = numberOfLegos - legosLost;
+
 
 
         /* Exercise 36
         36. Arthur baked 35 muffins. How many more muffins does Arthur have to
         bake to have 83 muffins?
         */
+		int bakedMuffins = 35;
+		int muffinsNeededToBake = 83;
+		int numberOfMuffinsMore = muffinsNeededToBake - bakedMuffins;
+
 
 
         /* Exercise 37
         37. Willy has 1400 crayons. Lucy has 290 crayons. How many more
         crayons does Willy have then Lucy?
         */
+		int numberOfWillysCrayons = 1400;
+		int numberOfLucysCrayons = 290;
+		int crayonsWillyHasOverLucy = numberOfWillysCrayons - numberOfLucysCrayons;
+
 
 
         /* Exercise 38
         38. There are 10 stickers on a page. If you have 22 pages of stickers, how
         many stickers do you have?
         */
+		int stickersOnPage = 10;
+		int pagesOfStickers = 22;
+		int numberOfStickers = stickersOnPage * pagesOfStickers;
+
 
 
         /* Exercise 39
         39. There are 100 cupcakes for 8 children to share. How much will each
         person get if they share the cupcakes equally?
         */
+		double numberOfCupcakes = 100;
+		double numberOfChildren = 8;
+		double equallySharedCupcakes = numberOfCupcakes / numberOfChildren;
 
 
         /* Exercise 40
@@ -389,6 +412,9 @@ public class Exercises {
         tiny glass jars. If each jar is to contain six cookies, how many
         cookies will not be placed in a jar?
         */
+		double gingerbeadCookies = 47;
+		double tinyGlassJars = 6;
+		double numberOfCookiesPerJar = gingerbeadCookies / tinyGlassJars;
 
 
         /* Exercise 41
@@ -396,6 +422,10 @@ public class Exercises {
         neighbors. If each neighbor received an equal number of croissants,
         how many will be left with Marian?
         */
+		double preparedCroissants = 59;
+		double numberOfNeighbors = 8;
+		double leftoverCroissants = preparedCroissants / numberOfNeighbors;
+
 
 
         /* Exercise 42
@@ -403,6 +433,10 @@ public class Exercises {
         place 12 cookies on a tray at a time, how many trays will she need to
         prepare 276 oatmeal cookies at a time?
         */
+		int bakedOatmealCookies = 276;
+		int numberOfCookiesOnTray = 12;
+		int numberOfTraysNeeded = bakedOatmealCookies / numberOfCookiesOnTray;
+
 
 
         /* Exercise 43
@@ -410,6 +444,10 @@ public class Exercises {
         bite-sized pretzels. If one serving is equal to 12 pretzels, how many
         servings of bite-sized pretzels was Marian able to prepare?
         */
+		int madePretzels = 480;
+		int pretzelServings = 12;
+		int servingsToBeMade = madePretzels / pretzelServings;
+
 
 
         /* Exercise 44
@@ -417,6 +455,11 @@ public class Exercises {
         orphanage. If two lemon cupcakes were left at home, how many
         boxes with 3 lemon cupcakes each were given away?
         */
+		int bakedLemonCupcakes = 53;
+		int cupcakesLeftBehind = 2;
+		int numberOfCupcakesPerBox = 3;
+		int totalCupcakesGivenAway = (bakedLemonCupcakes - cupcakesLeftBehind) / numberOfCupcakesPerBox;
+
 
 
         /* Exercise 45
@@ -424,6 +467,10 @@ public class Exercises {
         were served equally to 12 people, how many carrot sticks were left
         uneaten?
         */
+		double preparedCarrotSticks = 74;
+		double numberOfPeople = 12;
+		double carrotSticksUneaten = preparedCarrotSticks / numberOfPeople;
+
 
 
         /* Exercise 46
