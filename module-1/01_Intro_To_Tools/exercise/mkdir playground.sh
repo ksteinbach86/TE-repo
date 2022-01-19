@@ -1,0 +1,24 @@
+mkdir playground
+mkdir ~/playground/usa
+mkdir ~/playground/canada
+mkdir ~/playground/usa/ohio
+mkdir ~/playground/usa/pennsylvania
+mkdir ~/playground/usa/michigan
+mkdir ~/playground/canada/quebec
+mkdir ~/playground/canada/british-columbia
+mkdir ~/playground/usa/ohio/cuyahoga
+mkdir ~/playground/usa/ohio/hamilton
+mkdir ~/playground/usa/ohio/franklin
+mkdir ~/playground/usa/pennsylvania/allegheny
+mkdir ~/playground/usa/michigan/wayne
+mkdir ~/playground/usa/ohio/cuyahoga/cleveland.txt
+mkdir ~/playground/usa/ohio/cuyahoga/cincinnati.txt
+cp ~/playground/usa/ohio/cuyahoga/cleveland.txt
+mv columbus.txt
+mkdir ~/playground/usa/pennsylvania/allegheny/pittsburgh.txt
+mkdir ~/playground/usa/michigan/wayne/detroit.txt
+mkdir ~/playground/canada/quebec/montreal.txt
+mkdir ~/playground/canada/quebec/quebec-city.txt
+mkdir ~/playground/canada/british-columbia/vancouver.txt
+mkdir ~/playground/canada/british-columbia/prince-george.txt
+verify-part-1.sh
