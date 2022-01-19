@@ -343,8 +343,8 @@ public class Exercises {
         left?
         */
 		double moneyDanHas = 3.00;
-		double costOfCandyBar = 1.00;
-		double moneyLeft = moneyDanHas - costOfCandy;
+		double priceOfCandyBar = 1.00;
+		double moneyLeft = moneyDanHas - priceOfCandyBar;
 
 
 
@@ -546,7 +546,7 @@ public class Exercises {
 		with a period. Use "Grace", "Hopper, and "B" for the first name, last name, and middle initial.
 		Example: "John", "Smith, "D" —> "Smith, John D."
 	    */
-		var fullName = "Hopper, Grace B.";
+		String fullName = "Hopper, Grace B.";
 
 
 
