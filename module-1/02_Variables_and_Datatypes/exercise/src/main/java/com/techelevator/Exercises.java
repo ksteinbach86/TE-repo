@@ -227,18 +227,31 @@ public class Exercises {
         rocks to complete the border. She has 64 rocks. How many more rocks
         does she need to complete the border?
         */
+		int rocksNeededToComplete = 125;
+		int rocksCurrentyHave = 64;
+		int howManyMoreRocksNeeded = rocksNeededToComplete - rocksCurrentyHave;
+
 
 
         /* Exercise 23
         23. Mrs. Hilt had 38 marbles. She lost 15 of them. How many marbles does
         she have left?
         */
+		int marblesHad = 38;
+		int marblesLost = 15;
+		int marblesLeft = marblesHad - marblesLost;
+
+
 
 
         /* Exercise 24
         24. Mrs. Hilt and her sister drove to a concert 78 miles away. They drove 32
         miles and then stopped for gas. How many miles did they have left to drive?
         */
+		int milesToConcert = 78;
+		int milesToGasStation = 32;
+		int milesLeftToDrive = milesToConcert - milesToGasStation;
+
 
 
         /* Exercise 25
@@ -246,18 +259,32 @@ public class Exercises {
         morning and 45 minutes shoveling snow on Saturday afternoon. How
         much total time (in minutes) did she spend shoveling snow?
         */
+		int minutesSpentShovelingSnowAm = 90;
+		int minutesSpentShovelingSnowPm = 45;
+		int minutesSpentShovelingSnowTotal = minutesSpentShovelingSnowAm + minutesSpentShovelingSnowPm;
+
+
 
 
         /* Exercise 26
         26. Mrs. Hilt bought 6 hot dogs. Each hot dog cost 50 cents. How much
         money did she pay for all of the hot dogs?
         */
+		int hotDogsBought = 6;
+		double hotDogPrice = 0.50;
+		double priceForAllHotDogs = hotDogsBought * hotDogPrice;
+
 
 
         /* Exercise 27
         27. Mrs. Hilt has 50 cents. A pencil costs 7 cents. How many pencils can
         she buy with the money she has?
         */
+		double mrsHiltHas = 0.50;
+		double pencilsCost = 0.07;
+		double howManyCanAfford = mrsHiltHas / pencilsCost;
+
+
 
 
         /* Exercise 28
@@ -265,36 +292,60 @@ public class Exercises {
         were orange. If 20 of the butterflies were orange, how many of them
         were red?
         */
+		int butterfliesSeen = 33;
+		int orangeButterflies = 20;
+		int redButterflies = butterfliesSeen - orangeButterflies;
+
 
 
         /* Exercise 29
         29. Kate gave the clerk $1.00. Her candy cost 54 cents. How much change
         should Kate get back?
         */
+		double moneySpent = 1.00;
+		double costOfCandy = 0.54;
+		double changeOwed = moneySpent - costOfCandy;
+
 
 
         /* Exercise 30
         30. Mark has 13 trees in his backyard. If he plants 12 more, how many trees
         will he have?
         */
+		int treesInBackyard = 13;
+		int plantedTreesInBackyard = 12;
+		int numberOfTreesNow = treesInBackyard + plantedTreesInBackyard;
+
 
 
         /* Exercise 31
         31. Joy will see her grandma in two days. How many hours until she sees
         her?
         */
+		int daysToGrandma = 2;
+		int hoursInADay = 24;
+		int totalHoursUntilGrandma = hoursInADay * daysToGrandma;
+
 
 
         /* Exercise 32
         32. Kim has 4 cousins. She wants to give each one 5 pieces of gum. How
         much gum will she need?
         */
+		int numberOfCousins = 4;
+		int piecesOfGum = 5;
+		int amountOfGumNeeded = numberOfCousins * piecesOfGum;
+
 
 
         /* Exercise 33
         33. Dan has $3.00. He bought a candy bar for $1.00. How much money is
         left?
         */
+		double moneyDanHas = 3.00;
+		double costOfCandyBar = 1.00;
+		double moneyLeft = moneyDanHas - costOfCandy;
+		
 
 
         /* Exercise 34
