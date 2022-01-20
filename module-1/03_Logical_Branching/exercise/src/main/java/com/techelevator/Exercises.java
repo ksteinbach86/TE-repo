@@ -12,7 +12,7 @@ public class Exercises {
      sleepIn(false, true) → true
      */
     public boolean sleepIn(boolean weekday, boolean vacation) {
-        if (!weekday || vacation) {
+        if (vacation || !weekday) {
             return true;
         }
 
@@ -33,7 +33,7 @@ public class Exercises {
         if (aSmile || bSmile) {
             return true;
         }
-
+            return false;
     }
 
 
@@ -44,15 +44,17 @@ public class Exercises {
      sumDouble(2, 2) → 8
      */
     public int sumDouble(int a, int b) {
-        if (a + b) {
-            return sum;
-        }
+       if (a == b) {
+           return (a + b) * 2;
+       }
 
-        if (a == b) {
-            return sumDouble;
-        }
+       return a +b;
+
+
 
     }
+
+
 
 
 
@@ -71,14 +73,11 @@ public class Exercises {
      diff21(-10) → 31
      */
     public int diff21(int n) {
-        if (int n < 21) {
-            return diff21;
+        if (n <= 21) {
+
         }
 
-        if (int n > 21) {
-            return diff21*2;
-        }
-
+    return 0;
 
     }
 
@@ -98,11 +97,11 @@ public class Exercises {
 
         else
 
-            (hour > 7 && hour < 20) {
+           if (hour > 7 && hour < 20) {
             return true;
         }
 
-
+    return false;
 
     }
 
@@ -114,13 +113,14 @@ public class Exercises {
      makes10(1, 9) → true
      */
     public boolean makes10(int a, int b) {
-        if (int a || int b = 10) {
+        if (a == 10 || b == 10) {
             return true;
         }
 
-        if (int a && int b = 10) {
+        if (a + b == 10) {
             return true;
         }
+        return false;
     }
 
     /*
@@ -131,16 +131,14 @@ public class Exercises {
      posNeg(-4, -5, true) → true
      */
     public boolean posNeg(int a, int b, boolean negative) {
-        if (a = -1 && b = 1) {
+        if (a == -1 && b == 1) {
             return true;
         }
 
-        else
-
-            (a = -1 && b = -1) {
+         if   (a == -1 && b == -1) {
             return true;
         }
-
+    return false;
     }
 
     /*
@@ -151,10 +149,10 @@ public class Exercises {
      or35(8) → false
      */
     public boolean or35(int n) {
-        if (n % 3 || n % 5) {
+        if (n % 3 == 0 || n % 5 == 0) {
             return true;
         }
-
+    return false;
     }
 
     /*
@@ -164,7 +162,13 @@ public class Exercises {
      icyHot(2, 120) → false
      */
     public boolean icyHot(int temp1, int temp2) {
-        if (temo1 < 0)
+        if (temp1 < 0 && temp2 > 100) {
+            return true;
+        } else if (temp1 > 100 && temp2 < 0) {
+            return true;
+
+        }
+        return false;
     }
 
     /*
@@ -174,20 +178,10 @@ public class Exercises {
      in1020(8, 99) → false
      */
     public boolean in1020(int a, int b) {
-        if (in1020(12, 99)
-        {
+        if ((a >= 10 && a <= 20) || (b >= 20 && b <= 20)) {
             return true;
         }
-
-        if (in1020(21, 12)
-        {
-            return true;
-        }
-
-		else(in1020(8, 99
-        {
-            return false;
-        }
+    return false;
 
     }
 
@@ -199,20 +193,9 @@ public class Exercises {
      hasTeen(20, 10, 13) → true
      */
     public boolean hasTeen(int a, int b, int c) {
-        if (hasTeen(13, 20, 10)
-        {
-            return true;
-        }
 
-        if (hasTeen(20, 19, 10)
-        {
-            return true;
-        }
 
-        if (hasTeen(20, 10, 13)
-        {
-            return true;
-        }
+    return false;
 
 
     }
@@ -225,20 +208,7 @@ public class Exercises {
      loneTeen(13, 13) → false
      */
     public boolean loneTeen(int a, int b) {
-        if (loneSum(13, 99)
-        {
-            return true;
-        }
-
-        if (loneSum(21, 19)
-        {
-            return true;
-        }
-
-        if (loneSum(13, 13)
-        {
-            return false;
-        }
+        return false;
     }
 
     /*
@@ -248,21 +218,9 @@ public class Exercises {
      intMax(3, 2, 1) → 3
      */
     public int intMax(int a, int b, int c) {
-        if (intMax(1, 2, 3)
-        {
-            return 3;
-        }
 
-        if (intMax(1, 3, 2)
-        {
-            return 3;
-        }
 
-        if (intMax(3, 2, 1)
-        {
-            return 3;
-        }
-
+    return 0;
 
     }
 
@@ -274,20 +232,21 @@ public class Exercises {
      in3050(40, 50) → true
      */
     public boolean in3050(int a, int b) {
-        if (in3050(30, 31)
-        {
-            return true;
-        }
-
-        if (in3050(30, 4)
-        {
-            return false;
-        }
-
-        if (in3050(40, 50)
-        {
-            return true;
-        }
+//        if (in3050(30, 31)
+//        {
+//            return true;
+//        }
+//
+//        if (in3050(30, 4)
+//        {
+//            return false;
+//        }
+//
+//        if (in3050(40, 50)
+//        {
+//            return true;
+//        }
+        return false;
 
     }
 
@@ -299,21 +258,21 @@ public class Exercises {
      max1020(11, 9) → 11
      */
     public int max1020(int a, int b) {
-        if max1020(11, 19)
-        {
-            return 19;
-        }
-
-        if max1020(19, 11)
-        {
-            return 19;
-        }
-
-        if max1020(11, 9)
-        {
-            return 11;
-        }
-
+//        if max1020(11, 19)
+//        {
+//            return 19;
+//        }
+//
+//        if max1020(19, 11)
+//        {
+//            return 19;
+//        }
+//
+//        if max1020(11, 9)
+//        {
+//            return 11;
+//        }
+    return 0;
 
     }
 
@@ -328,19 +287,19 @@ public class Exercises {
      */
     public boolean cigarParty(int cigars, boolean isWeekend) {
 
-        if cigarParty(30, false)
-        {
-            return false;
-        }
-
-		else{
-            if (cigarParty(50, false)
-            return true;
-        }
-
-		else{
-            (cigarParty(70), true)
-        }
+//        if cigarParty(30, false)
+//        {
+//            return false;
+//        }
+//
+//		else{
+//            if (cigarParty(50, false)
+//            return true;
+//        }
+//
+//		else{
+//            (cigarParty(70), true)
+//        }
 
 
         return false;
@@ -358,21 +317,21 @@ public class Exercises {
      dateFashion(5, 5) → 1
      */
     public int dateFashion(int you, int date) {
-        if (dateFashion(5, 10)
-        {
-            return 2;
-        }
-
-        if (dateFashion(5, 2)
-        {
-            return 0;
-        }
-
-        if (dateFashion(5, 5)
-        {
-            return 1;
-        }
-
+//        if (dateFashion(5, 10)
+//        {
+//            return 2;
+//        }
+//
+//        if (dateFashion(5, 2)
+//        {
+//            return 0;
+//        }
+//
+//        if (dateFashion(5, 5)
+//        {
+//            return 1;
+//        }
+    return 0;
 
     }
 
@@ -385,22 +344,23 @@ public class Exercises {
      squirrelPlay(95, true) → true
      */
     public boolean squirrelPlay(int temp, boolean isSummer) {
-        if (squirrelPlay(70, false)
-        {
-            return true;
-        }
-
-        if (squirrelPlay(95, false)
-        {
-            return false;
-        }
-
-		else if {
-            (squirrelPlay(95, true)
-        }
-        {
-            return true;
-        }
+//        if (squirrelPlay(70, false)
+//        {
+//            return true;
+//        }
+//
+//        if (squirrelPlay(95, false)
+//        {
+//            return false;
+//        }
+//
+//		else if {
+//            (squirrelPlay(95, true)
+//        }
+//        {
+//            return true;
+//        }
+        return false;
     }
 
     /*
@@ -424,41 +384,41 @@ public class Exercises {
      yourCakeAndEatItToo(11.00, false) → "special"
      */
     public String yourCakeAndEatItToo(double mealAmount, boolean isBirthday) {
-        if (yourCakeAndEatItToo(4.99, false)
-        {
-            return "standard";
-        }
-
-        if (yourCakeAndEatItToo(4.99, true)
-        {
-            return "standard";
-        }
-
-        if (yourCakeAndEatItToo(7.00, false)
-        {
-            return "standard";
-        }
-
-        if (yourCakeAndEatItToo(7.00, true)
-        {
-            return "Special";
-        }
-
-        if (yourCakeAndEatItToo(10.00, false)
-        {
-            return "standard";
-        }
-
-        if (yourCakeAndEatItToo(10.00, true)
-        {
-            return "Special";
-        }
-
-        if (yourCakeAndEatItToo(11.00, false)
-        {
-            return "Special";
-        }
-
+//        if (yourCakeAndEatItToo(4.99, false)
+//        {
+//            return "standard";
+//        }
+//
+//        if (yourCakeAndEatItToo(4.99, true)
+//        {
+//            return "standard";
+//        }
+//
+//        if (yourCakeAndEatItToo(7.00, false)
+//        {
+//            return "standard";
+//        }
+//
+//        if (yourCakeAndEatItToo(7.00, true)
+//        {
+//            return "Special";
+//        }
+//
+//        if (yourCakeAndEatItToo(10.00, false)
+//        {
+//            return "standard";
+//        }
+//
+//        if (yourCakeAndEatItToo(10.00, true)
+//        {
+//            return "Special";
+//        }
+//
+//        if (yourCakeAndEatItToo(11.00, false)
+//        {
+//            return "Special";
+//        }
+    return null;
 
     }
 
@@ -470,20 +430,21 @@ public class Exercises {
      sortaSum(10, 11) → 21
      */
     public int sortaSum(int a, int b) {
-        if (sortaSum(3, 4)
-        {
-            return 7;
-        }
-
-        if (sortaSum(3, 4)
-        {
-            return 20;
-        }
-
-        if (sortaSum(10, 11)
-        {
-            return 21;
-        }
+//        if (sortaSum(3, 4)
+//        {
+//            return 7;
+//        }
+//
+//        if (sortaSum(3, 4)
+//        {
+//            return 20;
+//        }
+//
+//        if (sortaSum(10, 11)
+//        {
+//            return 21;
+//        }
+        return 0;
 
     }
 
@@ -497,18 +458,19 @@ public class Exercises {
      alarmClock(0, false) → "10:00"
      */
     public String alarmClock(int day, boolean vacation) {
-        if (alarmClock(1, false)
-        {
-            return "7:00";
-        } else if (alarmClock(5, false)
-        {
-            return "7:00";
-        }
-
-		else(alarmClock(0, false)
-        {
-            return "10:00";
-        }
+//        if (alarmClock(1, false)
+//        {
+//            return "7:00";
+//        } else if (alarmClock(5, false)
+//        {
+//            return "7:00";
+//        }
+//
+//		else(alarmClock(0, false)
+//        {
+//            return "10:00";
+//        }
+        return null;
 
     }
 
@@ -520,21 +482,21 @@ public class Exercises {
      in1To10(11, true) → true
      */
     public boolean in1To10(int n, boolean outsideMode) {
-        if (in1To10(5, false)
-        {
-            return true;
-        }
-
-        if (in1To10(11, false)
-        {
-            return false;
-        }
-
-        if (in1To10(11, true)
-        {
-            return true;
-        }
-
+//        if (in1To10(5, false)
+//        {
+//            return true;
+//        }
+//
+//        if (in1To10(11, false)
+//        {
+//            return false;
+//        }
+//
+//        if (in1To10(11, true)
+//        {
+//            return true;
+//        }
+    return false;
 
     }
 
@@ -547,21 +509,21 @@ public class Exercises {
      specialEleven(24) → false
      */
     public boolean specialEleven(int n) {
-        if (specialEleven(22)
-        {
-            return true;
-        }
-
-        if (specialEleven(23)
-        {
-            return true;
-        }
-
-        if (specialEleven(24)
-        {
-            return false;
-        }
-
+//        if (specialEleven(22)
+//        {
+//            return true;
+//        }
+//
+//        if (specialEleven(23)
+//        {
+//            return true;
+//        }
+//
+//        if (specialEleven(24)
+//        {
+//            return false;
+//        }
+    return false;
 
     }
 
@@ -573,21 +535,22 @@ public class Exercises {
      more20(22) → true
      */
     public boolean more20(int n) {
-
-        if (more20(20)) ;
-        {
-            return false;
-        }
-
-        if (more20(21)
-        {
-            return true;
-        }
-
-        if (more20(22)
-        {
-            return true
-        }
+//
+//        if (more20(20)) ;
+//        {
+//            return false;
+//        }
+//
+//        if (more20(21)
+//        {
+//            return true;
+//        }
+//
+//        if (more20(22)
+//        {
+//            return true
+//        }
+        return false;
 
     }
 
@@ -600,21 +563,21 @@ public class Exercises {
      */
     public boolean old35(int n) {
 
-        if old35(3)
-        {
-            return true;
-        }
-
-        if old35(10)
-        {
-            return true;
-        }
-
-        if old35(15)
-        {
-            return false;
-        }
-
+//        if old35(3)
+//        {
+//            return true;
+//        }
+//
+//        if old35(10)
+//        {
+//            return true;
+//        }
+//
+//        if old35(15)
+//        {
+//            return false;
+//        }
+    return false;
     }
 
     /*
@@ -627,19 +590,20 @@ public class Exercises {
      */
     public boolean less20(int n) {
 
-        if (less20(18)
-        {
-            return true:}
-
-        if (less20(19)
-        {
-            return true;
-        }
-
-        if (less20(20)
-        {
-            return false;
-        }
+//        if (less20(18)
+//        {
+//            return true:}
+//
+//        if (less20(19)
+//        {
+//            return true;
+//        }
+//
+//        if (less20(20)
+//        {
+//            return false;
+//        }
+        return false;
 
 
     }
@@ -653,16 +617,16 @@ public class Exercises {
      */
     public boolean nearTen(int num) {
 
-        if (nearTen(12)
-        {
-            return true;
-        }
-
-        if (nearTen(17)
-
-            return false;
-        }
-
+//        if (nearTen(12)
+//        {
+//            return true;
+//        }
+//
+//        if (nearTen(17)
+//
+//            return false;
+//        }
+    return false;
 
         }
 
@@ -678,20 +642,21 @@ public class Exercises {
      */
     public int teenSum(int a, int b) {
 
-        if (teenSum(3, 4)
-        {
-            return 7;
-        }
-
-		else if (teenSum(10, 13)
-        {
-            return 19;
-        }
-
-		else(teenSum(13, 2)
-        {
-            return 19;
-        }
+//        if (teenSum(3, 4)
+//        {
+//            return 7;
+//        }
+//
+//		else if (teenSum(10, 13)
+//        {
+//            return 19;
+//        }
+//
+//		else(teenSum(13, 2)
+//        {
+//            return 19;
+//        }
+        return 0;
 
 
     }
@@ -705,20 +670,21 @@ public class Exercises {
      */
     public boolean answerCell(boolean isMorning, boolean isMom, boolean isAsleep) {
 
-        if (answerCell(false, false, false)
-        {
-            return true;
-        }
-
-		else if (answerCell(false, false, true)
-        {
-            return false;
-        }
-
-		else(answerCell(true, false, false)
-        {
-            return false;
-        }
+//        if (answerCell(false, false, false)
+//        {
+//            return true;
+//        }
+//
+//		else if (answerCell(false, false, true)
+//        {
+//            return false;
+//        }
+//
+//		else(answerCell(true, false, false)
+//        {
+//            return false;
+//        }
+        return false;
 
     }
 
@@ -733,20 +699,21 @@ public class Exercises {
      */
     public int teaParty(int tea, int candy) {
 
-        if (teaParty(6, 8)
-        {
-            return 1;
-        }
-
-		else if (teaParty(3, 8)
-        {
-            return 0;
-        }
-
-		else(teaParty(20, 6)
-        {
-            return 2;
-        }
+//        if (teaParty(6, 8)
+//        {
+//            return 1;
+//        }
+//
+//		else if (teaParty(3, 8)
+//        {
+//            return 0;
+//        }
+//
+//		else(teaParty(20, 6)
+//        {
+//            return 2;
+//        }
+        return 0;
 
 
     }
@@ -759,20 +726,21 @@ public class Exercises {
      */
     public boolean twoAsOne(int a, int b, int c) {
 
-        if (twoAsOne(1, 2, 3)
-        {
-            return true;
-        }
-
-        if (twoAsOne(3, 1, 2)
-        {
-            return true;
-        }
-
-        if (twoAsOne(3, 2, 2)
-        {
-            return false;
-        }
+//        if (twoAsOne(1, 2, 3)
+//        {
+//            return true;
+//        }
+//
+//        if (twoAsOne(3, 1, 2)
+//        {
+//            return true;
+//        }
+//
+//        if (twoAsOne(3, 2, 2)
+//        {
+//            return false;
+//        }
+        return false;
 
     }
 
@@ -785,21 +753,21 @@ public class Exercises {
      */
     public boolean inOrder(int a, int b, int c, boolean bOk) {
 
-        if (inOrder(1, 2, 4, false)
-        {
-            return true;
-        }
-
-        if (inOrder(1, 2, 1, false)
-        {
-            return false;
-        }
-
-        if (inOrder(1, 1, 2, true)
-        {
-            return true;
-        }
-
+//        if (inOrder(1, 2, 4, false)
+//        {
+//            return true;
+//        }
+//
+//        if (inOrder(1, 2, 1, false)
+//        {
+//            return false;
+//        }
+//
+//        if (inOrder(1, 1, 2, true)
+//        {
+//            return true;
+//        }
+    return false;
 
     }
 
@@ -813,21 +781,21 @@ public class Exercises {
      */
     public boolean inOrderEqual(int a, int b, int c, boolean equalOk) {
 
-        if (inOrderEqual(2, 5, 11, false)
-        {
-            return true;
-        }
-
-        if (inOrderEqual(5, 7, 6, false)
-        {
-            return false;
-        }
-
-        if (inOrderEqual(5, 5, 7, true)
-        {
-            return true;
-        }
-
+//        if (inOrderEqual(2, 5, 11, false)
+//        {
+//            return true;
+//        }
+//
+//        if (inOrderEqual(5, 7, 6, false)
+//        {
+//            return false;
+//        }
+//
+//        if (inOrderEqual(5, 5, 7, true)
+//        {
+//            return true;
+//        }
+    return false;
 
     }
 
@@ -840,9 +808,7 @@ public class Exercises {
      */
     public int loneSum(int a, int b, int c) {
 
-
-
-
+    return 0;
     }
 
     /*
@@ -857,30 +823,9 @@ public class Exercises {
      */
     public int luckySum(int a, int b, int c) {
 
-        if (luckySum(1, 2, 3)
-        {
-            return 6;
-        }
+        return 0;
+    }
 
-		else if (luckySum(1, 2, 13)
-        {
-            return 3;
-        }
-
-		else if (luckySum(1, 13, 3)
-        {
-            return 1;
-        }
-
-		else if (luckySum(13, 1, 3)
-        {
-            return 3;
-        }
-
-		else(luckySum(13, 13, 3)
-        {
-            return 0;
-        }
 
 
     }
