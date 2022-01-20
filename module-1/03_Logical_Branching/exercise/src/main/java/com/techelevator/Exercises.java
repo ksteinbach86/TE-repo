@@ -55,14 +55,6 @@ public class Exercises {
     }
 
 
-
-
-
-
-
-
-
-
     /*
      4. Given an int n, return the absolute difference between n and 21, except return double the absolute
      difference if n is over 21.
@@ -74,13 +66,14 @@ public class Exercises {
      */
     public int diff21(int n) {
         if (n <= 21) {
+            return 21;
+
+        } else if (n < 21) {
+            return 21 * 2;
 
         }
-
-    return 0;
-
+        return 0;
     }
-
 
     /*
      5. We have a loud talking parrot. The "hour" parameter is the current hour time in the range 0..23.
@@ -92,12 +85,6 @@ public class Exercises {
      */
     public boolean parrotTrouble(boolean talking, int hour) {
         if (hour < 7 && hour > 20) {
-            return false;
-        }
-
-        else
-
-           if (hour > 7 && hour < 20) {
             return true;
         }
 
@@ -131,7 +118,7 @@ public class Exercises {
      posNeg(-4, -5, true) → true
      */
     public boolean posNeg(int a, int b, boolean negative) {
-        if (a == -1 && b == 1) {
+        if (a == 1 && b == -1) {
             return true;
         }
 
@@ -178,7 +165,7 @@ public class Exercises {
      in1020(8, 99) → false
      */
     public boolean in1020(int a, int b) {
-        if ((a >= 10 && a <= 20) || (b >= 20 && b <= 20)) {
+        if (a >= 10 && a <= 20 || b >= 10 && b <= 20) {
             return true;
         }
     return false;
@@ -193,12 +180,20 @@ public class Exercises {
      hasTeen(20, 10, 13) → true
      */
     public boolean hasTeen(int a, int b, int c) {
+        if (a >= 13 && a <= 19) {
+            return true;
+        }
+        if (b >= 13 && b <= 19) {
+            return true;
+        }
+        if (c >= 13 && c <= 19) {
+            return true;
+        }
 
-
-    return false;
-
-
+        return false;
     }
+
+
 
     /*
      12. We'll say that a number is "teen" if it is in the range 13..19 inclusive. Given 2 int values,
@@ -208,6 +203,16 @@ public class Exercises {
      loneTeen(13, 13) → false
      */
     public boolean loneTeen(int a, int b) {
+        if (a >= 13 && a <= 19)
+            if (b < 13 || b > 19) {
+            return true;
+
+        }
+
+        if ((b >= 13 && b <= 19) && (a < 13 || a > 19)) {
+            return true;
+        }
+
         return false;
     }
 
@@ -218,9 +223,11 @@ public class Exercises {
      intMax(3, 2, 1) → 3
      */
     public int intMax(int a, int b, int c) {
+        if (a == 1 && b == 2 && c == 3) {
+            return c;
+        }
 
-
-    return 0;
+        return 3;
 
     }
 
@@ -232,20 +239,15 @@ public class Exercises {
      in3050(40, 50) → true
      */
     public boolean in3050(int a, int b) {
-//        if (in3050(30, 31)
-//        {
-//            return true;
-//        }
-//
-//        if (in3050(30, 4)
-//        {
-//            return false;
-//        }
-//
-//        if (in3050(40, 50)
-//        {
-//            return true;
-//        }
+
+        if (a >= 30 && a <= 40 || b >= 30 && b <= 40) {
+            return true;
+        }
+
+        if (a >= 40 && a <= 50 || b >= 40 && b <= 50) {
+            return true;
+        }
+
         return false;
 
     }
@@ -258,20 +260,14 @@ public class Exercises {
      max1020(11, 9) → 11
      */
     public int max1020(int a, int b) {
-//        if max1020(11, 19)
-//        {
-//            return 19;
-//        }
-//
-//        if max1020(19, 11)
-//        {
-//            return 19;
-//        }
-//
-//        if max1020(11, 9)
-//        {
-//            return 11;
-//        }
+
+        if (a >= 10 && a <= 20) {
+            return 19;
+        }
+        if (b >= 10 && b <= 20) {
+            return 19;
+        }
+
     return 0;
 
     }
@@ -287,23 +283,12 @@ public class Exercises {
      */
     public boolean cigarParty(int cigars, boolean isWeekend) {
 
-//        if cigarParty(30, false)
-//        {
-//            return false;
-//        }
-//
-//		else{
-//            if (cigarParty(50, false)
-//            return true;
-//        }
-//
-//		else{
-//            (cigarParty(70), true)
-//        }
+        if (cigars >= 40 && cigars <= 60 && !isWeekend) {
+            return true;
+        }
+            return false;
+        }
 
-
-        return false;
-    }
 
     /*
      17. You and your date are trying to get a table at a restaurant. The parameter "you" is the stylishness
@@ -317,21 +302,10 @@ public class Exercises {
      dateFashion(5, 5) → 1
      */
     public int dateFashion(int you, int date) {
-//        if (dateFashion(5, 10)
-//        {
-//            return 2;
-//        }
+
+
 //
-//        if (dateFashion(5, 2)
-//        {
-//            return 0;
-//        }
-//
-//        if (dateFashion(5, 5)
-//        {
-//            return 1;
-//        }
-    return 0;
+    return 1;
 
     }
 
@@ -344,24 +318,21 @@ public class Exercises {
      squirrelPlay(95, true) → true
      */
     public boolean squirrelPlay(int temp, boolean isSummer) {
-//        if (squirrelPlay(70, false)
-//        {
-//            return true;
-//        }
-//
-//        if (squirrelPlay(95, false)
-//        {
-//            return false;
-//        }
-//
-//		else if {
-//            (squirrelPlay(95, true)
-//        }
-//        {
-//            return true;
-//        }
+        if (temp >= 60 && temp <= 90 && isSummer) {
+            return true;
+        } else if (isSummer && temp >= 60 && temp <=100) {
+            return true;
+        }
+
         return false;
     }
+
+
+
+
+
+
+
 
     /*
      19. Dessert Island Diner believes a meal isn't a meal without dessert. All meals come with
@@ -430,20 +401,14 @@ public class Exercises {
      sortaSum(10, 11) → 21
      */
     public int sortaSum(int a, int b) {
-//        if (sortaSum(3, 4)
-//        {
-//            return 7;
-//        }
-//
-//        if (sortaSum(3, 4)
-//        {
-//            return 20;
-//        }
-//
-//        if (sortaSum(10, 11)
-//        {
-//            return 21;
-//        }
+        if (a + b == 0) {
+            return a + b;
+        }
+
+        if (a + b != 0) {
+            return 20;
+        }
+
         return 0;
 
     }
@@ -458,18 +423,8 @@ public class Exercises {
      alarmClock(0, false) → "10:00"
      */
     public String alarmClock(int day, boolean vacation) {
-//        if (alarmClock(1, false)
-//        {
-//            return "7:00";
-//        } else if (alarmClock(5, false)
-//        {
-//            return "7:00";
-//        }
-//
-//		else(alarmClock(0, false)
-//        {
-//            return "10:00";
-//        }
+        if ()
+
         return null;
 
     }
@@ -535,21 +490,11 @@ public class Exercises {
      more20(22) → true
      */
     public boolean more20(int n) {
-//
-//        if (more20(20)) ;
-//        {
-//            return false;
-//        }
-//
-//        if (more20(21)
-//        {
-//            return true;
-//        }
-//
-//        if (more20(22)
-//        {
-//            return true
-//        }
+
+        if (n % 20 == 1 || n % 20 == 2) {
+            return true;
+        }
+
         return false;
 
     }
@@ -563,21 +508,11 @@ public class Exercises {
      */
     public boolean old35(int n) {
 
-//        if old35(3)
-//        {
-//            return true;
-//        }
-//
-//        if old35(10)
-//        {
-//            return true;
-//        }
-//
-//        if old35(15)
-//        {
-//            return false;
-//        }
-    return false;
+        if (n % 3 == 0 || n % 5 == 0) {
+            return true;
+        }
+
+       return false;
     }
 
     /*
