@@ -1,0 +1,124 @@
+08:57:59 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Morning!
+08:58:08 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Morning!
+08:58:08 From  Elias Clark, Java, they/them  to  Everyone:
+	Goooood morning y'all!
+08:58:14 From  Mikey Stewart, Java, he/him  to  Everyone:
+	good morning!
+08:58:22 From  Jesse Helsius, Java, He/Him  to  Everyone:
+	good morning all!!
+08:58:38 From  Jay Hill, Java, She/Her  to  Everyone:
+	Good morning
+08:58:51 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	good morning!
+08:59:13 From  Kyle Youngblood  to  Everyone:
+	Morning everyone. Happy almost Friday!
+09:00:08 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	Do you wish me a good morning, or mean that it is a good morning whether I want it or not? Or you simply feel good this morning, or that it is a morning to be good on?
+09:00:19 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	so lotr/hobbit nerd here :P
+09:00:26 From  Kieta, Java, She/Her  to  Everyone:
+	Hey Patti
+09:00:50 From  Andrew Pinner/ Java  to  Everyone:
+	About as confusing as the wording on some of last nights exercises!
+09:01:02 From  Kyle Youngblood  to  Everyone:
+	I love it Kevin!
+09:01:21 From  Angel Scott, Java, she/her  to  Everyone:
+	Preaching to the choir there Andrew
+09:03:05 From  Andrew Pinner/ Java  to  Everyone:
+	Picasso?!
+09:03:17 From  Kieta, Java, She/Her  to  Everyone:
+	My brain is totally melted
+09:03:43 From  Jesse Helsius, Java, He/Him  to  Everyone:
+	good call Jay!
+09:03:51 From  Jacob Chafin, Java, he/him  to  Everyone:
+	^^
+09:27:50 From  Elias Clark, Java, they/them  to  Everyone:
+	dangerCode
+09:28:13 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	⚠️⚠️⚠️
+09:34:31 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Off by one error:		https://en.wikipedia.org/wiki/Off-by-one_error
+09:48:21 From  Elias Clark, Java, they/them  to  Everyone:
+	thank you for asking that Kieta - I was wondering the same thing :)
+09:48:39 From  Kyle Youngblood, he/him  to  Everyone:
+	ditto. Good question.
+09:48:50 From  Kieta, Java, She/Her  to  Everyone:
+	Yw im trying to understand today because yesterday lost me
+09:51:37 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Life Pro Tip:		IntelliJ will format code for you automatically by pressing Ctrl + Alt + L		It isn't full proof but it is better than nothing
+09:52:08 From  Mikey Stewart, Java, he/him  to  Everyone:
+	good to know!
+09:52:16 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	foolproof**
+09:52:19 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	thanks for the tip
+09:55:40 From  Andrew Pinner/ Java  to  Everyone:
+	jay if that keeps looping for ever click on the terminal and hit CTRL + C
+09:59:40 From  Elias Clark, Java, they/them  to  Everyone:
+	i ran into this issue a LOT last night w/ the exercises. I always add too many {}s lol
+09:59:49 From  Donny Sweeney Java (he/him)  to  Everyone:
+	same
+10:00:30 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	me too. I also added a ton of ;'s lol
+10:01:23 From  Andrew Pinner/ Java  to  Everyone:
+	try adding one mroe
+10:02:06 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie time
+10:02:52 From  Mikey Stewart, Java, he/him  to  Everyone:
+	what a sweetie
+10:02:54 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	🐈
+10:31:50 From  Jay Hill, Java, She/Her  to  Everyone:
+	Andrew thanks. I've been trying to keep up with Ben's typing and I type slow.
+10:35:16 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+10:47:54 From  Andrew Pinner/ Java  to  Everyone:
+	move the return into the blck
+11:20:28 From  Andrew Pinner/ Java  to  Everyone:
+	https://lms.techelevator.com/cohorts/19/blocks/7/content_files/02_Logical_Branching/05-methods.md
+11:26:21 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+11:28:09 From  Kieta, Java, She/Her  to  Everyone:
+	I need a tutor sheesh
+11:28:27 From  Kate Kohr, Java, she/her  to  Everyone:
+	you and me both Kieta
+11:28:48 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I'll be in Sococo in room Babbage usually. Feel free to ask any questions you may have
+11:29:06 From  Kate Kohr, Java, she/her  to  Everyone:
+	awesome, thanks Dan
+11:29:24 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I'll be there probably 1:30-Midnight
+11:29:50 From  Kieta, Java, She/Her  to  Everyone:
+	Thanks Dan but I really need one on one, no offense Kate but to many ppl tend to confuse whats already confusing to me
+11:30:09 From  Kate Kohr, Java, she/her  to  Everyone:
+	no offense taken, I feel the same
+11:30:31 From  Donny Sweeney Java (he/him)  to  Everyone:
+	I'll try and be available this afternoon as well
+11:30:38 From  Jay Hill, Java, She/Her  to  Everyone:
+	Thanks. I may check in.
+11:30:41 From  Kieta, Java, She/Her  to  Everyone:
+	ok I think once we can get the logic we can work in groups better
+11:31:17 From  Kieta, Java, She/Her  to  Everyone:
+	Thanks all who understand and help us that are lost
+11:31:45 From  Kate Kohr, Java, she/her  to  Everyone:
+	yes, for sure, thank you all!
+11:32:05 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Tutoring can happen on the weekend as well.  It is realistic to head into week 2 strongly we meet over the next four days.
+11:32:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	if we**
+11:32:41 From  Kieta, Java, She/Her  to  Everyone:
+	ok ill message you after class
+11:34:27 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Please read all LMS modules (give it the ol' college try) and organize at least 5 questions you want answered.  1 on 1 needs to be limited to 30 minutes to be fair for everyone who wants a session
+11:34:44 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	More than willing to meet whomever would like
+11:36:14 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	What does LMS stand for?
+11:36:22 From  Andrew Pinner/ Java  to  Everyone:
+	bootcamp os
+11:37:52 From  Elias Clark, Java, they/them  to  Everyone:
+	ill be popping in and out of being online today as well - if anyone need help feel free to message me on slack :)
+11:38:16 From  Andrew Pinner/ Java  to  Everyone:
+	anyone can message me as well. Though I may not be available for zoom calls
