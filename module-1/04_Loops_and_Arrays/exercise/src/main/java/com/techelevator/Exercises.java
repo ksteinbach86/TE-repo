@@ -10,8 +10,21 @@ public class Exercises {
 	 firstLast6([13, 6, 1, 2, 3]) → false
 	 */
 	public boolean firstLast6(int[] nums) {
-		return false;
+
+		int[] nums = {0, 1, 2, 3, 4, 5, 6};
+		return nums[0];
 	}
+
+	{
+		return nums[7];
+	}
+
+
+
+		return true;
+	}
+
+
 
 	/*
 	 2. Given an array of ints, return true if the array is length 1 or more, and the first element and
@@ -21,8 +34,17 @@ public class Exercises {
 	 sameFirstLast([1, 2, 1]) → true
 	 */
 	public boolean sameFirstLast(int[] nums) {
+
+		int [] nums = 
 		return false;
 	}
+
+
+
+
+
+
+
 
 	/*
 	 3. Return an int array length 3 containing the first 3 digits of pi, {3, 1, 4}.

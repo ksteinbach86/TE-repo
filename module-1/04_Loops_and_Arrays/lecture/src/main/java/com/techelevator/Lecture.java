@@ -166,6 +166,6 @@ public class Lecture {
             return changes;
 
         }
-
+return 0;
     }
 }
