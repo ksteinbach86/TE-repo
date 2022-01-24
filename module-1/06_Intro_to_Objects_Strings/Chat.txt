@@ -1,0 +1,36 @@
+09:07:17 From  Jay Hill, Java, She/Her  to  Everyone:
+	brb
+09:57:20 From  Elias Clark, Java, they/them  to  Everyone:
+	Kate -re: public/private I was thinking of it in terms of like, blueprints and builders. You don't want your builder (or anyone, really) to be able to edit your blueprints willy-nilly!
+10:01:58 From  Kate Kohr, Java, she/her  to  Everyone:
+	Makes sense, thank you Elias!
+10:06:28 From  Kieta, Java, She/Her  to  Everyone:
+	Yes good reference Elias
+10:38:25 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie time again
+10:56:25 From  Danilo Pivaral-Alvarez  to  Everyone:
+	brb
+10:59:22 From  Kate Kohr, Java, she/her  to  Everyone:
+	brb
+11:04:57 From  Payton Picone, Java, He/Him  to  Everyone:
+	brb
+11:15:40 From  Dan Shaw / Java / [He/Him]  to  Ben Langhinrichs (he/him)(Direct Message):
+	From the reading on join:		String fullString = "Chandra;Lakshmi;Madhu;Sri";	String[] separateNames = fullString.split(";");	    // separateNames will contain ["Chandra", "Lakshmi", "Madhu", "Sri"]	String togetherNames = String.join(",", separateNames);	    // togetherNames will equal "Chandra,Lakshmi,Madhu,Sri"
+11:16:06 From  Dan Shaw / Java / [He/Him]  to  Ben Langhinrichs (he/him)(Direct Message):
+	String.join(delimiter, array) I think
+11:28:23 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+11:29:04 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+11:29:06 From  Kieta, Java, She/Her  to  Everyone:
+	for loops, while, do
+11:31:00 From  Angel Scott, Java, she/her  to  Everyone:
+	brb
+11:40:35 From  Donny Sweeney  to  Everyone:
+	brb
+11:40:44 From  Kieta, Java, She/Her  to  Everyone:
+	brb
+11:42:19 From  Jay Hill, Java, She/Her  to  Everyone:
+	brb
+11:46:49 From  Danilo Pivaral-Alvarez  to  Everyone:
+	what is inheritance?
