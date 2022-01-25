@@ -83,14 +83,11 @@ public class Exercises {
 	 findLargest( [987, 1234, 9381, 731, 43718, 8932] ) -> 43718
 	 findLargest( [34070, 1380, 81238, 7782, 234, 64362, 627] ) -> 81238
 	 */
-//	public Integer findLargest(List<Integer> integerList) {
-//
-//		List<Integer> largestValue = new IntegerList<Integer>();
-//		for (Integer maxValue : IntegerList) {
-//			largestValue.add(maxValue);
-//
-//		return null;
-//	}
+	public Integer findLargest(List<Integer> integerList) {
+
+	
+		return null;
+	}
 
 	/*
 	 Given an array of Integers, return a List of Integers containing just the odd values.
@@ -122,7 +119,16 @@ public class Exercises {
 	 */
 	public boolean foundIntTwice(List<Integer> integerList, int intToFind) {
 
-		
+		int count = 0;
+
+		for (Integer twoOrMore : integerList) {
+			if (intToFind == twoOrMore) {
+				count = count + 1;
+			}
+		}
+		if (count == 2) {
+			return true;
+		}
 
 		return false;
 	}
@@ -140,7 +146,23 @@ public class Exercises {
 	HINT: To convert an Integer x to a String, you can use x.toString() in your code. For example, if x = 1, then x.toString() returns "1."
 	 */
 	public List<String> fizzBuzzList(Integer[] integerArray) {
-		return null;
+
+		List<String> fizzBuzzList = new ArrayList<String>();
+
+		for (Integer containsFizzBuzz : integerArray) {
+			if (containsFizzBuzz % 3 == 0 && containsFizzBuzz % 5 == 0) {
+				fizzBuzzList.add("FizzBuzz");
+
+			} else if (containsFizzBuzz % 3 == 0) {
+				fizzBuzzList.add("Fizz");
+			} else if (containsFizzBuzz % 5 == 0) {
+				fizzBuzzList.add("Buzz");
+			} else {
+				fizzBuzzList.add(containsFizzBuzz.toString());
+			}
+		}
+
+		return fizzBuzzList;
 	}
 
 	/*
