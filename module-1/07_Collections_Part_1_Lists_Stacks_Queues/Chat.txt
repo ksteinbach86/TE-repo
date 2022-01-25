@@ -1,0 +1,86 @@
+08:58:43 From Mikey Stewart, Java, he/him To Everyone:
+	good morning!
+08:58:49 From Angel Scott, Java, she/her To Everyone:
+	Gotta fix my camera but I'm here Ben!
+08:59:12 From Jay Hill, Java, She/Her To Everyone:
+	Good morning all.
+09:00:25 From Kieta Gatson, Java, She/Her To Everyone:
+	brb
+09:20:37 From Dan Shaw / Java / [He/Him] To Everyone:
+	Morning, Jay and all!
+09:25:00 From Kyle Youngblood, CLE Java To Everyone:
+	brb
+09:32:12 From Angel Scott, Java, she/her To Everyone:
+	Good suggestion Elias lol!
+09:32:18 From Andrew Pinner/ Java To Everyone:
+	it hurts everytime he says PokemonS
+09:32:33 From Donny Sweeney To Everyone:
+	🤣
+09:32:36 From Kevin Steinbach, Java {he/him] To Everyone:
+	I cringe lol
+09:33:10 From Angel Scott, Java, she/her To Everyone:
+	It makes me cringe but I also find it funny
+09:36:32 From Payton Picone To Everyone:
+	brb
+09:41:27 From Kate Kohr, Java, (She/Her) To Everyone:
+	brb
+09:46:53 From Kieta Gatson, Java, She/Her To Everyone:
+	brb
+09:49:06 From Kieta Gatson, Java, She/Her To Everyone:
+	dancing Dan lol
+09:57:21 From Andrew Pinner/ Java To Everyone:
+	List<String> sortedPokemon = pokemons.stream().sorted().collect(Collectors.toList());
+10:00:42 From Dan Shaw / Java / [He/Him] To Everyone:
+	Collections.sort(pokemons);		//Works only if collection is of type String????
+10:10:32 From Andrew Pinner/ Java To Everyone:
+	That's because you are assigning it to a new list of strings
+10:10:42 From Elias Clark, Java, they/them To Everyone:
+	ruthie time
+10:11:49 From Jay Hill, Java, She/Her To Everyone:
+	Elias you give me cat envy. Ruthie is so cute. I miss my cat who passed 10 years ago.
+10:12:33 From Elias Clark, Java, they/them To Everyone:
+	aww! I am sorry for your loss :( we lost our cat Belbel 2 years ago on the 22nd....
+10:13:38 From Jay Hill, Java, She/Her To Everyone:
+	Sorry : ( The loss sometimes hits hard.
+10:20:49 From Kieta Gatson, Java, She/Her To Everyone:
+	have to step away Spectrum here
+10:22:34 From Kieta Gatson, Java, She/Her To Everyone:
+	he has to shut down my internet, to check outside
+10:24:39 From Elias Clark, Java, they/them To Everyone:
+	Array VS The Cooler Array
+10:25:41 From Mikey Stewart, Java, he/him To Everyone:
+	brb
+10:30:54 From Dan Shaw / Java / [He/Him] To Everyone:
+	Stacks and queues video on data structures:		https://www.youtube.com/watch?v=2wM6_PuBIxY
+10:32:08 From Dan Shaw / Java / [He/Him] To Everyone:
+	2 minutes long, animated and funny
+10:32:58 From Angel Scott, Java, she/her To Everyone:
+	Appreciate you taking the time to link things Dan
+10:33:07 From Dan Shaw / Java / [He/Him] To Everyone:
+	No problem
+10:33:16 From Jay Hill, Java, She/Her To Everyone:
+	Thanks Dan
+10:33:51 From Dan Shaw / Java / [He/Him] To Everyone:
+	The chat is saved as well in our final lecture folder.  You get it when Ben updates our repositories for our exercises.		git pull upstream main		And it should be somewhere in the lecture directory
+10:34:15 From Dan Shaw / Java / [He/Him] To Everyone:
+	The respective lecture directory for each topic that is
+10:46:34 From Mikey Stewart, Java, he/him To Everyone:
+	brb
+10:52:16 From Kieta Gatson, Java, She/Her To Everyone:
+	Im back and everything is fixed
+10:52:33 From Mikey Stewart, Java, he/him To Everyone:
+	woohoo!
+10:52:42 From Elias Clark, Java, they/them To Everyone:
+	Yay!!!!'
+10:52:43 From Nick Steinhouse, Java, he/him To Everyone:
+	🥳
+10:52:44 From Dan Shaw / Java / [He/Him] To Everyone:
+	Welcome back
+10:52:52 From Jacob Chafin, Java, he/him To Everyone:
+	👏
+10:53:03 From Jay Hill, Java, She/Her To Everyone:
+	😀
+10:53:08 From Angel Scott, Java, she/her To Everyone:
+	🙌🏽
+10:53:15 From Kieta Gatson, Java, She/Her To Everyone:
+	I had too many splinters and 1 was bad
