@@ -1,6 +1,7 @@
 package com.techelevator;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Exercises {
@@ -16,7 +17,14 @@ public class Exercises {
 	 array2List( {"Left", "Right", "Forward", "Back"} )  ->  ["Left", "Right", "Forward", "Back"]
 	 */
 	public List<String> array2List(String[] stringArray) {
-		return null;
+
+		List<String> array2List = new ArrayList<String>();
+
+		for (String fruit : stringArray) {
+			array2List.add(fruit);
+		}
+
+		return array2List;
 	}
 
 	/*
@@ -26,7 +34,10 @@ public class Exercises {
 	 list2Array( ["Left", "Right", "Forward", "Back"] )  ->  {"Left", "Right", "Forward", "Back"}
 	 */
 	public String[] list2Array(List<String> stringList) {
-		return null;
+
+		String[] list2Array = stringList.toArray(new String[stringList.size()]);
+
+		return list2Array;
 	}
 
 	/*
@@ -37,7 +48,15 @@ public class Exercises {
 	 no4LetterWords( {"Jack", "Jill", "Jane", "John", "Jim"} )  ->  ["Jim"]
 	 */
 	public List<String> no4LetterWords(String[] stringArray) {
-		return null;
+
+		List<String> no4LetterWords = new ArrayList<String>();
+		for (String exactly4Letters : stringArray) {
+			if (exactly4Letters.length() !=4){
+				no4LetterWords.add(exactly4Letters);
+			}
+		}
+
+		return no4LetterWords;
 	}
 
 	/*
@@ -47,7 +66,15 @@ public class Exercises {
 	 arrayInt2ListDouble( {84, 99, 3285, 13, 877} ) -> [42, 49.5, 1642.5, 6.5, 438.5]
 	 */
 	public List<Double> arrayInt2ListDouble(int[] intArray) {
-		return null;
+
+		List<Double> returnDoubles = new ArrayList<Double>();
+
+		for (Integer toDivide : intArray) {
+			returnDoubles.add(toDivide / 2.0 );
+
+		}
+
+		return returnDoubles;
 	}
 
 	/*
@@ -56,9 +83,14 @@ public class Exercises {
 	 findLargest( [987, 1234, 9381, 731, 43718, 8932] ) -> 43718
 	 findLargest( [34070, 1380, 81238, 7782, 234, 64362, 627] ) -> 81238
 	 */
-	public Integer findLargest(List<Integer> integerList) {
-		return null;
-	}
+//	public Integer findLargest(List<Integer> integerList) {
+//
+//		List<Integer> largestValue = new IntegerList<Integer>();
+//		for (Integer maxValue : IntegerList) {
+//			largestValue.add(maxValue);
+//
+//		return null;
+//	}
 
 	/*
 	 Given an array of Integers, return a List of Integers containing just the odd values.
@@ -67,9 +99,20 @@ public class Exercises {
 	 oddOnly( {734, 233, 782, 811, 3, 9999} ) -> [233, 811, 3, 9999]
 	 */
 	public List<Integer> oddOnly(Integer[] integerArray) {
-		return null;
-	}
 
+		List<Integer> onlyOdds = new ArrayList<Integer>();
+
+		for (Integer justTheOdd : integerArray) {
+
+			if (justTheOdd % 2 != 0) {
+				onlyOdds.add(justTheOdd);
+			}
+		}
+
+
+			return onlyOdds;
+
+	}
 	/*
 	 Given a List of Integers, and an int value, return true if the int value appears two or more times in
 	 the list.
@@ -78,6 +121,9 @@ public class Exercises {
 	 foundIntTwice( [9, 23, 44, 2, 88, 44], 44) -> true
 	 */
 	public boolean foundIntTwice(List<Integer> integerList, int intToFind) {
+
+		
+
 		return false;
 	}
 
