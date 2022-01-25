@@ -322,16 +322,16 @@ public class ExercisesTest {
 
 	@Test
 	public void stringSplosion() {
-		assertEquals("Input: stringSplosion(\"Code\")", "CCoCodCode", exercises.stringSplosion("Code"));
-		assertEquals("Input: stringSplosion(\"abc\")", "aababc", exercises.stringSplosion("abc"));
-		assertEquals("Input: stringSplosion(\"abc\")", "aab", exercises.stringSplosion("ab"));
-		assertEquals("Input: stringSplosion(\"x\")", "x", exercises.stringSplosion("x"));
-		assertEquals("Input: stringSplosion(\"fade\")", "ffafadfade", exercises.stringSplosion("fade"));
-		assertEquals("Input: stringSplosion(\"There\")", "TThTheTherThere", exercises.stringSplosion("There"));
-		assertEquals("Input: stringSplosion(\"Kitten\")", "KKiKitKittKitteKitten", exercises.stringSplosion("Kitten"));
-		assertEquals("Input: stringSplosion(\"Bye\")", "BByBye", exercises.stringSplosion("Bye"));
-		assertEquals("Input: stringSplosion(\"Good\")", "GGoGooGood", exercises.stringSplosion("Good"));
-		assertEquals("Input: stringSplosion(\"Bad\")", "BBaBad", exercises.stringSplosion("Bad"));
+		assertEquals("Input: stringSplosion(\"Code\")", "CCoCodCode", exercises.stringExplosion("Code"));
+		assertEquals("Input: stringSplosion(\"abc\")", "aababc", exercises.stringExplosion("abc"));
+		assertEquals("Input: stringSplosion(\"abc\")", "aab", exercises.stringExplosion("ab"));
+		assertEquals("Input: stringSplosion(\"x\")", "x", exercises.stringExplosion("x"));
+		assertEquals("Input: stringSplosion(\"fade\")", "ffafadfade", exercises.stringExplosion("fade"));
+		assertEquals("Input: stringSplosion(\"There\")", "TThTheTherThere", exercises.stringExplosion("There"));
+		assertEquals("Input: stringSplosion(\"Kitten\")", "KKiKitKittKitteKitten", exercises.stringExplosion("Kitten"));
+		assertEquals("Input: stringSplosion(\"Bye\")", "BByBye", exercises.stringExplosion("Bye"));
+		assertEquals("Input: stringSplosion(\"Good\")", "GGoGooGood", exercises.stringExplosion("Good"));
+		assertEquals("Input: stringSplosion(\"Bad\")", "BBaBad", exercises.stringExplosion("Bad"));
 	}
 
 	@Test
