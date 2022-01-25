@@ -389,7 +389,7 @@ public class Exercises {
     public String stringBits(String str) {
 
         String everyOtherChar = ("");
-            for (int i = 0; i < str.length(); i = 1 + 2) {
+            for (int i = 0; i < str.length(); i = i + 2) {
                 everyOtherChar = everyOtherChar + str.substring(0, i + 1);
             }
                 return everyOtherChar;
