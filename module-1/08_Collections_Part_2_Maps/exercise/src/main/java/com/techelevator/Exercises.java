@@ -177,7 +177,26 @@ public class Exercises {
 	 *
 	 */
 	public Map<String, Integer> last2Revisited(String[] words) {
-		return null;
+		Map<String, Integer> stringToCount = new HashMap<>();
+
+		//Iterate over each word in words
+		for (String word : words) {
+			if (word.length() < 3) {
+				continue;
+			}
+			String lastTwoLetters = word.substring(word.length() - 2);
+			for (int i = 0; i < word.length() - 2; i++) {
+				String currentTwo = word.substring(i, i + 2);
+				if (lastTwoLetters.equals(currentTwo)) {
+					if (!stringToCount.containsKey(word))
+						stringToCount.put(word, 1);
+					else
+						stringToCount.put(word, stringToCount.get(word) + 1);
+				}
+			}
+		}
+		return stringToCount;
 	}
+
 
 }
