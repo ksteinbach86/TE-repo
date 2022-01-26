@@ -439,7 +439,7 @@ public class ExercisesTest {
 		assertThat("last2Revisited([\"hixxhi\", \"xaxxaxaxx\", \"axxxaaxx\"])", output, hasEntry("axxxaaxx", 2));
 
 		output = exercises.last2Revisited(new String[] { "banana", "kiwi", "Hahahahaha" });
-		assertThat("last2Revisited([\"hixxhi\", \"xaxxaxaxx\", \"axxxaaxx\"])", output.size(), equalTo(3));
+		assertThat("last2Revisited([\"banana\", \"kiwi\", \"Hahahahaha\"])", output.size(), equalTo(2));
 		assertThat("last2Revisited([\"banana\", \"kiwi\", \"Hahahahaha\"])", output, hasEntry("banana", 1));
 		assertThat("last2Revisited([\"banana\", \"kiwi\", \"Hahahahaha\"])", output, hasEntry("kiwi", 0));
 		assertThat("last2Revisited([\"banana\", \"kiwi\", \"Hahahahaha\"])", output, hasEntry("Hahahahaha", 3));
