@@ -1,0 +1,136 @@
+09:01:10 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Definitely a good idea imo
+09:01:16 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	brb
+09:05:08 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Morning!
+09:05:23 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	TOP of the morning to you!
+09:05:24 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	good morning!
+09:05:25 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Morning!
+09:05:26 From  Angel Scott, Java, she/her  to  Everyone:
+	Good Morning all!
+09:05:31 From  Elias Clark, Java, they/them  to  Everyone:
+	Mornin y'all!
+09:05:35 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	good morning
+09:06:18 From  Jay Hill, Java, She/Her  to  Everyone:
+	Good morning.
+09:06:37 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	Good morning!!
+09:12:09 From  Mikey Stewart, Java, he/him  to  Everyone:
+	good morning!
+09:12:20 From  Kyle Youngblood, CLE Java  to  Everyone:
+	Morning!
+09:18:53 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+09:25:50 From  Jay Hill, Java, She/Her  to  Everyone:
+	brb
+09:26:03 From  Jacob Chafin, Java, he/him  to  Everyone:
+	brb
+09:36:50 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Wah waaah
+09:36:57 From  Elias Clark, Java, they/them  to  Everyone:
+	RIP
+09:38:57 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Dan Shaw? Who dat? lol lol
+09:39:06 From  Elias Clark, Java, they/them  to  Everyone:
+	Having an existential crisis yet Dan?
+09:39:12 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol
+09:39:27 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Overwhelmed with confusion!
+09:39:39 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	This is not my beautiful house, this is not my beautiful wife!!
+09:40:29 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	(For the Talking Heads fans out there)
+09:40:40 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	🙌
+09:41:14 From  Elias Clark, Java, they/them  to  Everyone:
+	Waters flowing underground, etc.
+09:52:58 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie time
+09:53:12 From  Angel Scott, Java, she/her  to  Everyone:
+	Hello Ruthie!
+09:53:58 From  Elias Clark, Java, they/them  to  Everyone:
+	today she is instead sitting in the dining room chair next to me
+09:54:07 From  Elias Clark, Java, they/them  to  Everyone:
+	a vast improvement over her previous choice of : on my laptop
+09:54:17 From  Elias Clark, Java, they/them  to  Everyone:
+	jk jinxed it. LOL
+09:56:24 From  Andrew Pinner/ Java  to  Everyone:
+	beautiful
+09:57:35 From  Angel Scott, Java, she/her  to  Everyone:
+	Your whiteboard skills are magnificent Ben
+09:58:03 From  Kyle Youngblood, CLE Java  to  Everyone:
+	👏👏👏
+09:58:07 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie greatly appreciated the whiteboard (and the cursor on it) lol
+09:58:25 From  Andrew Pinner/ Java  to  Everyone:
+	Should be in the Cleveland museum of art
+10:15:17 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+10:22:07 From  Andrew Pinner/ Java  to  Everyone:
+	sounds about right
+10:39:13 From  Elias Clark, Java, they/them  to  Everyone:
+	that code aint cute
+10:39:14 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	😵
+10:39:38 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	🤔
+10:39:53 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Yeah don't instantiate objects as arguments passed into functions until you have your sea legs
+10:40:00 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Practice typing every single step out for sure
+10:40:09 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	uhhhhh
+10:40:34 From  Angel Scott, Java, she/her  to  Everyone:
+	The project for this week is gonna be interesting....
+10:40:37 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	😵‍💫
+10:40:59 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Welcome to trial by fire!! (I guess)
+10:41:09 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol
+10:41:10 From  Andrew Pinner/ Java  to  Everyone:
+	if you are lost feel free to stop ben and ask for a better explanation. That is why he is doing this.
+10:42:10 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+10:42:58 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	I need to hire a tutor to be honest Andrew, its to many earlier concepts Im still lost on
+10:43:53 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I can help tutor you no problem
+10:44:30 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	ok thanks Dan
+10:53:36 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Side effect: changing code inside a method that affects other parts of a program
+10:53:50 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Other parts meaning outside the { … } of the method itself
+10:53:58 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	FYI
+11:00:00 From  Ben Langhinrichs (he/him)  to  Everyone:
+	Only now seeing the Talking Heads references. Suffering FOMO from not being able to read the chat in real time. Thinking of burning down the house.
+11:05:10 From  Elias Clark, Java, they/them  to  Everyone:
+	LMAO
+11:05:25 From  Elias Clark, Java, they/them  to  Everyone:
+	We're just too entertaining over here.
+11:05:49 From  Ben Langhinrichs (he/him)  to  Everyone:
+	So long as you aren't falling asleep, I can live with it.
+11:07:11 From  Elias Clark, Java, they/them  to  Everyone:
+	Trust, I am ingesting enough caffeine to make sure of that!!!
+11:14:26 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	I've staved off my caffeine intake up until i'm ready to doze off.
+11:25:53 From  Elias Clark, Java, they/them  to  Everyone:
+	my mom dropped my turntable when I moved a  year ago, it doesn't play anything in pitch anymore. devastating.
+11:26:05 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	ouch
+11:26:10 From  Mikey Stewart, Java, he/him  to  Everyone:
+	rip =[
+11:30:24 From  Elias Clark, Java, they/them  to  Everyone:
+	brb being attacked by my cat
+11:33:12 From  Payton Picone  to  Everyone:
+	brb
+11:35:07 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
