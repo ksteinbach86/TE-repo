@@ -1,0 +1,158 @@
+08:58:30 From  Elias Clark, Java, they/them  to  Everyone:
+	http://discworld.starturtle.net/lpc/
+08:59:42 From  Danilo Pivaral-Alvarez  to  Everyone:
+	Moring y'all. Time to rise n' grind.
+08:59:56 From  Kyle Youngblood, CLE Java  to  Everyone:
+	Good morning everyone!
+08:59:57 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	good morning!
+09:00:04 From  Elias Clark, Java, they/them  to  Everyone:
+	guten morgen!!
+09:00:08 From  Mikey Stewart, Java, he/him  to  Everyone:
+	good morning!
+09:00:09 From  Jay Hill, Java, She/Her  to  Everyone:
+	Good morning!
+09:00:28 From  Angel Scott, Java, she/her  to  Everyone:
+	Morning all!
+09:01:27 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Morning
+09:03:01 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Question for Ben: Is 'static' unique to Java?  Do other languages use a 'static' keyword concept?
+09:03:11 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	k
+09:04:38 From  Danilo Pivaral-Alvarez  to  Everyone:
+	I think most languages are static except python
+09:04:59 From  Angel Scott, Java, she/her  to  Everyone:
+	Wooooooo!!! No new topic tomorrow 🥳
+09:05:06 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Jus want to thank everyone who helps me on a daily, really appreciate it
+09:13:19 From  Elias Clark, Java, they/them  to  Everyone:
+	afk for a sec
+09:14:38 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+09:17:16 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Our homework where we had to come up with 35 different variable names in Week 1 is an example of a complicated, poorly designed Namespace.  Variable names collide into each other and it is a bad time.
+09:17:45 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+09:19:58 From  Elias Clark, Java, they/them  to  Everyone:
+	the access points for the class in a sense
+09:21:10 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Yes.  And also in some sense it's the scope of valid class names.  No same-named Classes will collide if they are in separate packages.
+09:21:27 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Otherwise... you have a bad time.
+09:21:40 From  Elias Clark, Java, they/them  to  Everyone:
+	encapsulation is basically what keeps you from going into the kitchen in a restaurant LOL
+09:22:39 From  Payton Picone  to  Everyone:
+	brb
+09:24:18 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	And encapsulation guarantees the data you need is available inside your class as you port your objects to different parts of your program.		I like to think of it like Mary Had a Little Lamb/…/Everywhere that Mary went, that lamb was sure to go.		The data and methods are the lamb, the object is Mary.  Stuck like glue, you always have what you need in your Object and you can get it by referencing your Object's variable name.
+09:24:56 From  Donny Sweeney  to  Everyone:
+	not Mary had a little lamb 🤣
+09:25:16 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol
+09:25:25 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	#SorryNotSorry
+09:26:39 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Correction: 		the data you need is available inside your OBJECT as you****
+09:27:58 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Single Purpose Applications (SPAs)
+09:34:11 From  Elias Clark, Java, they/them  to  Everyone:
+	guess what.... ruthie time
+09:34:55 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Eating, sorry no camera I'm a slob
+09:41:43 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Grayson: the math needed for your implementation would need CARD_NUMBER % 13 and CARD_NUMBER / 13 respectively
+09:42:32 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	In order to differentiate value and suit, numbers 0-13 are clubs, numbers 14-16 are Hearts, etc
+09:42:34 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+09:44:02 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	Yeah, working with the numbers seems like it would be easier, especially since it's 52 cards divided into 4 sets of 13. i'd rather deal with 1-13A-D than 1-52
+09:44:21 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Bingo.
+09:45:15 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	If you like cryptic arithmetic, by all means go for it though it'll work.  Maybe even a good exercise
+09:47:07 From  Elias Clark, Java, they/them  to  Everyone:
+	afk for a sec
+09:47:09 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	the math in any case would be staggering for the machine.  it's still essentially running 52!
+09:47:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	TYPO TYPO TYPO: 0-12 for Clubs, 13-25 for Hearts ***** 😁
+09:47:50 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	I knew exactly what you meant, and it's sad 😂
+09:48:09 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Off By One Error, won't be the last one.
+09:48:11 From  Angel Scott, Java, she/her  to  Everyone:
+	Yeah I was confused for a sec Dan but I figured that that was what you meant lol
+09:48:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Good eyes!
+09:48:30 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	you were accounting for the Joker at position 0
+09:48:37 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+09:48:39 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Yes... of course...
+09:48:58 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	And the second joker would of course be at value 52... preplanned
+09:49:23 From  Angel Scott, Java, she/her  to  Everyone:
+	LOL. No doubt. Totally intentional.
+09:49:33 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	Symmetry is good
+09:49:35 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	lol
+09:52:39 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	If Joker == 0 then math		Value ---> CARD_NUMBER % 13	Suit -----> CARD_NUMBER / 13		both FAIL.
+10:00:26 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	String myString = "I love to code";		Can cast to Object if you wish by saying:		Object firstTimeSeeingThis = (Object) myString;
+10:00:40 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Polymorphism in action.
+10:01:03 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Clear as mud!
+10:12:33 From  Elias Clark, Java, they/them  to  Everyone:
+	ps: ben, as a former bank teller / CSR : trust me, you 100% WANT to know the type of transfer you are doing LOL. its moreso that when you initiate an ACH, you don't need to know how accounting is going to retrieve and disburse those funds - you just need to know that its gonna happen.
+10:23:15 From  Ben Langhinrichs (he/him)  to  Everyone:
+	Checkpoint: Talking about final and static
+10:30:38 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	int[] intArray = new int[5];		intArray.length ------> public static final int variable		We have already called static final variables in arrays without knowing it
+10:37:50 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^^^ Disregard wrong sorry ^^^^^
+10:59:40 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+11:02:28 From  Elias Clark, Java, they/them  to  Everyone:
+	Oops! All Jokers
+11:02:56 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Clowns to the left of me!	Jokers to the right!	Here I am stuck in the middle with you.
+11:03:13 From  Elias Clark, Java, they/them  to  Everyone:
+	🤡
+11:03:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	(Stealers Wheels - Stuck In The Middle With You)
+11:10:33 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Pseudo coding, or writing a method name before you have the underlying implementation is called Top Down Design.		Imagine would be great if it existed... then use it before it exists!  The error will remind you to implement what you want.
+11:11:00 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Less planning, freestyle coding.  Fake it till you make it
+11:19:12 From  Elias Clark, Java, they/them  to  Everyone:
+	♠️
+11:22:57 From  Elias Clark, Java, they/them  to  Everyone:
+	J❤️
+11:24:47 From  Elias Clark, Java, they/them  to  Everyone:
+	Oops! No Jokers
+11:26:56 From  Elias Clark, Java, they/them  to  Everyone:
+	feels like we're doing a bit of class Inception here LOL
+11:35:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The "offset" refers to the distance in computer memory from the initial reference.  For instance:		int[] array = new int[5;		array is a reference, or pointer, variable.  The distance in memory from that memory address pointer to the first element is zero, because the first element is stored at that address.  Therefore		array[0] -----> first element in the array.
+11:36:54 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The next element in the address is offset from the initial pointer by one memory size of an element, so it is int[1] away from the array pointer.		Sorry it's a confusing idea but that's the origin of the term.
+11:37:07 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	😵‍💫😵‍💫😵‍💫
+11:37:18 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Offset === index (sort of)
+11:39:30 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+11:40:31 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Short circuit:  Having and error check on the left side of a Boolean && expression that will save us from having errors in the right side of the expression.  Ex:		if (myString != null && myString.length() == 5)
+11:41:17 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	If the left hand of the && Boolean expression evaluates to false, the right half is ignored and does not need to be evaluated.  We have 'short circuited' a null pointer exception caused by myString.length(0 in the event myString = null
+11:44:54 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Null pointers cannot call methods.  REPEAT: Null pointers cannot call methods.  It will trigger a NULL POINTER EXCEPTION and you will have a bad time.
+11:49:26 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
