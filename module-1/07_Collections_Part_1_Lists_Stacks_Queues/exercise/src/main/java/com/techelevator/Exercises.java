@@ -85,8 +85,15 @@ public class Exercises {
 	 */
 	public Integer findLargest(List<Integer> integerList) {
 
-	
-		return null;
+		Integer max = 0;
+		for (Integer num : integerList) {
+			if (num > max) {
+				max = num;
+			}
+		}
+
+		return max;
+
 	}
 
 	/*
@@ -174,6 +181,10 @@ public class Exercises {
 	 */
 	public List<Integer> interleaveLists(List<Integer> listOne, List<Integer> listTwo) {
 		return null;
+
+
+
+
 	}
 
 }
