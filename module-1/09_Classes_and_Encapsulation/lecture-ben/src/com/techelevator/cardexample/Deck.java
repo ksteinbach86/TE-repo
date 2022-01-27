@@ -33,6 +33,11 @@ public class Deck {
         this.numberOfCards = listOfCards.size();
     }
 
+    /* to call one constructor from another, use this instead of the class name */
+    public Deck() {
+        this(2);
+    }
+
     public void shuffle() {
         Collections.shuffle(this.listOfCards);
         shuffled = true;
