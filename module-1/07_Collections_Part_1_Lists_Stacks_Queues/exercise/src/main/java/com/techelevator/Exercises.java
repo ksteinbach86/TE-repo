@@ -180,7 +180,24 @@ public class Exercises {
 	 interleaveLists( [1, 2, 3], [4, 5, 6] )  ->  [1, 4, 2, 5, 3, 6]
 	 */
 	public List<Integer> interleaveLists(List<Integer> listOne, List<Integer> listTwo) {
-		return null;
+		List<Integer> newList = new ArrayList<>();
+
+		if (ListOne == null || ListOne.size() == 0) {
+			return ListTwo;
+		} else if (ListTwo == null || ListTwo.size() == 0) {
+			return ListOne;
+		}
+
+		for (int i = 0; i < listOne.size() || i < listTwo.size(); i++) {
+			newList.add(ListOne.get(i));
+		}
+
+		if (i < ListTwo.size()) {
+			newList.add(ListTwo.get(i));
+		}
+
+
+		return newList;
 
 
 

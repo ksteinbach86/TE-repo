@@ -419,9 +419,25 @@ public class Exercises {
      last2("axxxaaxx") → 2
      */
     public int last2(String str) {
+        int last = 0;
 
 
-        return 0;
+        if (str == null || str.length() < 3) {
+            return 0;
+        }
+
+        String lastPair = str.substring(str.length()-2);
+
+        for (int i = 0; i < str.length()-2; i++) {
+            String thisPair = str.substring(i, i+2);
+            if (lastPair.equals(thisPair)) {
+                last++;
+            }
+        }
+
+
+
+        return last;
     }
 
     /*
