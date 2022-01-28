@@ -1,0 +1,212 @@
+09:00:19 From  Danilo Pivaral-Alvarez  to  Everyone:
+	gm
+09:00:28 From  Elias Clark, Java, they/them  to  Everyone:
+	morning yaaall
+09:00:32 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	good morning!
+09:00:33 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	morning!
+09:01:18 From  Jay Hill, Java, She/Her  to  Everyone:
+	Good morning.
+09:01:25 From  Mikey Stewart, Java, he/him  to  Everyone:
+	good morning
+09:01:28 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Morning
+09:02:44 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Good Morning!
+09:03:08 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning
+09:03:28 From  Angel Scott, Java, she/her  to  Everyone:
+	Good Morning all
+09:06:15 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Still don't...
+09:06:25 From  Elias Clark, Java, they/them  to  Everyone:
+	I don't even have a garage!
+09:07:58 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+09:08:05 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+09:08:22 From  Elias Clark, Java, they/them  to  Everyone:
+	Cat -> Round -> Ruthie
+09:11:54 From  Payton Picone  to  Everyone:
+	brb
+09:12:21 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Even frustration..?
+09:12:49 From  Kyle Youngblood, CLE Java  to  Everyone:
+	accurate!
+09:13:39 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	thought this was recording a missed his analogy for Polymorphism, does anyone remember what he said
+09:15:58 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	thanks Jay
+09:16:08 From  Jay Hill, Java, She/Her  to  Everyone:
+	😀
+09:16:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Poly - many	Morph - shape		A thing with many different shapes or forms
+09:16:23 From  Jay Hill, Java, She/Her  to  Everyone:
+	Yup
+09:24:23 From  Mikey Stewart, Java, he/him  to  Everyone:
+	anytime I hear polymorph it makes me wants to play wow again
+09:24:44 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🐸
+09:24:45 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	Same!  Still playing Hearthstone though lol]
+09:24:59 From  Elias Clark, Java, they/them  to  Everyone:
+	it reminds me of yugioh personally lol
+09:25:00 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	🐑
+09:25:10 From  Mikey Stewart, Java, he/him  to  Everyone:
+	rngesus hates me too much to play hearthstone lol
+09:34:29 From  Elias Clark, Java, they/them  to  Everyone:
+	me and IntelliJ got our ears double pierced together on wednesday
+09:35:34 From  Elias Clark, Java, they/them  to  Everyone:
+	my neighbor is hammering?? at 9:35 am??
+09:36:23 From  Jacob Chafin, Java, he/him  to  Everyone:
+	🔨
+09:36:46 From  Angel Scott, Java, she/her  to  Everyone:
+	LOL I had a neighbor outside knocking ice off their gutters at like 6 or 7 this morning
+09:45:21 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🚭🚯		Abstract emojis using abstraction.  I'm sure we all know what these mean... but how?  Exactly, abstraction.
+09:53:38 From  Danilo Pivaral-Alvarez  to  Everyone:
+	brb
+09:55:29 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+10:30:13 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+10:30:29 From  Elias Clark, Java, they/them  to  Everyone:
+	public is the menu, private is the pans lol
+10:32:56 From  Elias Clark, Java, they/them  to  Everyone:
+	mcDonalds.getHamburger();
+10:33:36 From  Elias Clark, Java, they/them  to  Everyone:
+	it summons the hamburger. it doesn't allow you to cook it itself, because the ingredients are private and in the kitchen and you're not allowed back there
+10:34:08 From  Mikey Stewart, Java, he/him  to  Everyone:
+	HamburgerMachineBrokeException
+10:35:11 From  Elias Clark, Java, they/them  to  Everyone:
+	if (isMilkshakeMachineBroken) {	return sadness;		ERROR: isMilkshakeMachineBroken is always == true
+10:35:20 From  Danilo Pivaral-Alvarez  to  Everyone:
+	how to I tell it what kind of burger I want?
+10:35:49 From  Elias Clark, Java, they/them  to  Everyone:
+	mcDonalds.getHamburger(boolean cheese)
+10:36:03 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	icanhazcheeseburger?
+10:36:28 From  Mikey Stewart, Java, he/him  to  Everyone:
+	that just brought me back to 2011
+10:36:47 From  Elias Clark, Java, they/them  to  Everyone:
+	if (meme.age() >= 10) {	return shame;	}
+10:36:47 From  Mikey Stewart, Java, he/him  to  Everyone:
+	time to play league and fail out of school again
+10:36:57 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Haha!
+10:37:04 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Mine was SC2
+10:37:09 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	^^
+10:37:32 From  Elias Clark, Java, they/them  to  Everyone:
+	Ragnarok Online for me personally. Now I dabble in the ffxiv
+10:38:08 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	the diablo series was my jam
+10:38:36 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I played through D2 in 2020, aged like wine
+10:38:42 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	anything/everything blizzard really
+10:39:09 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	anything/everything Microsoft you mean? 😂
+10:39:11 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Well, real Blizzard.  Not fake Activision Blizzard.  I hope Microsoft Blizzard brings back our beloved IP with respect
+10:39:23 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	yes real blizz lol
+10:39:37 From  Mikey Stewart, Java, he/him  to  Everyone:
+	me too. im tryna apply to work on  that new survival game after tech elevator
+10:39:40 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	#SC3 🤞
+10:39:41 From  Elias Clark, Java, they/them  to  Everyone:
+	deck.dealHand(50);		deck.yeet();
+10:40:12 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	yeah on the activision side titanfall 3 would be printing their own money
+10:40:23 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Oh dude Titanfall is the jam
+10:41:05 From  Mikey Stewart, Java, he/him  to  Everyone:
+	i was too bad at it lmao. every new shooter just makes me want to go back and play cs go
+10:42:23 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+10:44:00 From  Danilo Pivaral-Alvarez  to  Everyone:
+	more homework?
+10:44:08 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Perfect Jacob
+10:50:48 From  Andrew Pinner/ Java  to  Everyone:
+	Hey! My GF is was a mail carrier we don't like to make them cry Elli!!! lol
+10:51:03 From  Mikey Stewart, Java, he/him  to  Everyone:
+	😂
+10:51:24 From  Angel Scott, Java, she/her  to  Everyone:
+	Aw we're gonna miss out on Ben's Picasso skills
+10:51:32 From  Andrew Pinner/ Java  to  Everyone:
+	^ bummer
+11:03:04 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+11:03:46 From  Mikey Stewart, Java, he/him  to  Everyone:
+	my code is so ugly for this one lol
+11:03:54 From  Angel Scott, Java, she/her  to  Everyone:
+	Mine too!
+11:04:02 From  Angel Scott, Java, she/her  to  Everyone:
+	Absolutely hideous
+11:04:16 From  Mikey Stewart, Java, he/him  to  Everyone:
+	😂
+11:04:51 From  Cedric Nelson Java, he/him  to  Everyone:
+	brb
+11:08:31 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I put a definition in yesterday's chat for this:
+11:08:32 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Short circuit:  Having and error check on the left side of a Boolean && expression that will save us from having errors in the right side of the expression.  Ex:				if (myString != null && myString.length() == 5)
+11:08:45 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	If the left hand of the && Boolean expression evaluates to false, the right half is ignored and does not need to be evaluated.  We have 'short circuited' a null pointer exception caused by myString.length(0 in the event myString = null
+11:08:55 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Null pointers cannot call methods.  REPEAT: Null pointers cannot call methods.  It will trigger a NULL POINTER EXCEPTION and you will have a bad time.
+11:09:05 From  Jacob Chafin, Java, he/him  to  Everyone:
+	That is a very helpful tool to have for me ^^
+11:09:26 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The only difference is Ben is using an || operator, but the point remains the same.
+11:10:12 From  Angel Scott, Java, she/her  to  Everyone:
+	Null pointers not being able to call methods explains why the first two on the homework due today gave me such a headache lol
+11:10:17 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Exactly
+11:10:35 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🙌
+11:10:54 From  Jacob Chafin, Java, he/him  to  Everyone:
+	👐
+11:11:59 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The difference between reference types (pointers) and primitive types is HUGE! Have to know the difference like the back of your hand but it is not an easy concept to grasp without understanding a little about:		1. Memory allocation	2. Stack memory	3. Heap memory
+11:12:36 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	A good picture will solve all of that ideally
+11:23:37 From  Mikey Stewart, Java, he/him  to  Everyone:
+	if anyone wants to zoom and go through old excerises and compare this weekend id love to
+11:23:45 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Sure
+11:23:46 From  Mikey Stewart, Java, he/him  to  Everyone:
+	i would never think to do that and its clever
+11:25:04 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	There are actually infinitely many solutions to any single problem in computer science.  There is infinite 'noise', or arbitrary solution sets.  John Nash (A Beautiful Mind movie guy) talked a lot about that.  But that's well beside the point.  It's been a talking point about Computer Science for a long time.
+11:26:00 From  Mikey Stewart, Java, he/him  to  Everyone:
+	i love that about it. im the same as Jacob though where im just worried sometimes that what i came up with is bad form
+11:26:16 From  Elias Clark, Java, they/them  to  Everyone:
+	you can poach a hamburger if you need to, its gonna cook it. is it super easy to get it to not cook correctly and not the preferred method? nope, but I mean, it depends on how often youre gonna use the burger n whatnot
+11:26:46 From  Elias Clark, Java, they/them  to  Everyone:
+	^* super easy to ruin it and not the preferred method = yes lol sorry brain tired
+11:27:15 From  Mikey Stewart, Java, he/him  to  Everyone:
+	poached hamburger is a great way to describe my code after 11pm
+11:27:19 From  Jay Hill, Java, She/Her  to  Everyone:
+	brb
+11:27:20 From  Donny Sweeney  to  Everyone:
+	I was once served boiled hamburger meat and I've still never recovered
+11:27:24 From  Elias Clark, Java, they/them  to  Everyone:
+	gwoss
+11:27:37 From  Mikey Stewart, Java, he/him  to  Everyone:
+	🤢
+11:45:41 From  Donny Sweeney  to  Everyone:
+	brb
+11:48:04 From  Andrew Pinner/ Java  to  Everyone:
+	clone, one works and pushes, other pulls, then works, then pushes
+11:59:37 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	👍
+12:05:28 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Impossible to code an talk at the same time
+12:05:35 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🤪
