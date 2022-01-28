@@ -36,9 +36,15 @@ public class Exercises {
 
 		Map<String, String> animalGroupName = new HashMap<String, String>();
 
+
+// if animal does not come up == null == then return unknown
+
+
 		if (animalName == null) {
 			return "unknown";
 		}
+// list of groupings of animals and their congregations
+
 
 			animalGroupName.put("RHINO", "Crash");
 			animalGroupName.put("GIRAFFE", "Tower");
@@ -51,10 +57,15 @@ public class Exercises {
 			animalGroupName.put("DOG", "Pack");
 			animalGroupName.put("CROCODILE", "Float");
 
+// if loop of groupNames containing the animalName in uppercase
+// return said animalName in upper case
+
 			if (animalGroupName.containsKey(animalName.toUpperCase())) {
 				return animalGroupName.get(animalName.toUpperCase());
 
 			}
+// otherwise return unknown
+
 			return "unknown";
 
 	}
@@ -113,18 +124,35 @@ public class Exercises {
 		 * robPeterToPayPaul({"Peter": 2000, "Paul": 30000}) → {"Peter": 2000, "Paul": 30000}
 		 *
 		 */
-		public Map<String, Integer> robPeterToPayPaul (Map < String, Integer > peterPaul){
+		public Map<String, Integer> robPeterToPayPaul (Map < String, Integer > peterPaul) {
 
-//			if (peterPaul.get("Peter") && peterPaul.get("Paul") < 1000); {
+			int peterMoney = peterPaul.get("Peter");
+			int paulMoney = peterPaul.get("Paul");
 
-//			}
+//	if peter has more money than 0
 
+			if (peterMoney > 0 && paulMoney < 1000) {
+				int giveMoneyToPaul = peterMoney / 2;
+				peterPaul.put("Peter", peterMoney - giveMoneyToPaul);
+				peterPaul.put("Paul", paulMoney + giveMoneyToPaul);
+			}
 
+			return peterPaul;
 
-
-
-			return null;
 		}
+
+
+
+//  then transfer / 2 (the money) to Paul
+
+
+//  but only if Paul has < 1000
+
+
+
+
+
+
 
 		/*
 		 * Modify and return the given Map as follows: if "Peter" has $50 or more, AND "Paul" has $100 or more,
