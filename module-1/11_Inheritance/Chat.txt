@@ -1,0 +1,270 @@
+08:59:02 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Mornin'!
+08:59:24 From  Angel Scott, Java, she/her  to  Everyone:
+	Good Morning all!
+08:59:47 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	good morning!
+08:59:59 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	good morning
+09:00:06 From  Kevin Steinbach  to  Everyone:
+	morning!
+09:00:14 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Good Morning!
+09:01:36 From  Kyle Youngblood, CLE Java  to  Everyone:
+	Morning everyone!
+09:02:40 From  Elias Clark, Java, they/them  to  Everyone:
+	guten morgen
+09:03:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Who's stoked for Inheritance!?!?!?
+09:03:54 From  Elias Clark, Java, they/them  to  Everyone:
+	kyle's multiplying
+09:06:38 From  Danilo Pivaral-Alvarez  to  Everyone:
+	i'm super excited for inheritance.
+09:09:29 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	That's the spirit, Danilo!
+09:17:04 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	public static void main(String[] args) {…}		is a static method.  It is easier to program outside of a static method, so typically the first thing you do is 'get out' of the main static method, so you can code freely and not worry about all the rules about static methods.
+09:17:48 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	(Static methods can only 'talk' to other static methods and variables.  Non-static methods can talk to everybody)
+09:19:18 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Also: the ONLY thing the main(String[] args) method does is begin program execution.  It is a very special and reserved method that basically means: START HERE
+09:27:01 From  Elias Clark, Java, they/them  to  Everyone:
+	they're called wheels cos they make you go "wheee!"
+09:27:09 From  Elias Clark, Java, they/them  to  Everyone:
+	wheeeeels I mean
+09:31:34 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+09:31:56 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	⚠️⚠️⚠️ THE SUPER() CALL IN A CONSTRUCTOR MUST BE THE FIRST LINE OF CODE IN THE CONSTRUCTOR OR ELSE YOU WILL HAVE A BAD DAY ⚠️⚠️⚠️
+09:32:23 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Do not put any code before the super call in a constructor! Java will be mad
+09:32:45 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	After the super() call, do anything you'd like 😀
+09:32:54 From  Jacob Chafin, Java, he/him  to  Everyone:
+	😀
+09:33:12 From  Jay Hill, Java, She/Her  to  Everyone:
+	👍
+09:33:16 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	😵‍💫
+09:39:09 From  Elias Clark, Java, they/them  to  Everyone:
+	afk
+09:39:28 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	(Sidenote: this() calls in the constructor must also be the first line of code.  this() calls an overloaded constructor.  super() calls the PARENT'S constructor.  (The Class after the extends keyword at the top of the class.  Example:		public class TandemBike extends Bicycle {…}
+09:39:34 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	TandemBike = Child
+09:39:40 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Bicycle = Parent
+09:39:49 From  Payton Picone  to  Everyone:
+	brb
+09:39:51 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Child class***
+09:39:57 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Parent class***
+09:41:38 From  Elias Clark, Java, they/them  to  Everyone:
+	(back - ruthie is showing interest in our new humidifier....)
+09:42:29 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Note: you can only extend one (1) class, each class can only have exactly one parent in Java
+09:43:08 From  Angel Scott, Java, she/her  to  Everyone:
+	Living the single parent lifestyle
+09:43:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	However, a parent class can also have a parent 🙃😉
+09:43:21 From  Jacob Chafin, Java, he/him  to  Everyone:
+	That's good to know I was thinking about that 	(no extends … extends)
+09:43:39 From  Elias Clark, Java, they/them  to  Everyone:
+	is it possible to get child support from another parent class. its hard being a single parent class these days
+09:43:42 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Exactly, single parents are super parents!
+09:44:09 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Dan you lost me a little
+09:44:25 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Can you clarify during break
+09:46:02 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Classes:		public class Organism {...}	public class Animal {…}	public class Cat {…}		public class Animal extends Organism {….}	public class Cat extends Animal {…}		Cat IS A Animal.  Animal IS A Organism.  Therefore, Cat IS A Organism
+09:46:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Parent of a parent example
+09:47:59 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Thanks
+09:51:14 From  Ben Langhinrichs (he/him)  to  Everyone:
+	I love how Dan holds his mini-seminars in the chat. Interesting side note: the first line thing for super() is Java-compiler dependent, but everything is trending toward a common code base, so you should treat this as a rule although it isn't always. True of both super() and this().
+09:52:00 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	IntelliJ will yell at you if you throw it in there so memorizing that rule is also somewhat moot.
+09:52:14 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Throw it in there (on not the first line)
+09:53:26 From  Ben Langhinrichs (he/him)  to  Everyone:
+	Right. It is nice that IntelliJ is so fussy. It also means that a few things are possible when writing Java via a text editor that are not through IntelliJ. I don't think this is one of them anymore, but it might be interesting to test.
+09:53:44 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	And good to know, definitely something I learned lately is what is system dependent, made me reconsider a lot of my preconceived notions
+09:54:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The text-editor is a syntax finishing school for sure.  Good practice for the masochistic/brave
+09:55:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I just try to add clarification to the new stuff as it comes up in lecture in addition to seeing the code and hearing the concepts for the first time
+09:56:58 From  Angel Scott, Java, she/her  to  Everyone:
+	Your clarification definitely helps a lot of us Dan, myself included. So thank you for taking the time to do it
+09:59:10 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	No problem, I love this stuff.  But as fun as it is to know the 'rules' of a programming language, the important part is solving problems.  We just need to know enough rules to help solve real world problems.  The syntax is somewhat irrelevant.  The big picture is the power to solve problems. Never get bogged down on that which you can look up is my take.  Keep the big goal in mind always especially on these weird rules
+09:59:37 From  Ben Langhinrichs (he/him)  to  Everyone:
+	I'm a big fan of people helping each other understand. One of the hardest things is knowing what people don't understand, so you either bore everybody with details they already get or lose them completely. Having somebody explain at closer to their level is a big help.
+09:59:46 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	great perspective, dan
+10:01:14 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	This stuff is NOT easy but it is POWERFUL.  The upfront learning curve will pay dividends
+10:03:48 From  Elias Clark, Java, they/them  to  Everyone:
+	maybe we're auctioning a very specified bike
+10:04:03 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Tandem tricycles! I can see it now...
+10:04:15 From  Andrew Pinner/ Java  to  Everyone:
+	I am  here for the trikes
+10:04:23 From  Andrew Pinner/ Java  to  Everyone:
+	tricycles
+10:04:26 From  Jacob Chafin, Java, he/him  to  Everyone:
+	^^
+10:04:42 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	MadMax desert style gas mask trike bikes
+10:04:58 From  Andrew Pinner/ Java  to  Everyone:
+	^ this.guy gets it
+10:08:31 From  Angel Scott, Java, she/her  to  Everyone:
+	Could also be auctioning a bike that belonged to a famous cyclist
+10:08:37 From  Angel Scott, Java, she/her  to  Everyone:
+	Do YOU wanna be considered a widely successful cyclist and then be publicly shamed and ridiculed because you're a fraud? Well now you can with the bike Lance Armstrong himself rode!
+10:08:48 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Exactly who came to mind for me hahaha
+10:08:58 From  Elias Clark, Java, they/them  to  Everyone:
+	^^^ LOL
+10:09:02 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+10:10:26 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	A picture is worth a 1,000 words:		https://static.javatpoint.com/images/core/typesofinheritance.jpg
+10:11:01 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The arrows represent the 'extends' keyword
+10:20:25 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Art!
+10:20:55 From  Payton Picone  to  Everyone:
+	I like it Picasso
+10:21:11 From  Jacob Chafin, Java, he/him  to  Everyone:
+	brb
+10:21:18 From  Elias Clark, Java, they/them  to  Everyone:
+	starting a GoFundMe to buy Ben a drawing tablet.
+10:21:51 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Multiple parents brings up a conundrum called the Diamond Inheritance problem.		https://en.wikipedia.org/wiki/Multiple_inheritance#The_diamond_problem
+10:22:01 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Java solves this by enforcing single parent Inheritance.
+10:22:10 From  Angel Scott, Java, she/her  to  Everyone:
+	Always a treat when Picasso Ben makes an appearance
+10:23:11 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	"The "diamond problem" (sometimes referred to as the "Deadly Diamond of Death"[6]) is an ambiguity that arises when two classes B and C inherit from A, and class D inherits from both B and C. If there is a method in A that B and C have overridden, and D does not override it, then which version of the method does D inherit: that of B, or that of C?"
+10:23:30 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Clear as mud! 😵‍💫
+10:23:46 From  Elias Clark, Java, they/them  to  Everyone:
+	need a lawyer to sort out THAT inheritance lol
+10:24:04 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Yeah... when you understand that, you understand inheritance.  Read it in a week
+10:26:27 From  Elias Clark, Java, they/them  to  Everyone:
+	IntelliE
+10:27:01 From  Jacob Chafin, Java, he/him  to  Everyone:
+	intELIj
+10:27:08 From  Elias Clark, Java, they/them  to  Everyone:
+	IntEliasJ
+10:30:00 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Bid inputBid = new Bid(__ARGUMENTS__HERE__);	reserveAuction.placeBid(inputBid);		That is what Ben skipped
+10:30:38 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	You can pass the right side of the assignment of inputBid directly into the placeBid() method
+10:31:08 From  Elias Clark, Java, they/them  to  Everyone:
+	He wouldn't BE Peter Poor if it wasn't for Paul!!!!
+10:31:22 From  Kevin Steinbach  to  Everyone:
+	nooo flashbacks!
+10:31:36 From  Angel Scott, Java, she/her  to  Everyone:
+	My PTSD!!!!!
+10:32:02 From  Elias Clark, Java, they/them  to  Everyone:
+	08 exercises war flashbacks
+10:32:05 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Cast and round, up or down?  Int or double? Trouble trouble!
+10:32:30 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	(I'll see myself out)
+10:32:59 From  Elias Clark, Java, they/them  to  Everyone:
+	Dan are you a witch??? LOL
+10:33:31 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I prefer NerdWarlock, or NerLock
+10:33:33 From  Angel Scott, Java, she/her  to  Everyone:
+	He must surely be a warlock
+10:33:38 From  Angel Scott, Java, she/her  to  Everyone:
+	I knew it!
+10:33:44 From  Elias Clark, Java, they/them  to  Everyone:
+	JavaLock
+10:34:08 From  Elias Clark, Java, they/them  to  Everyone:
+	this bid empty. YEET
+10:34:36 From  Donny Sweeney  to  Everyone:
+	Java is his patron
+10:34:47 From  Elias Clark, Java, they/them  to  Everyone:
+	Pact of the Code
+10:35:23 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Good... good... let the Java Documentation flow through you.  Strike me down with all of your hatred and your journey towards the dark side will be complete!
+10:35:49 From  Kevin Steinbach  to  Everyone:
+	so chaotic good? evil? neutral?
+10:36:24 From  Elias Clark, Java, they/them  to  Everyone:
+	I think if you select pact of the code as your subclass you legally HAVE to be a lawful alignment. otherwise your patron is gonna complain.
+10:36:24 From  Donny Sweeney  to  Everyone:
+	java seems lawful evil.
+10:37:21 From  Elias Clark, Java, they/them  to  Everyone:
+	eh I would say Java's lawful neutral. It doesn't actively fight us like SOME languages do (cough JavaScript)
+10:37:49 From  Andrew Pinner/ Java  to  Everyone:
+	Hey JavaScript is a doll. Most the time
+10:39:36 From  Elias Clark, Java, they/them  to  Everyone:
+	javascript killed my family
+10:39:53 From  Donny Sweeney  to  Everyone:
+	traumatic backstory
+10:43:55 From  Elias Clark, Java, they/them  to  Everyone:
+	it led me to study code and now im a school of Java wizard
+10:52:16 From  Elias Clark, Java, they/them  to  Everyone:
+	Kyle apparently took the pact of the Old One.
+10:52:26 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	We found our warlock
+10:52:48 From  Mikey Stewart, Java, he/him  to  Everyone:
+	Jacob is fluent in abyssal apparently
+10:53:46 From  Kevin Steinbach  to  Everyone:
+	id give inspiration to kyle for that voice. so immersive
+10:54:20 From  Elias Clark, Java, they/them  to  Everyone:
+	kyle can I borrow that voice mod for my dnd game? I've got an idea for an eldritch horror to implement LOL
+10:54:55 From  Andrew Pinner/ Java  to  Everyone:
+	I was about to say, imagine having a DM that used that voice
+10:55:10 From  Elias Clark, Java, they/them  to  Everyone:
+	the dm for my Thursday game has a voice modifier he uses and its SO cool.
+10:56:43 From  Kyle Youngblood, CLE Java  to  Everyone:
+	I have no clue what Zoom's issue is this morning, but my mic and speakers have been wonky all lecture. Sorry for the confusion, but glad I could provide a little entertainment. S/o to Jacob for translating!
+10:56:58 From  Jacob Chafin, Java, he/him  to  Everyone:
+	👌
+10:57:31 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	If I had to guess it's because your voice is coming through your speakers.  The mic is picking up your real voice and also the speakers playing your voice back.  It is best solved with headphones or you can disable playing your voice back through the speakers in the open room
+10:57:51 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Just a guess
+11:05:24 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Tardis country... deep in the matrix
+11:05:48 From  Elias Clark, Java, they/them  to  Everyone:
+	too deep in code inception
+11:20:49 From  Jay Hill, Java, She/Her  to  Everyone:
+	topic: modifying the parent class
+11:20:54 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	ya
+11:21:23 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	1,000,000 classes inherit from 1 parent.  Change parent, 1,000,000 subclasses have a new super power
+11:21:24 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Boom
+11:21:35 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	HUGE ALERT IMPORTANT
+11:21:46 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	WAKE UP
+11:22:03 From  Elias Clark, Java, they/them  to  Everyone:
+	tread VERY carefully w/ parent classes
+11:23:27 From  Elias Clark, Java, they/them  to  Everyone:
+	mess up the parent class and cause generational code trauma
+11:23:32 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Bingo
+11:23:47 From  Donny Sweeney  to  Everyone:
+	its always the parents fault
+11:24:46 From  Danilo Pivaral-Alvarez  to  Everyone:
+	brb
+11:29:47 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+11:39:14 From  Elias Clark, Java, they/them  to  Everyone:
+	the SHOULD you question
+11:44:29 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	In Design that is referred to as a Class Explosion
