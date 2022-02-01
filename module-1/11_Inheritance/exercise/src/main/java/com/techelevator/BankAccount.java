@@ -6,7 +6,7 @@ public class BankAccount {
 
     private String accountHolderName;
     private String accountNumber;
-    private int balance;
+    public int balance;
     private int amount;
     private boolean withdraw;
 
@@ -14,7 +14,16 @@ public class BankAccount {
     // constructor...
 
     public BankAccount(String accountHolderName, String accountNumber) {
-        balance = 0;
+        this.accountHolderName = accountHolderName;
+        this.accountNumber = accountNumber;
+
+
+    }
+
+    public BankAccount(String accountHolderName, String accountNumber, int balance) {
+        this.accountHolderName = accountHolderName;
+        this.accountNumber = accountNumber;
+        this.balance = balance;
 
     }
 
@@ -40,28 +49,26 @@ public class BankAccount {
         return balance;
     }
 
-    public boolean deposit(int amount) {
+    public int deposit(int amount) {
         if (amount > 0) {
             balance = balance + amount;
-            return true;
+            return balance;
         } else {
-            return false;
+            return balance;
         }
     }
 
-    public boolean withdraw(int amount) {
-//        boolean result;
-//        this.amount = amount;
+    public int withdraw(int amountToWithdraw) {
         if (amount > balance) {
-            return false;
+            return balance;
         } else {
             balance = balance - amount;
-            return true;
+            return balance;
         }
 
     }
 
-        return 0;
+
 
 
 }

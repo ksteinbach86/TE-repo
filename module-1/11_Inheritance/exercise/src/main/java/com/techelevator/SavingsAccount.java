@@ -4,26 +4,37 @@ public class SavingsAccount extends BankAccount {
 
     //attribute...
 
-    private double serviceCharge;
+
 
 
     //constructor...
 
-    public SavingsAccount(String accountNumber, String accountName, double serviceCharge) {
-        super(accountNumber, accountName);
+    public SavingsAccount(String accountNumber, String accountName, int balance) {
+        super(accountNumber, accountName, balance);
     }
 
-    public void addServiceCharge() {
-       if (getBalance() > 150.00) {
-           double serviceCharge = getBalance() + 2.00
-       }
-
-
-
+    public SavingsAccount(String accountHolderName, String accountNumber) {
+        super(accountHolderName, accountNumber);
 
     }
 
+
+
+    public int withdraw(int amountToWithdraw) {
+        if (amountToWithdraw > balance) {
+            return balance;
+        } else {
+            balance = balance - amountToWithdraw;
+            return balance;
+        }
+
+    }
 
 
 
 }
+
+
+
+
+
