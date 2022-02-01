@@ -1,0 +1,172 @@
+09:00:30 From  Elias Clark, Java, they/them  to  Everyone:
+	some visual art for our morning enrichment
+09:00:41 From  Kevin Steinbach  to  Everyone:
+	its a good day!
+09:00:57 From  Andrew Pinner/ Java  to  Everyone:
+	dog? or some kind of monster?
+09:01:15 From  Angel Scott, Java, she/her  to  Everyone:
+	To start the day off with Picasso Ben is a treasure
+09:01:39 From  Donny Sweeney  to  Everyone:
+	hellhound.  Is-a Dog
+09:01:54 From  Kevin Steinbach  to  Everyone:
+	omg I get it now!
+09:02:04 From  Andrew Pinner/ Java  to  Everyone:
+	*IS-my dog
+09:12:24 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Kieta with the answers!
+09:12:31 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🙌
+09:12:32 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol
+09:13:01 From  Elias Clark, Java, they/them  to  Everyone:
+	public Pig is my favorite british kids show
+09:13:10 From  Mikey Stewart, Java, he/him  to  Everyone:
+	public pig is me rn
+09:13:43 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Just wait until Zoom learns how to implement scent functionality... it'll be the end of us all
+09:18:01 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Repeat:		Object is the root of all classes.
+09:18:07 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+09:20:27 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Which onomatopoeia to choose from?!?!
+09:20:44 From  Kyle Youngblood, CLE Java  to  Everyone:
+	cat sound = "meh". That works...
+09:20:58 From  Angel Scott, Java, she/her  to  Everyone:
+	^ Very accurate
+09:22:12 From  Kyle Youngblood, CLE Java  to  Everyone:
+	Hearing Ben recite Old McDonald in monotone spoken word is quickly becoming my favorite part of the cohort.
+09:22:19 From  Elias Clark, Java, they/them  to  Everyone:
+	lmao ^^^
+09:23:04 From  Kevin Steinbach  to  Everyone:
+	what cant Ben do?
+09:28:40 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+09:30:46 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+09:40:54 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+09:42:00 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	And... Where should the super call go in the constructor...?
+09:42:13 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	(Or else you'll have a bad time?)
+09:42:40 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	First line in the Constructor! yay!
+09:44:07 From  Angel Scott, Java, she/her  to  Everyone:
+	^ I actually forgot about that in the homework yesterday. My supers were all over the place at first lol
+09:49:05 From  Elias Clark, Java, they/them  to  Everyone:
+	multiple constructors = different degrees of customization allowed.
+09:49:39 From  Elias Clark, Java, they/them  to  Everyone:
+	you want generic cat, you just use the Cat() constructor. but you can name it if you want, and it also sets the nickname in the constructor.
+10:13:16 From  Elias Clark, Java, they/them  to  Everyone:
+	like going to an art gallery. or a museum.
+10:17:29 From  Elias Clark, Java, they/them  to  Everyone:
+	it has to meet the qualifications to join the singable club
+10:19:34 From  Donny Sweeney  to  Everyone:
+	brb
+10:20:15 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Singing tractors!?!?!
+10:20:37 From  Elias Clark, Java, they/them  to  Everyone:
+	SingABLE tractors, Dan. Try to keep up 😛
+10:20:55 From  Elias Clark, Java, they/them  to  Everyone:
+	shh.... tractors sleeping
+10:26:41 From  Elias Clark, Java, they/them  to  Everyone:
+	interfaces are unifying characteristics
+10:29:37 From  Jay Hill, Java, She/Her  to  Everyone:
+	defined: interface
+10:30:43 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	List<> and Map<> are interfaces.  ArrayList() and HashMap implement those interfaces respectively.
+10:31:29 From  Angel Scott, Java, she/her  to  Everyone:
+	^ That's what the question on the quiz was referencing
+10:31:30 From  Elias Clark, Java, they/them  to  Everyone:
+	so List<> is the interface, and it is implemented in ArrayList, LinkedList, Tree?, etc
+10:32:03 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	List<String> myList =new ArrayList<>();		myList is both List<String> and ArrayList<String>
+10:32:13 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	And due to Inheritance myList is also of Object type
+10:32:16 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	And possibly many others.
+10:35:01 From  Elias Clark, Java, they/them  to  Everyone:
+	MyList, in the middle of MyCode.
+10:38:06 From  Mikey Stewart, Java, he/him  to  Everyone:
+	MyBrain = null
+10:38:14 From  Angel Scott, Java, she/her  to  Everyone:
+	Spouse sounds could take so many different turns....
+10:38:19 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol
+10:40:31 From  Elias Clark, Java, they/them  to  Everyone:
+	tractor != spouse
+10:40:41 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Don't knock it till you try it!
+10:40:45 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+10:40:58 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	harvesting love
+10:40:58 From  Elias Clark, Java, they/them  to  Everyone:
+	this is my wife, John Deere
+10:41:12 From  Angel Scott, Java, she/her  to  Everyone:
+	Are we speaking from experience here Dan? lol
+10:41:17 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🥰
+10:41:24 From  Andrew Pinner/ Java  to  Everyone:
+	Something about a big green tractor?
+10:41:31 From  Kyle Youngblood, CLE Java  to  Everyone:
+	😂 @Nick
+10:42:31 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	You could say... I get her motor running.
+10:42:58 From  Angel Scott, Java, she/her  to  Everyone:
+	Ba dum tss
+10:43:06 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Try the steak!
+10:44:38 From  Andrew Pinner/ Java  to  Everyone:
+	pork chop
+10:44:55 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	heyooooo
+10:48:22 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Big picture 💡: Interfaces allow us to unite dissimilar objects in the event they share one specific type of behavior, without needing to add EVERYTHING like Inheritance.  Much more practical and useful.
+10:49:23 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The HOW is not answered by an Interface, just simply the WHAT in the sense of WHAT method MUST it implement
+10:54:48 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+10:54:51 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Also, in some way ArrayList<>() and LinkedList<>() do similar things. They both do what List interface demands, because both ArrayList and LinkedList classes implement List (among other things).
+10:55:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	ArrayList() and LinkedList() are different under the hood in the HOW
+10:56:06 From  Danilo Pivaral-Alvarez  to  Everyone:
+	will calling random be different in ArrayList() than in a LinkedList()?
+10:57:39 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Random == Shuffle?  I would have to look at the Javadoc for exact method names
+10:58:04 From  Angel Scott, Java, she/her  to  Everyone:
+	Ruthie hanging on for dear life lol
+10:58:11 From  Mikey Stewart, Java, he/him  to  Everyone:
+	ruth is out of control
+10:58:18 From  Elias Clark, Java, they/them  to  Everyone:
+	she does NOT want off table.
+10:58:34 From  Elias Clark, Java, they/them  to  Everyone:
+	Ruthie implements Vicious()
+11:01:11 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Danilo, Collections.shuffle(__INSERT__LIST___HERE) is a similar idea.  It accepts all things that implement the List interface.
+11:02:09 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	As far as the actual under the hood mathematics and how randomization works (can anything be truly random in a computer?), they may seed the random number generator differently.  Functionally though, they will have normalized results that will appear, for all intents and purposes, random to our non Mathematician eyes.
+11:03:25 From  Ben Langhinrichs (he/him)  to  Everyone:
+	Monotone spoken verse is my superpower.
+11:16:50 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie is getPrice()less.
+11:16:59 From  Jay Hill, Java, She/Her  to  Everyone:
+	checkpoint: using another interface
+11:18:06 From  Elias Clark, Java, they/them  to  Everyone:
+	dang it ben I just got her to be distracted by something else when she heard her name 😭 now shes back on table
+11:19:50 From  Elias Clark, Java, they/them  to  Everyone:
+	afk for a sec
+11:27:31 From  Elias Clark, Java, they/them  to  Everyone:
+	I think you just nominated yourself to be DM of the java class d&d game, Ben.
+11:28:03 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Objects always have a 'true type', or what they were when they were 'born' with the 'new' keyword
+11:29:11 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	ArrayList<String> can be referred to as Object, List<String>, or ArrayList<String>, but it's true type never changes.
+11:29:51 From  Elias Clark, Java, they/them  to  Everyone:
+	new Elevator pitch line: "What do interfaces and I have in common? We both have a CAN-DO attitude"
+11:30:06 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🤪
+11:33:54 From  Elias Clark, Java, they/them  to  Everyone:
+	grandma cant inherent from her grandkids.
