@@ -12,7 +12,7 @@ public class BankAccount implements Accountable  {
     public BankAccount(String accountHolder, String accountNumber) {
         this.accountHolderName = accountHolder;
         this.accountNumber = accountNumber;
-        this.balance = 0;
+
     }
 
     public BankAccount(String accountHolder, String accountNumber, int balance) {
@@ -40,7 +40,8 @@ public class BankAccount implements Accountable  {
     //methods ...
 
     public int transferTo(BankAccount destinationAccount, int transferAmount) {
-
+        this.balance -= transferAmount;
+        destinationAccount.deposit(transferAmount);
         return balance;
     }
 
@@ -55,7 +56,7 @@ public class BankAccount implements Accountable  {
     }
 
 
-    // Step 3: Make the BankAccount Class accountable?
+
 
 
 
