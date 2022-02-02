@@ -1,0 +1,188 @@
+09:01:38 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+09:03:43 From  Elias Clark, Java, they/them  to  Everyone:
+	oooo my mom has AFIB too, it sucks :(
+09:04:26 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	No problem health first always
+09:04:31 From  Elias Clark, Java, they/them  to  Everyone:
+	^^^^
+09:05:07 From  Jay Hill, Java, She/Her  to  Everyone:
+	Take care of your health Ben. Stay safe.
+09:07:41 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	and morning everyone!
+09:07:56 From  Elias Clark, Java, they/them  to  Everyone:
+	happy morning before the storm y'all
+09:07:58 From  Danilo Pivaral-Alvarez  to  Everyone:
+	gm
+09:07:59 From  Jay Hill, Java, She/Her  to  Everyone:
+	Good morning!
+09:08:08 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	good morning!
+09:10:16 From  Andrew Pinner/ Java  to  Everyone:
+	mornin
+09:14:17 From  Jay Hill, Java, She/Her  to  Everyone:
+	*
+09:14:38 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+09:24:34 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+09:28:59 From  Elias Clark, Java, they/them  to  Everyone:
+	the Requirements to be a FarmAnimal
+09:29:45 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Food for thought (and also part of the quiz): Why choose an abstract class over an Interface? Harumph….
+09:30:15 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	💡BIg Picture Concept 💡
+09:34:01 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Error hydra
+09:35:29 From  Elias Clark, Java, they/them  to  Everyone:
+	fixing code is just as important, if not MORE important, than the actual writing of code lol
+09:35:44 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	definitely more imo
+09:36:28 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Are we programmers or aspiring error message super sleuths?
+09:36:30 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+09:36:31 From  Elias Clark, Java, they/them  to  Everyone:
+	if you cant fix anything, then you cant break anything without it being broken permanently, and then that SUPER, if not completely, limits what you can do WITH your code and how you can grow it
+09:39:25 From  Jay Hill, Java, She/Her  to  Everyone:
+	*
+09:45:36 From  Elias Clark, Java, they/them  to  Everyone:
+	context matters!!
+09:49:20 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The tutorial for this lecture (Day 13) has a great example of Refactoring and clues to when you would actually want to make an Abstract Class in a use-case scenario.  Might want to go through that one carefully.  Also, maybe a good time to talk about refactoring and how Abstract Classes might be made after writing some repetitive classes.
+09:50:35 From  Danilo Pivaral-Alvarez  to  Everyone:
+	I was about ask if we could go through that. I was confuzzled bc the demo class was outside of the package we made.
+09:52:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I'll gladly go through that with you after class
+09:59:06 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	With you and anyone else who wants to also go through it
+09:59:18 From  Danilo Pivaral-Alvarez  to  Everyone:
+	🔫 I'll hold you to that
+10:00:38 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	No problem.  Just DM me on Slack as the best way to ask questions or times to do a zoom call
+10:02:01 From  Elias Clark, Java, they/them  to  Everyone:
+	afk
+10:03:40 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Hey John!
+10:04:34 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Bye John...
+10:06:43 From  Elias Clark, Java, they/them  to  Everyone:
+	(my apologies to everyone who DOES keep the chat open. LOL)
+10:07:29 From  Kevin Steinbach  to  Everyone:
+	so distracting 😉
+10:11:30 From  Elias Clark, Java, they/them  to  Everyone:
+	brb afk
+10:15:30 From  Payton Picone  to  Everyone:
+	brb
+10:15:39 From  Elias Clark, Java, they/them  to  Everyone:
+	no open-concept variables LOL
+10:15:53 From  Elias Clark, Java, they/them  to  Everyone:
+	put some walls up!!!
+10:17:48 From  Jay Hill, Java, She/Her  to  Everyone:
+	*
+10:20:29 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Never noticed that! Good eyes 👀\
+10:21:17 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Oh no! SUPER HAS TO BE FIRST
+10:23:41 From  Donny Sweeney  to  Everyone:
+	"What have I done wrong to my code now?"  - a mood.
+10:24:00 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	😵‍💫😵‍💫😵‍💫
+10:24:10 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	scary mood
+10:24:12 From  Elias Clark, Java, they/them  to  Everyone:
+	You gotta break a few eggs to make an omelette!!
+10:24:37 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	You get a curly brace! And you get a curly brace!!
+10:28:11 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Awareness is the first coat of paint
+10:28:58 From  Elias Clark, Java, they/them  to  Everyone:
+	idk about everyone else but for me the first problem in the exercises always takes the longest to do.... LOL
+10:29:09 From  Angel Scott, Java, she/her  to  Everyone:
+	^Same
+10:29:48 From  Angel Scott, Java, she/her  to  Everyone:
+	That's when everything first starts coming all back to my brain
+10:29:58 From  Elias Clark, Java, they/them  to  Everyone:
+	🎵 its the final Countdown() 🎵
+10:30:02 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The worst feeling is when you look at something and you're a deer in the headlights.  Then the frustration negative feedback loop takes over and you want to throw your laptop out the window.  But IF you are at least aware of some aspect of the code, you have a fighting chance of figuring it out
+10:30:44 From  Elias Clark, Java, they/them  to  Everyone:
+	^^ 👍
+10:30:56 From  Jay Hill, Java, She/Her  to  Everyone:
+	Dan, truth.😖
+10:31:33 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+10:31:44 From  Elias Clark, Java, they/them  to  Everyone:
+	ONE BAND ONE SOUND
+10:33:39 From  Jay Hill, Java, She/Her  to  Everyone:
+	cannot override final
+10:34:11 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^ 🙌
+10:39:38 From  Elias Clark, Java, they/them  to  Everyone:
+	https://nayturr.com/types-of-cows/
+10:39:58 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Poor cow.
+10:40:14 From  Elias Clark, Java, they/them  to  Everyone:
+	existing just to be tipped. an accursed existence.
+10:40:33 From  Jay Hill, Java, She/Her  to  Everyone:
+	That cow might stomp on you.
+10:42:31 From  Elias Clark, Java, they/them  to  Everyone:
+	final = limiting the amount of specificity.
+10:42:48 From  Elias Clark, Java, they/them  to  Everyone:
+	no customizing one cow.
+10:45:15 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Key word: Refactoring
+10:49:11 From  Jay Hill, Java, She/Her  to  Everyone:
+	*
+10:49:25 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+10:49:54 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Instantiate
+10:50:11 From  Angel Scott, Java, she/her  to  Everyone:
+	Yeah I'm used to JavaScript using const instead of final
+10:50:35 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^ and C and other C family languages and like every other programming language ever
+10:51:09 From  Angel Scott, Java, she/her  to  Everyone:
+	Lol. Of course Java just haaaad to be different
+10:53:10 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Middle child programming language
+10:55:14 From  Jay Hill, Java, She/Her  to  Everyone:
+	Don't use static without a clear coherent reason. Avoid
+10:56:27 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	(Good case for maintaining constants, but likely that is it 99% of the time.  Even still, your code will not break if you don't make it static, it will simply take more memory to do the same thing)
+10:56:41 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	a little lost on static
+10:56:51 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	public static final int CONSTANT = VALUE; 		For example
+10:57:15 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^^		That's it for static in a practical sense.
+10:57:28 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+10:57:53 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	It saves computer memory, medium/advanced topic
+10:58:06 From  Jay Hill, Java, She/Her  to  Everyone:
+	refactoring: new info to take into account, rewrite, change info
+10:58:13 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^^
+10:59:32 From  Jay Hill, Java, She/Her  to  Everyone:
+	revolution vs evolution
+10:59:57 From  Elias Clark, Java, they/them  to  Everyone:
+	I have to revolutionize my side project already LOL
+11:00:19 From  Elias Clark, Java, they/them  to  Everyone:
+	started it mid-week 2, whoops
+11:01:41 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^^		Get used to that because you will always be refactoring code you wrote in the past as your understanding and techniques improve.  Have to write it the long way before you write it the short way.  The current short way will probably be the future long way. Repeat.
+11:02:38 From  Elias Clark, Java, they/them  to  Everyone:
+	for me, a good example is like... should i keep working on a piece, especially once my skill level has improved, or should i just start a new piece LOL
+11:03:07 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Both 😁 💻
+11:03:30 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	☕😵‍💫
+11:03:36 From  Kyle Youngblood, CLE Java  to  Everyone:
+	accurate...
+11:04:49 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	💡💡💡!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+11:04:52 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	What Ben just said
+11:05:02 From  Jay Hill, Java, She/Her  to  Everyone:
+	🍵☕🍷🤢
