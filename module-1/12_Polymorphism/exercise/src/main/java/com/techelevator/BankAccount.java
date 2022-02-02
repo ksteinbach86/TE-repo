@@ -1,10 +1,13 @@
 package com.techelevator;
 
-public class BankAccount {
+public class BankAccount  {
 
     private String accountHolderName;
     private String accountNumber;
     private int balance;
+
+
+// constructors
 
     public BankAccount(String accountHolder, String accountNumber) {
         this.accountHolderName = accountHolder;
@@ -18,6 +21,9 @@ public class BankAccount {
         this.balance = balance;
     }
 
+
+   // getters
+
     public String getAccountHolderName() {
         return accountHolderName;
     }
@@ -30,6 +36,14 @@ public class BankAccount {
         return balance;
     }
 
+
+    //methods ...
+
+    public int transferTo(BankAccount destinationAccount, int transferAmount) {
+
+        return balance;
+    }
+
     public int deposit(int amountToDeposit) {
         balance = balance + amountToDeposit;
         return balance;
@@ -39,5 +53,10 @@ public class BankAccount {
         balance = balance - amountToWithdraw;
         return balance;
     }
+
+
+    // Step 3: Make the BankAccount Class accountable?
+
+
 
 }

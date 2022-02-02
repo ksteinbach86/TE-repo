@@ -6,7 +6,7 @@ public class BankAccount {
 
     private String accountHolderName;
     private String accountNumber;
-    public int balance;
+    private int balance;
     private int amount;
     private boolean withdraw;
 

@@ -21,14 +21,13 @@ public class SavingsAccount extends BankAccount {
 
 
     public int withdraw(int amountToWithdraw) {
-        if (amountToWithdraw > balance) {
-            return balance;
+        if (amountToWithdraw > getBalance()) {
+            return getBalance();
         } else {
-            balance = balance - amountToWithdraw;
-            return balance;
+            super.withdraw(amountToWithdraw);
+            return getBalance();
         }
 
-    }
 
 
 
