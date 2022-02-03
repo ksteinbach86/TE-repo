@@ -7,6 +7,7 @@ import org.junit.Test;
 public class ShoppingCartTest {
 
     private ShoppingCart cart;
+    private double totalCost;
 
     @Before
     public void createAndFillCart() {

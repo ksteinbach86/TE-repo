@@ -1,0 +1,128 @@
+09:02:01 From  Patti Hayes, Java, she/her  to  Everyone:
+	Thank you Ben
+09:09:28 From  Elias Clark, Java, they/them  to  Everyone:
+	side projects are both very useful + very intimidating for this reason - infinite freedon* as far as what you can make and have it do!!!	*- as far as java will let you go lol
+09:12:46 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	As IntelliJ itself is written in Java I'd say Java will let you go pretty far
+09:13:12 From  Elias Clark, Java, they/them  to  Everyone:
+	near infinite freedom!
+09:18:22 From  Elias Clark, Java, they/them  to  Everyone:
+	I personally am a chaotic good coder myself.
+09:19:47 From  Payton Picone  to  Everyone:
+	Is the recording on?
+09:23:57 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie time
+09:24:25 From  Jacob Chafin, Java, he/him  to  Everyone:
+	😸
+09:32:18 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+09:33:14 From  Jay Hill, Java, She/Her  to  Everyone:
+	checkpoint: Edge cases
+09:33:59 From  Payton Picone  to  Everyone:
+	brb
+09:37:15 From  Jay Hill, Java, She/Her  to  Everyone:
+	checkpoint: business logic
+09:37:23 From  Jay Hill, Java, She/Her  to  Everyone:
+	brb
+09:40:02 From  Jay Hill, Java, She/Her  to  Everyone:
+	*
+09:43:59 From  Jay Hill, Java, She/Her  to  Everyone:
+	checkpoint: @Test
+09:43:59 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+09:46:15 From  Angel Scott, Java, she/her  to  Everyone:
+	Yeah the test names were not the best yesterday lol
+09:47:49 From  Jay Hill, Java, She/Her  to  Everyone:
+	checkpoint: reading why a test failed
+09:48:52 From  Elias Clark, Java, they/them  to  Everyone:
+	if your check engine light don't work, you're gonna have a BIG issue when you have engine problems.
+09:52:03 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Semantic, clean!
+09:52:15 From  Jay Hill, Java, She/Her  to  Everyone:
+	*
+09:52:20 From  Elias Clark, Java, they/them  to  Everyone:
+	readability : ✅
+09:52:26 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	😍
+09:53:33 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	There is no Assert assert = new Assert(); code
+09:54:37 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The class Assert is the only thing needed to call method.  No instantiation necessary therefore static method.
+10:12:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+10:15:56 From  Danilo Pivaral-Alvarez  to  Everyone:
+	maybe the painters could use the program from our exercise.
+10:16:04 From  Elias Clark, Java, they/them  to  Everyone:
+	^^ LOL
+10:16:13 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	gotta measure those triangle walls
+10:16:18 From  Elias Clark, Java, they/them  to  Everyone:
+	license that program out to them to use!
+10:19:55 From  Elias Clark, Java, they/them  to  Everyone:
+	manual testing sounds like fun. trying to break the program!
+10:21:26 From  Danilo Pivaral-Alvarez  to  Everyone:
+	Meet my friends Pete and Repeat
+10:21:43 From  Elias Clark, Java, they/them  to  Everyone:
+	Re-Pete is a robot, surprise
+10:26:16 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	(Methods never have parameters === never ask for input)
+10:26:41 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Test methods never have parameters****
+10:28:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Loosely coupled code minimizes dependencies.  But there are always dependencies 😒
+10:28:45 From  Elias Clark, Java, they/them  to  Everyone:
+	if I write tightly coupled codes, can I claim those dependencies on my taxes?
+10:29:02 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Yes.  They'll claim your tax software and break it
+10:29:08 From  Elias Clark, Java, they/them  to  Everyone:
+	LMAO
+10:34:11 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+10:39:53 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Measure of precision
+10:40:18 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	https://wp.stolaf.edu/it/gis-precision-accuracy/#:~:text=Precision%20is%20how%20close%20measure,end%20of%20a%20given%20measurement.&text=Accuracy%20is%20how%20close%20a,are%20both%20precise%20and%20accurate.
+10:40:31 From  Jacob Chafin, Java, he/him  to  Everyone:
+	brb
+10:40:52 From  Elias Clark, Java, they/them  to  Everyone:
+	lol Dan I just opened up that article and saw the graph and had vivid war flashbacks to AP Physics.
+10:40:58 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Yep
+10:42:14 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	And, if you really want to go deep:		https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+10:43:34 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	brb
+10:44:29 From  Elias Clark, Java, they/them  to  Everyone:
+	google docs is getting ideas on helpfulness from IntelliJ LOL
+10:52:18 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+10:55:54 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+10:58:04 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🤯
+11:04:27 From  Elias Clark, Java, they/them  to  Everyone:
+	your unit test is acting like a typical Starbucks customer LOL
+11:04:38 From  Elias Clark, Java, they/them  to  Everyone:
+	"I asked for Cream in this test and I got back cream!"
+11:04:52 From  Elias Clark, Java, they/them  to  Everyone:
+	"Who is your coder? I want a refund!"
+11:08:52 From  Jacob Chafin, Java, he/him  to  Everyone:
+	brb
+11:12:36 From  Elias Clark, Java, they/them  to  Everyone:
+	as you grow your code, you gotta grow your tests with it
+11:19:08 From  Jay Hill, Java, She/Her  to  Everyone:
+	@fixMethodOrder
+11:21:05 From  Donny Sweeney  to  Everyone:
+	brb
+11:23:15 From  Jay Hill, Java, She/Her  to  Everyone:
+	first test the constructor
+11:30:17 From  Danilo Pivaral-Alvarez  to  Everyone:
+	brb
+11:33:15 From  Cedric Nelson Java, he/him  to  Everyone:
+	brb
+11:35:58 From  Jay Hill, Java, She/Her  to  Everyone:
+	testing toString
+11:36:00 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The toString() method is part of the Object Class.  All Objects inherit from Object in Java
+11:37:09 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Overriding the toString() method gives you an easy way to print your custom Object in a way that isn't		OBJECT_DATATYPE@HEXADECIMAL_MEMORYADDRESS
