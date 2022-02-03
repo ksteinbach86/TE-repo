@@ -17,5 +17,6 @@ public class CoffeeTest {
         Assert.assertEquals("Decaf", coffee.getBlend());
         Assert.assertEquals(2.99, coffee.getPrice(), 0.00);
         Assert.assertEquals(2, coffee.getAdditions().length);
+        //Assert.assertArrayEquals(new String[]{"cream"}, coffee.getAdditions());
     }
 }
