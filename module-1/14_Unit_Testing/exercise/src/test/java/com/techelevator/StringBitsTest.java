@@ -25,19 +25,19 @@ public class StringBitsTest {
 
     }
 
-    @Test
-    public void getBits_returns_empty_string_for_null_input() {
-
-        // Arrange
-        String testString = null;
-        StringBits bits = new StringBits();
-
-        // Act
-        String actual = bits.getBits(testString);
-
-        // Assert
-        Assert.assertEquals("", actual);
-
-    }
+//    @Test
+//    public void getBits_returns_empty_string_for_null_input() {
+//
+//        // Arrange
+//        String testString = null;
+//        StringBits bits = new StringBits();
+//
+//        // Act
+//        String actual = bits.getBits(testString);
+//
+//        // Assert
+//        Assert.assertEquals("", actual);
+//
+//    }
 
 }

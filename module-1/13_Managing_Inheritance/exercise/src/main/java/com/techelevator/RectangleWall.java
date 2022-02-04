@@ -23,7 +23,7 @@ public class RectangleWall extends Wall {
         return height;
     }
 
-        public int getArea() {
+    public int getArea() {
             return length * height;
         }
 
