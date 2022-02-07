@@ -13,21 +13,15 @@ public class MaxEnd3Test {
     @Test
     public void first_and_last_elements_in_array() {
 
-        // Arrange
-        int i;
-        Integer[] nums = new Integer[0];
-        Integer largerNumber = 0;
-        MaxEnd3Test test = new MaxEnd3Test();
 
-        // Act
-       int actual = (largerNumber);
+        int[] firstOutput = new int[]{1, 2, 3};
+        int[] finalOutput = new int[]{3, 3, 3};
 
-        // Assert
-       Assert.assertArrayEquals((nums), nums);
 
+        int[] actual = things.makeArray(firstOutput);
+
+        Assert.assertArrayEquals(finalOutput, actual);
     }
-
-
 
 
 }
