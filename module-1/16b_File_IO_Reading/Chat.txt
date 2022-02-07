@@ -1,0 +1,80 @@
+08:59:01 From  Donny Sweeney Java (he/him)  to  Everyone:
+	Good Morning!
+08:59:14 From  Andrew Pinner/ Java  to  Everyone:
+	Morning
+08:59:16 From  Angel Scott, Java, she/her  to  Everyone:
+	Good Morning!
+08:59:16 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Good Morning!
+08:59:24 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	good morning!
+08:59:33 From  Nick Steinhouse - Java - (he/him)  to  Everyone:
+	good morning!
+08:59:44 From  Jay Hill, Java, She/Her  to  Everyone:
+	Good morning
+09:00:55 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning everyone
+09:01:18 From  Elias Clark, Java, they/them  to  Everyone:
+	happy week 4!!!!!!!!!!!!!
+09:01:46 From  Angel Scott, Java, she/her  to  Everyone:
+	Capstone week!!! 🙌🏽
+09:02:16 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^ 👀
+09:08:45 From  Andrew Pinner/ Java  to  Everyone:
+	if you need help adding things to GitHub and creating a repo I will gladly help you out
+09:37:57 From  Payton Picone  to  Everyone:
+	brb
+09:42:37 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+09:50:20 From  Jay Hill, Java, She/Her  to  Everyone:
+	brb
+09:51:07 From  Jay Hill, Java, She/Her  to  Everyone:
+	*
+10:07:42 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	is that a cat behind Ben's head?
+10:08:15 From  Elias Clark, Java, they/them  to  Everyone:
+	WHAT A BABY!!!!!!!!!!!!
+10:08:34 From  Elias Clark, Java, they/them  to  Everyone:
+	bye bye baby
+10:18:11 From  Donny Sweeney Java (he/him)  to  Everyone:
+	these error messages are so passive aggressive.
+10:29:05 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	It is an unreachable catch block
+10:30:23 From  Angel Scott, Java, she/her  to  Everyone:
+	It's like when you have unreachable If/Else If logic
+10:31:48 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+10:32:26 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Yes, and also similar to unreachable return statements in methods
+10:34:48 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+10:35:03 From  Angel Scott, Java, she/her  to  Everyone:
+	brb
+10:35:20 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	So, in general, in your catch statements, always START the catch blocks (if you have multiple) with the MOST SPECIFIC Exception, and end the catch blocks with the MOST GENERAL Exception.		The specificity is dependent on how far down the inheritance chain the Exception is.  The Exception class is the most general (and therefore should be last if used at all)
+10:42:45 From  Elias Clark, Java, they/them  to  Everyone:
+	wait, it's all .txt files? 	always has been.
+10:51:02 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	public interface AutoCloseable		An object that may hold resources (such as file or socket handles) until it is closed. The close() method of an AutoCloseable object is called automatically when exiting a try-with-resources block for which the object has been declared in the resource specification header. This construction ensures prompt release, avoiding resource exhaustion exceptions and errors that may otherwise occur.
+10:51:10 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	https://docs.oracle.com/javase/8/docs/api/java/lang/AutoCloseable.html
+10:51:26 From  Elias Clark, Java, they/them  to  Everyone:
+	👍
+10:52:31 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+10:53:05 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	And yes to be clear the Scanner class does implement AutoCloseable
+10:53:06 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Class Scanner	java.lang.Object	java.util.Scanner	All Implemented Interfaces:	Closeable, AutoCloseable, Iterator<String>
+10:53:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
+10:53:59 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Hawkeye Kyle!
+11:12:45 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie time
+11:23:56 From  Elias Clark, Java, they/them  to  Everyone:
+	you shouldn't code an exception for your users pasting in the entirety of the Bee Movie script
+11:28:06 From  Elias Clark, Java, they/them  to  Everyone:
+	\|
+11:28:14 From  Angel Scott, Java, she/her  to  Everyone:
+	^
