@@ -1,0 +1,112 @@
+09:00:23 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Mornin'!
+09:00:36 From  Angel Scott, Java, she/her  to  Everyone:
+	Good morning all!
+09:01:01 From  Elias Clark, Java, they/them  to  Everyone:
+	mrghghhhh (that's good morning after I took Nyquil last night)
+09:01:06 From  Jay Hill, Java, She/Her  to  Everyone:
+	Good morning!
+09:01:11 From  Nick Steinhouse, Java, he/him  to  Everyone:
+	good morning!
+09:01:22 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning all!
+09:20:29 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Much appreciated, that clears things up. Thank you, Ben
+09:21:16 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Tests are definitely a lot of typing
+09:26:44 From  Elias Clark, Java, they/them  to  Everyone:
+	afk for a sec
+09:27:30 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Totally missed putting in break points 😵
+09:29:41 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+09:33:59 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Variables initialized inside of a code block {…} are automatically garbage collected by Java when you hit the closing curly brace '}'
+09:41:26 From  Andrew Pinner/ Java  to  Everyone:
+	Vending machine capstone?
+09:46:45 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Variables initialized inside of a code block {…} === Local Variables
+09:57:32 From  Angel Scott, Java, she/her  to  Everyone:
+	brb
+09:59:42 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	my internet is going in and out
+10:00:10 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	:(
+10:18:08 From  Andrew Pinner/ Java  to  Everyone:
+	I cant even get in the door of my pole barn
+10:19:13 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Good luck
+10:19:33 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	What's a pole barn?
+10:19:57 From  Kyle Youngblood, CLE Java  to  Everyone:
+	barn where you keep the poles obviously
+10:20:01 From  Andrew Pinner/ Java  to  Everyone:
+	^]
+10:20:26 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	collections and maps
+10:20:55 From  Andrew Pinner/ Java  to  Everyone:
+	its a large stick-frame barn/garage
+10:21:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Got it
+10:26:23 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Talk to your duck!
+10:27:23 From  Kyle Youngblood, CLE Java  to  Everyone:
+	great ducking advice ^^
+10:27:27 From  Jay Hill, Java, She/Her  to  Everyone:
+	🗣️🦆🤔
+10:27:49 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	They always said I was a quack...
+10:28:18 From  Kyle Youngblood, CLE Java  to  Everyone:
+	That's why people flock to you for help...
+10:28:19 From  Elias Clark, Java, they/them  to  Everyone:
+	I already was in the habit of talking to myself anyways
+10:30:45 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Here, we are trying to avoid an IndexOutOfBounds exception, that is why it is challenging
+10:31:28 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Or asking for an index that is out of bounds of an array.		If array.length = 10 and I say	array[15] =======> IndexOutOfBoundsException
+10:31:53 From  Cedric Nelson Java, he/him  to  Everyone:
+	brb
+10:31:56 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Hence the questions marks in the code
+10:32:57 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	More specifically, not only Strings, but all Objects should be compared with the equals() method to see if the INTERNAL CONTENTS of the Object are equal.
+10:33:42 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The equals operator '==' only checks to see if they literally point to the same address in memory.  It does not check to see if the STATE (all the instance variables) are the same
+10:34:07 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	String a = "tricky";	String b = a;
+10:34:11 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	a == b works
+10:34:52 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	String a = "tricky";	String b = "tricky"		a == b works ONLY because of efficiency in Java compiler and something called a String Pool
+10:35:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	String a = new String("tricky");	String b = new String("tricky");		a == b ALWAYS fails
+10:35:38 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Despite the internal contents being equal, whereas		String a.equals(b); ALWAYS is true
+10:37:45 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Moral of the story, always use equals() to compare Objects (and Strings)
+10:44:58 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+10:45:52 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+10:49:59 From  Jay Hill, Java, She/Her  to  Everyone:
+	brb
+10:50:59 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	For a Collection to use a ForEach loop, it must implement the Iterable interface.		List implements the Iterable interface therefore it can use a ForEach loop.		That should sort of make sense now
+10:51:39 From  Jay Hill, Java, She/Her  to  Everyone:
+	*
+10:51:54 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	You can see that in the java doc here under the All Super Interfaces heading near the top of the page:		https://docs.oracle.com/javase/8/docs/api/java/util/List.html
+10:52:30 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The Iterable<E> line (don't worry about the E but is called a Generic)
+10:59:08 From  Danilo Pivaral-Alvarez  to  Everyone:
+	brb
+11:01:13 From  Elias Clark, Java, they/them  to  Everyone:
+	i have someone coming 3-5 to see if i need to get my floors replaced so i will not get to ask you your chipotle order Ben :'(
+11:05:13 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Shovel time
+11:07:18 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	breakpoint: loops
+11:28:29 From  Jay Hill, Java, She/Her  to  Everyone:
+	brb
+11:32:13 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	Thanks!
