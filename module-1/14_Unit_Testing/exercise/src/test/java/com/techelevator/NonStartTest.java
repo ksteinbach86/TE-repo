@@ -11,17 +11,19 @@ import org.junit.runners.MethodSorters;
 
 public class NonStartTest {
     @Test
-    public void getString_a() {
+    public void getPartialString_returns_the_correct_string_with_valid_input() {
 
         // Arrange
-        String aTestString = "";
-        NonStartTest partial = new NonStartTest();
+        String testStringA = "Hello";
+        String testStringB = "There";
+        NonStart nonStart = new NonStart();
+        String expected = "ellohere";
 
         // Act
-        String actual = (aTestString);
+        String actual = nonStart.getPartialString(testStringA, testStringB);
 
         // Assert
-        Assert.assertEquals("", actual);
+        Assert.assertEquals(expected, actual);
 
     }
 

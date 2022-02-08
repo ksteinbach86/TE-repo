@@ -10,18 +10,18 @@ import org.junit.runners.MethodSorters;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 
 public class MaxEnd3Test {
-    @Test
-    public void first_and_last_elements_in_array() {
-
-
-        int[] firstOutput = new int[]{1, 2, 3};
-        int[] finalOutput = new int[]{3, 3, 3};
-
-
-        int[] actual = things.makeArray(firstOutput);
-
-        Assert.assertArrayEquals(finalOutput, actual);
-    }
-
-
+//    @Test
+//    public void first_and_last_elements_in_array() {
+//
+//
+//        int[] firstOutput = new int[]{1, 2, 3};
+//        int[] finalOutput = new int[]{3, 3, 3};
+//
+//
+//       // int[] actual = things.makeArray(firstOutput);
+//
+//        Assert.assertArrayEquals(finalOutput, actual);
+//    }
+//
+//
 }
