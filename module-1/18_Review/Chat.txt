@@ -1,0 +1,76 @@
+09:01:42 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Monin'
+09:01:51 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Morning!
+09:01:54 From  Andrew Pinner/ Java  to  Everyone:
+	Good morning!
+09:02:02 From  Jay Hill, Java, She/Her  to  Everyone:
+	Good morning
+09:02:03 From  Elias Clark, Java, they/them  to  Everyone:
+	im out of coffee creamer this morning so it is a solid just morning from me, no good.
+09:02:18 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Ah, having a mourning then
+09:02:24 From  Nick Steinhouse - Java - (he/him)  to  Everyone:
+	morning!
+09:05:43 From  Danilo Pivaral-Alvarez  to  Everyone:
+	sho' nuff it's monin'
+09:17:09 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+09:17:46 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	A QuizMaker HAS A List of Question
+09:17:56 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	A Question HAS A array of potential answers
+09:18:04 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	A Question HAS A correct answer
+09:19:16 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	HAS A ========> has an instance variable of that thing, ex:		public class Question {	    private String correctAnswer	    etc
+09:20:00 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+09:26:52 From  Elias Clark, Java, they/them  to  Everyone:
+	Java.... you doin ok
+09:27:05 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	As regex was not part of the reading I cannot imagine how anyone would understand how to escape a vertical bar in a Regex without knowing it beforehand.
+09:29:09 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Regex, similar to SQL, is a language agnostic sub-topic of computer coding.  You can use Regular Expressions in most if not all programming languages, usually entered in as a String literal (in Java that would be the green stuff in-between the double quotes). For the curious:		https://www.regular-expressions.info/quickstart.html
+09:29:51 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Big picture: Regular expressions allow you to parse, validate, search, and customize String input in literally every imaginable sense.
+09:34:19 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+09:36:05 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie time
+09:39:52 From  Angel Scott, Java, she/her  to  Everyone:
+	brb
+09:51:39 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	*** we should have this logic in the loop per question ***
+09:51:59 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	⚠️
+09:52:32 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	there we go
+09:52:48 From  Payton Picone  to  Everyone:
+	brb
+09:54:56 From  Donny Sweeney Java (he/him)  to  Everyone:
+	its looking pretty gray actually
+09:55:05 From  Donny Sweeney Java (he/him)  to  Everyone:
+	quiz is busted
+09:55:15 From  Elias Clark, Java, they/them  to  Everyone:
+	^ LOL
+09:55:19 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^\
+09:56:36 From  Danilo Pivaral-Alvarez  to  Everyone:
+	quiz is bussin
+10:29:47 From  Jay Hill, Java, She/Her  to  Everyone:
+	brb
+10:30:44 From  Jay Hill, Java, She/Her  to  Everyone:
+	*
+11:01:29 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Semantic satiation is a psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as repeated meaningless sounds.
+11:01:34 From  Elias Clark, Java, they/them  to  Everyone:
+	The Isle of Aisles
+11:02:11 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+11:03:57 From  Angel Scott, Java, she/her  to  Everyone:
+	brb. dog is flipping out over something
+11:08:21 From  Cedric Nelson Java, he/him  to  Everyone:
+	brb
+11:23:07 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Question for 3:00PM:		How can the Aisle names in the folder we are looking for be duplicates?  Doesn't an operating system overwrite things automatically OR force you to change the name if its in the same folder?		And if there are no duplicates (every file will be forced to have its own unique name with the .Whatever.Whatever extension), then the Aisle list will never contain the current file we are looking at... right?		What am I missing?
