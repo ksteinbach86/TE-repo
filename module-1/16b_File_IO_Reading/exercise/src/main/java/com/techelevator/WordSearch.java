@@ -2,93 +2,47 @@ package com.techelevator;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
+
 public class WordSearch {
 
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		String file;
-		String word;
-		String caseSensitive;
 
-		System.out.println("Please enter path to input file >>> ");
-		file = scanner.nextLine();
-		System.out.println("Please enter a word to search");
-		word = scanner.nextLine();
-		System.out.println("Would you like your search to be case sensitive? Y or N ");
-		caseSensitive = scanner.nextLine();
+		System.out.print("What would you like to search for?");
+		String userFileName = scanner.nextLine();
+		File inputLine = new File(userFileName);
+		System.out.println("What is the word you are looking for?");
+		String searchWord = scanner.nextLine();
+		int lineCounter = 1;
+		System.out.println("Is your search word case sensitive? Y/N");
+		boolean isCaseSensitive = scanner.nextLine().toLowerCase().equals("y");
 
-		int count = 0;
-		File userFile = new File(file);
+		try (Scanner fileScanner = new Scanner(inputLine.getAbsoluteFile())) {
+			while (fileScanner.hasNextLine()) {
+				String line = fileScanner.nextLine();
+				if ( !isCaseSensitive) {
+					if (line.toLowerCase().contains(searchWord.toLowerCase())) {
+						System.out.println(lineCounter + ") " + line);
+					}
 
-		try (Scanner userInput = new Scanner(userFile)); {
-			Scanner userInput = null;
-			while (userInput.hasNextLine()) {
-				count++;
-				String lineOfInput = userInput.next();
-
-				if (caseSensitive.equals("n") && userInput.toLowerCase().contains(word.toLowerCase())) {
-					count++;
+				}else {
+					if (line.contains(searchWord)) {
+						System.out.println(lineCounter + ") " + line);
+					}
 				}
-				if (lineOfInput.contains(word) && caseSensitive.equals("y")) {
-					System.out.println(count + ") " + lineOfInput);
-
-				}
+				lineCounter++;
 			}
+		} catch (FileNotFoundException e) {
+			System.out.println("File not found, I'm sorry!");
 		}
+	}
 
-				} catch(FileNotFoundException e) {
-					System.out.println("Your file doesn't exist");
-				}
-
-
-
-
-		}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//	private static File getInputFileFromUser() throws FileNotFoundException {
-//
-//
-//		String path = userInput.nextLine();
-//
-//		File inputFile = new File(path);
-//		if (!inputFile.exists() == false) {
-//			System.out.println(path + " Does not exist");
-//	//		System.exit(1);
-//
-//		} else if (inputFile.isFile() == false) {
-//			System.out.println(path + "is not a file");
-//	//		System.exit(1);
-//
-//		}
-//		return inputFile;
-//
-//	}
-//
-//	public static String wordToSearch() {
-//		Scanner userInput = new Scanner(System.in);
-//
-//		String searchWord = userInput.nextLine();
-//
-//		return searchWord;
-//
-//	}
-
+	}
 
 
 
