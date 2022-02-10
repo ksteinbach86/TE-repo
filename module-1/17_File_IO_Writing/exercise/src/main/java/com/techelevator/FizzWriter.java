@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class FizzWriter {
 
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args)  {
 
 		Scanner input = new Scanner(System.in);
 

@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class FindAndReplace {
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args)  {
 
         // create the search for a word
         Scanner scanner = new Scanner(System.in);
