@@ -12,14 +12,7 @@ public class Lecture {
 
 		Scanner userInput = new Scanner(System.in);
 
-		/*
-		 * The java.io.File class is a representation of file and directory path names.  It provides methods to inspect and
-		 * modify file system objects.
-		 *
-		 * One benefit is that it compensates for differences in Windows and Unix use of '/' and '\' as directory delimiters.
-		 *
-		 * A new instance of File can be created from a String that contains a file system path
-		 */
+
 
 		System.out.print("Enter the path of a file: ");
 		String path = userInput.nextLine();
