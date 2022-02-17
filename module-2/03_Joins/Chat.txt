@@ -1,0 +1,86 @@
+09:04:36 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie time: couch edition
+09:04:58 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning all!
+09:05:07 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Morning
+09:05:08 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	good morning!
+09:05:08 From  Angel Scott, Java, she/her  to  Everyone:
+	Good morning!
+09:08:50 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Good Morning
+09:09:13 From  Donny Sweeney Java (he/him)  to  Everyone:
+	Good morning!
+09:14:34 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Example: Washington, DC, a city not in one of the 50 states
+09:30:54 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol I was lookin at the door like 👀
+09:31:06 From  Jacob Chafin, Java, he/him  to  Everyone:
+	👻
+09:35:41 From  Cedric Nelson Java, he/him  to  Everyone:
+	brb
+09:44:31 From  Elias Clark, Java, they/them  to  Everyone:
+	ON is saying what the two tables have in common essentially
+09:49:31 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	thanks Elias
+10:15:30 From  Elias Clark, Java, they/them  to  Everyone:
+	you can go camping in Death Valley...??
+10:16:20 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	😱
+10:30:07 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	ok Jacob lol
+10:46:12 From  Elias Clark, Java, they/them  to  Everyone:
+	KITTY ON CHAIR
+11:14:28 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+11:36:20 From  Elias Clark, Java, they/them  to  Everyone:
+	me now realizing that genre is like... a French word...?
+11:37:10 From  Elias Clark, Java, they/them  to  Everyone:
+	its definitely not a real word. LOL
+11:38:06 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	France is fakenews as well
+11:38:13 From  Elias Clark, Java, they/them  to  Everyone:
+	france isn't real
+11:38:21 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Facts
+11:38:34 From  Elias Clark, Java, they/them  to  Everyone:
+	france IS NULL;
+11:39:37 From  Elias Clark, Java, they/them  to  Everyone:
+	the crime of being The Joker
+11:39:54 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Sherlock, Jr.  Choice comedy
+11:42:55 From  Elias Clark, Java, they/them  to  Everyone:
+	A DOG'S PURPOSE AS A COMEDY????
+11:43:53 From  Angel Scott, Java, she/her  to  Everyone:
+	Nobody would ever get to see Who framed roger rabbit lol
+11:44:23 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^ sadness!
+11:44:27 From  Payton Picone  to  Everyone:
+	that would be  a crime
+11:44:32 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+11:44:38 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	It is easier to see if you write SQL commands inline instead of skipping lines
+11:45:13 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	FROM movee JOIN movie_genre		Left == movie table	Right == movie_genre table
+11:45:25 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	movie**
+11:48:01 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Is there a way to comment out multiple lines in PostgreSQL like in IntelliJ?
+11:48:06 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Dan I need help after lecture please
+11:48:09 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Great question
+11:48:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Sure
+11:48:19 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	here is what the reading had about this: 		"If it helps, think of the entire SQL query as one long line of text. Then "left" and "right" makes some sense. If you want all the rows in the left table, you use a left outer join:"
+11:48:21 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	ok thanks
+11:48:33 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Exactly to Kevin
+11:49:15 From  Kyle Youngblood, CLE Java  to  Everyone:
+	@Kevin, Thank you; really helpful!
+11:49:23 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	👍
