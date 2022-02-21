@@ -1,0 +1,40 @@
+09:01:15 From Jacob Chafin, Java, he/him To Everyone:
+	Good Morning!
+09:01:31 From Angel Scott, Java, she/her To Everyone:
+	Happy Monday. If you can call it that lol
+09:01:38 From Nick Steinhouse - Java  (he/him) To Everyone:
+	good morning!
+09:01:53 From Kieta Gatson, Java, She/Her To Everyone:
+	Good morning
+09:01:55 From Kevin Steinbach, Java {he/him] To Everyone:
+	Good morning! Love the Jamaican flag. Cedric!
+09:01:55 From Elias Clark, Java, they/them To Everyone:
+	morning y'all
+09:02:01 From JéLeah "Jay" Hill, Java, (She/Her) To Everyone:
+	Mourning Monday Morning
+09:03:13 From Angel Scott, Java, she/her To Everyone:
+	Loving the hair Kieta!
+09:04:23 From Dan Shaw / Java / [He/Him] To Everyone:
+	Morning!
+09:04:38 From Kieta Gatson, Java, She/Her To Everyone:
+	Thanks Angel, I feel like a girl again lol
+09:16:48 From Dan Shaw / Java / [He/Him] To Everyone:
+	Art pieces could also be collaborative, potentially multiple creators making the same sculpture or whatever
+09:19:59 From Angel Scott, Java, she/her To Everyone:
+	Yeah the normal form stuff definitely wasn't sticking when I was reading it this past weekend
+09:20:24 From Angel Scott, Java, she/her To Everyone:
+	Like I got the idea, but I have no idea how I'd explain it lol
+09:35:51 From Payton Picone To Everyone:
+	brb
+09:45:58 From Elias Clark, Java, they/them To Everyone:
+	SQL shows itself to be very scary once more.
+09:46:18 From Mikey Stewart, Java, he/him To Everyone:
+	https://xkcd.com/327/
+09:46:40 From Elias Clark, Java, they/them To Everyone:
+	^^ LOL
+09:50:06 From Elias Clark, Java, they/them To Everyone:
+	I was really confused on how the tests were working the other day so that explanation really helps lol
+10:10:50 From Dan Shaw / Java / [He/Him] To Everyone:
+	Oooo, ahhhh
+10:44:34 From Elias Clark, Java, they/them To Everyone:
+	dbvisualizer makes pgadmin look like a Ferrari lol
