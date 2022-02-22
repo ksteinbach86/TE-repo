@@ -1,0 +1,44 @@
+09:00:35 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Good Morning!
+09:00:43 From  Elias Clark, Java, they/them  to  Everyone:
+	morning all y'all
+09:00:47 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning everyone
+09:01:00 From  Mikey Stewart, Java, he/him  to  Everyone:
+	Good morning
+09:01:23 From  Angel Scott, Java, she/her  to  Everyone:
+	Good mornin
+09:01:30 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	good morning
+09:05:14 From  Kyle Youngblood, CLE Java  to  Everyone:
+	Morning everyone
+09:05:25 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🌞
+09:24:09 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	brb
+09:43:57 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+09:50:14 From  Elias Clark, Java, they/them  to  Everyone:
+	man I missed IntelliJ lol
+10:13:18 From  Angel Scott, Java, she/her  to  Everyone:
+	I don't think I've ever been so lost during a lesson. Nice to know that this is what lack of sleep does to the brain lol
+10:13:37 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^ accurate!
+10:22:30 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Alrighty, so big picture, this has to do with a concept called the Dependency Inversion Principle.  We as programmers only want to 'deal' with databases in a 'high level' kind of way.  So I take the types of commands that I want at a high level and throw that on an interface.  All of the low level things, including typing out the SQL commands as strings, should be abstracted away and hidden behind the simple, realistic method calls like getCity(), deleteCity(), etc.		We only want to use the methods in the interface.  But a database can have many configurations, and in the event that a database with a new configuration is made 'underneath the hood' (perhaps by a server side overhaul?), this whole point is making sure we never have to change our codebase, just simply make a new JdbcCityDao implementation.
+10:23:08 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I hope that helps, maybe...
+10:24:30 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The model is used because it, in the long run, actually is easier to maintain and saves programmers.  The downside is the learning curve of this type of Design Pattern for new programmers
+10:24:43 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	saves programmers time***
+10:43:42 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+11:07:52 From  Danilo Pivaral-Alvarez  to  Everyone:
+	brb
+11:25:23 From  Elias Clark, Java, they/them  to  Everyone:
+	bye kitty
+11:59:09 From  Mikey Stewart, Java, he/him  to  Everyone:
+	ruthie mad
+11:59:47 From  Elias Clark, Java, they/them  to  Everyone:
+	I jiggled her too much
