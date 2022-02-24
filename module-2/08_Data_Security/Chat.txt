@@ -1,0 +1,64 @@
+09:01:21 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Good Morning!
+09:01:38 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie has already tried to step on my laptop this morning.... good or bad omen?
+09:01:42 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning
+09:02:05 From  Danilo Pivaral-Alvarez  to  Everyone:
+	Good morning :)
+09:02:36 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning
+09:03:15 From  Elias Clark, Java, they/them  to  Everyone:
+	im having 'cyber security Is everyones issue' meeting flashbacks
+09:51:32 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	yea I fell for that on ig and lost my whole account
+10:12:48 From  Angel Scott, Java, she/her  to  Everyone:
+	brb
+10:17:21 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	I would have used Shadowfax for Gandalf's password 🐎
+10:17:53 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^ YouShallNotPassword
+10:18:03 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	LOL
+10:18:10 From  Elias Clark, Java, they/them  to  Everyone:
+	LOL to both of yall
+10:18:12 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	that's a lot better, Kyle! haha
+10:20:35 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	26 letters in the alphabet, lower case and uppercase.  52 symbols.  There are ten digits 0-9.  That brings up to 62 symbols.  I also see '=' and '/', that should be 64 symbols.  Is that how that works?
+10:24:34 From  Elias Clark, Java, they/them  to  Everyone:
+	encryption using hiragana/katakana/kanji would be wild LOL
+10:25:40 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Same principle different symbols, have fun! https://memory.loc.gov/diglib/codetables/9.2.html
+10:26:22 From  Elias Clark, Java, they/them  to  Everyone:
+	アアアアアアアア
+10:26:52 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Ahhhhh!
+10:45:12 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	I remember hearing that a 16 character password is currently almost Un-hackable by people/computers today.
+10:46:31 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Has anybody else heard anything else about that?
+10:47:42 From  Andrew Pinner/ Java  to  Everyone:
+	nothing is unbreakable. The longer the password the more possibilities the hard it is to break but not impossible just takes more time.
+10:48:01 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^^^
+10:48:17 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	👍
+10:48:37 From  Angel Scott, Java, she/her  to  Everyone:
+	There was a team of hackers that cracked a variety of passwords, including those that were 16 characters
+10:49:23 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good to know. That's crazy. Did it take a long time?
+10:51:01 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Just Googled it. Less than a hour is crazy.
+11:10:26 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Me to Kieta Gatson, Java, She/Her (Direct Message) 10:59 AM	* Where it says To - scroll up to Everyone
+11:36:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Seems like an extra step to make sure the hashing algorithm does what you want.  Just careful reading of the documentation for case sensitivity etc
+11:37:35 From  Elias Clark, Java, they/them  to  Everyone:
+	this is kinda thinking a bit about UI/UX right? I mean if I personally try 5 times to put in my username/pw and it doesn't work, im gonna just give up and go elsewhere lol
+11:43:59 From  Andrew Pinner/ Java  to  Everyone:
+	What about your Picasso paintings?
+11:44:20 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^^🤣
+11:44:20 From  Angel Scott, Java, she/her  to  Everyone:
+	^Andrew with the important questions
