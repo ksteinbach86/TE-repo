@@ -1,6 +1,7 @@
 package com.techelevator.projects.dao;
 
 import com.techelevator.projects.model.Department;
+import org.springframework.jdbc.support.rowset.SqlRowSet;
 
 import java.util.List;
 

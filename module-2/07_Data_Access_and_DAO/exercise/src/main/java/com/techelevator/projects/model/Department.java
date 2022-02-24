@@ -23,7 +23,7 @@ public class Department {
 	public Long getId() {
 		return id;
 	}
-	
+
 	public void setId(Long id) {
 		this.id = id;
 	}
@@ -32,4 +32,6 @@ public class Department {
 	public String toString() {
 		return this.name;
 	}
+
+
 }
