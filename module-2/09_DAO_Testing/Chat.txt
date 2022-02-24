@@ -1,0 +1,174 @@
+09:13:33 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	It is a magic black box that interacts with SQL
+09:13:52 From  Jacob Chafin, Java, he/him  to  Everyone:
+	I hate it	Also Belated Good Morning All!
+09:14:03 From  Danilo Pivaral-Alvarez  to  Everyone:
+	gm
+09:14:18 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Morning
+09:14:18 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning
+09:14:22 From  Angel Scott, Java, she/her  to  Everyone:
+	Mornin
+09:14:27 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	Good morning
+09:14:39 From  Donny Sweeney Java (he/him)  to  Everyone:
+	Good Morning!
+09:24:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Also, while loops are used when you don't know the total before you start the loop.  For instance, we don't know how many rows will be returned with a SQL query in a database.  If you somehow did know beforehand how many rows would come back, you could use a for loop (for the index)
+09:24:31 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Always use while
+09:24:41 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	cool thanks Dan!
+09:26:33 From  Angel Scott, Java, she/her  to  Everyone:
+	Jay I can explain left joins to you later if you'd like
+09:26:50 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Include me too Angel
+09:27:40 From  Angel Scott, Java, she/her  to  Everyone:
+	Of course! The more the merrier!
+09:27:58 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	@Angel thank you!
+09:33:45 From  Kyle Youngblood, CLE Java  to  Everyone:
+	That was really helpful, thanks for the great questions everyone!
+09:34:19 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Same here ^^ great questions	also Party w/ David WOOoOOO 🥳
+09:46:05 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I solemnly swear to accept TestingDatabaseConfig as a magical black box that makes the thingy work, without question or doubt.  Should I accidentally alter thy file I will beg the my Git overlords for forgiveness and restoration 🤚
+09:46:35 From  Angel Scott, Java, she/her  to  Everyone:
+	So many magical black boxes 😭
+09:46:53 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	I'm solemnly swear that I'll be up to no good at DAO testing...
+09:47:08 From  Angel Scott, Java, she/her  to  Everyone:
+	^^
+09:47:09 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^^
+09:47:28 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	^^^^
+09:49:46 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	First time's a doozie
+09:49:53 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	I always fear that all the laws of physics will fail on the day when I fly lol
+09:49:58 From  Angel Scott, Java, she/her  to  Everyone:
+	Ben's about to get put on a list...….
+09:50:04 From  Elias Clark, Java, they/them  to  Everyone:
+	Ben's side gig as a hijacker
+09:50:38 From  Elias Clark, Java, they/them  to  Everyone:
+	(THIS IS JUST JOKES FBI HAHA JUST FUNNY JOKE)
+09:50:59 From  Angel Scott, Java, she/her  to  Everyone:
+	His FBI agent is furiously taking notes
+09:51:12 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🚨🚨🚨
+09:51:32 From  Danilo Pivaral-Alvarez  to  Everyone:
+	https://www.geeksforgeeks.org/software-engineering-black-box-testing/?ref=lbp
+09:54:14 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol
+09:59:40 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	🤣
+09:59:49 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	👀
+10:00:19 From  Andrew Pinner/ Java  to  Everyone:
+	Welp, looks like that flight is getting cancelled
+10:01:51 From  Donny Sweeney Java (he/him)  to  Everyone:
+	not the fbi agent 🤣
+10:04:53 From  Donny Sweeney Java (he/him)  to  Everyone:
+	Yall ready for your elevator pitches?
+10:05:01 From  Jacob Chafin, Java, he/him  to  Everyone:
+	no
+10:05:39 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	No
+10:06:04 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	no
+10:06:21 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	im feeling sick today
+10:06:31 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	think im comin down with something
+10:06:41 From  Donny Sweeney Java (he/him)  to  Everyone:
+	awww hope you feel better
+10:06:46 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Someone better tell these agents that this boot camp isn't free, we gon start charging
+10:06:54 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	thanks Donny
+10:07:18 From  TSA  to  Everyone:
+	We have the money to pay don't worry
+10:07:22 From  Donny Sweeney Java (he/him)  to  Everyone:
+	did the fbi already grab ben?
+10:07:26 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	wait who is tsa lol lol
+10:07:29 From  Elias Clark, Java, they/them  to  Everyone:
+	I think so
+10:07:45 From  Angel Scott, Java, she/her  to  Everyone:
+	What did I just come back to 🤣
+10:07:52 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Donny im jus jokin, I jus don't want to do pitch
+10:08:15 From  Donny Sweeney Java (he/him)  to  Everyone:
+	🤣
+10:08:55 From  Donny Sweeney Java (he/him)  to  Everyone:
+	the pandemic is a great excuse tho
+10:09:07 From  Donny Sweeney Java (he/him)  to  Everyone:
+	the only good thing its given us
+10:19:18 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	System Under Test
+10:22:21 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	It's a mouthful, in JdbcCityDao.java, the System Under Test (sut) is the Java Database Connectivity (Jdbc) City Data Access Object (Dao)
+10:22:35 From  Elias Clark, Java, they/them  to  Everyone:
+	so the sut is essentially the testing database object?
+10:22:39 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Clear as mud!
+10:23:34 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Yes.  Each Jdbc____Dao needs its own test.  The sut in each test is an instance of the Jdbc____Dao object.  It is stored in that private instance field under the generic name sut (system under test) for each test file
+10:24:13 From  Elias Clark, Java, they/them  to  Everyone:
+	😵‍💫
+10:24:14 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	the Jdbc___Dao object is the object that actually does all things related to SQL queries for your database, and turns it into magic Java jibber jabber.  It is magic
+10:24:28 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+10:24:31 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	🤪
+10:25:22 From  Angel Scott, Java, she/her  to  Everyone:
+	sut is essentially just the name FOR the jdbc object that gets created before each test correct?
+10:26:14 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Yes.  The Jdbc___Dao object represents a connection or system as a whole.  That is the system under test, therefore saved as sut
+10:26:30 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Two level stack (database to Java language)
+10:26:36 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	No front end... yet
+10:28:46 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Front End	↑   |	|    |	|    |	Java	|    |	|    ↓	Database
+10:29:51 From  Angel Scott, Java, she/her  to  Everyone:
+	^^ The Fullstack
+10:30:42 From  Danilo Pivaral-Alvarez  to  Everyone:
+	The whole enchilada
+10:30:44 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	😃😮
+10:31:38 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	These tests are therefore called Integration tests.  The java language is integrated with the PostgreSQL database.
+10:31:53 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Unlike Unit tests, which test individual working parts of the Java language
+10:36:48 From  Donny Sweeney Java (he/him)  to  Everyone:
+	brb
+10:44:38 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	brb
+10:49:35 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+11:20:36 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+11:21:26 From  Elias Clark, Java, they/them  to  Everyone:
+	I have to appreciate how verbose PostgreSQL is when it comes to errors....
+11:28:32 From  Elias Clark, Java, they/them  to  Everyone:
+	brb
+11:33:56 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	brb
+11:36:55 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	*
+11:38:30 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	This test will not_un_fail_if_passes
+11:46:02 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	🤬
+11:46:17 From  Angel Scott, Java, she/her  to  Everyone:
+	^^😂
+11:49:08 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	😭
+11:49:50 From  Elias Clark, Java, they/them  to  Everyone:
+	🙏 thank you
+11:50:08 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Thanks Ben!
