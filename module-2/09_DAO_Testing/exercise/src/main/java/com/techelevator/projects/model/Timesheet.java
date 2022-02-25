@@ -1,5 +1,7 @@
 package com.techelevator.projects.model;
 
+import com.techelevator.projects.dao.TimesheetDao;
+
 import java.time.LocalDate;
 
 public class Timesheet {
@@ -10,6 +12,7 @@ public class Timesheet {
     private double hoursWorked;
     private boolean billable;
     private String description;
+
 
     public Timesheet() {}
 

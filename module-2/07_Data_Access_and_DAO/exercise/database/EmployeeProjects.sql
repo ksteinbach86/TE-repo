@@ -1,3 +1,6 @@
+SELECT *
+FROM employee;
+
 BEGIN TRANSACTION;
 
 DROP TABLE IF EXISTS department, employee, project, project_employee, timesheet CASCADE;
