@@ -17,19 +17,65 @@ public class AuctionService {
 
 
     public Auction add(Auction newAuction) {
-        // place code here
-        return null;
+        Auction returnedAuction = null;
+
+        HttpHeaders headers = new HttpHeaders();
+        headers.setContentType(MediaType.APPLICATION_JSON);
+        HttpEntity<Auction> entity = new HttpEntity<>(newAuction, headers);
+
+        try {
+            returnedAuction = restTemplate.postForObject(API_BASE_URL, entity,
+                    Auction.class);
+        }
+        catch (RestClientResponseException e) {
+            BasicLogger.log(e.getRawStatusCode() + " : " + e.getStatusText());
+        }
+        catch (ResourceAccessException e) {
+            BasicLogger.log(e.getMessage());
+        }
+
+        return returnedAuction;
+
     }
 
     public boolean update(Auction updatedAuction) {
-        // place code here
-        return false;
+        boolean returnValue = false;
+
+        HttpHeaders headers = new HttpHeaders();
+        headers.setContentType(MediaType.APPLICATION_JSON);
+        HttpEntity<Auction> entity = new HttpEntity<Auction>(updatedAuction, headers);
+
+        try {
+            restTemplate.put(API_BASE_URL + updatedAuction.getId(), entity);
+            returnValue = true;
+        }
+        catch (RestClientResponseException e) {
+            BasicLogger.log(e.getRawStatusCode() + " : " + e.getStatusText());
+        }
+        catch (ResourceAccessException e) {
+            BasicLogger.log(e.getMessage());
+        }
+
+        return returnValue;
     }
 
     public boolean delete(int auctionId) {
-        // place code here
-        return false;
+        boolean success = false;
+
+        try {
+            restTemplate.delete(API_BASE_URL + auctionId);
+            success = true;
+        }
+        catch (RestClientResponseException e) {
+            BasicLogger.log(e.getRawStatusCode() + " : " + e.getStatusText());
+        }
+        catch (ResourceAccessException e) {
+            BasicLogger.log(e.getMessage());
+        }
+
+        return success;
     }
+
 
     public Auction[] getAllAuctions() {
         Auction[] auctions = null;
