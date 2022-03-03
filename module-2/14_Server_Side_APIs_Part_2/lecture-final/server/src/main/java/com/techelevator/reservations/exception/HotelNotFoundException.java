@@ -10,4 +10,9 @@ public class HotelNotFoundException extends Exception {
     public HotelNotFoundException() {
         super("Hotel not found.");
     }
+
+    @Override
+    public synchronized Throwable fillInStackTrace() {
+        return this;
+    }
 }

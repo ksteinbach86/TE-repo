@@ -10,4 +10,9 @@ public class ReservationNotFoundException extends Exception {
     public ReservationNotFoundException() {
         super("Reservation not found.");
     }
+
+    @Override
+    public synchronized Throwable fillInStackTrace() {
+        return this;
+    }
 }
