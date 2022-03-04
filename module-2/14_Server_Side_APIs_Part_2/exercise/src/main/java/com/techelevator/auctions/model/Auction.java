@@ -3,14 +3,25 @@ package com.techelevator.auctions.model;
 import javax.validation.constraints.DecimalMin;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Positive;
 
 public class Auction {
 
+    //Step Three: Add data validation codes here:
+
     private int id;
+    @NotBlank(message = "The title field should not be blank.")
     private String title;
+    @NotBlank(message = "The description field should not be blank.")
     private String description;
+    @NotBlank(message = "The user field should not be blank.")
     private String user;
+    @Positive(message = "The currentBid field should be greater than 0.")
     private double currentBid;
+
+
+
+
 
     public Auction() {
     }
@@ -22,7 +33,8 @@ public class Auction {
         this.currentBid = currentBid;
     }
 
-    public Auction(int id, String title, String description, String user, double currentBid) {
+    public Auction(int id, String title, String description, String user,
+                   double currentBid) {
         this.id = id;
         this.title = title;
         this.description = description;
@@ -51,7 +63,8 @@ public class Auction {
     }
 
     public String currentBidToString() {
-        return id + ": " + title + " | Current Bid: " + currentBid;
+        return id + ": " + title + " | Current Bid: "
+                + currentBid;
     }
 
     public void setId(int id) {
@@ -76,7 +89,8 @@ public class Auction {
 
     @java.lang.Override
     public java.lang.String toString() {
-        return "Auction{" + "id=" + id + ", title='" + title + '\'' + ", description='" + description + '\''
+        return "Auction{" + "id=" + id + ", title='" + title + '\'' + ", description='"
+                + description + '\''
                 + ", user='" + user + '\'' + ", currentBid=" + currentBid + '}';
     }
 }
