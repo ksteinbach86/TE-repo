@@ -1,0 +1,68 @@
+09:00:37 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Good Morning!
+09:01:22 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning!
+09:01:31 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	good morning!
+09:01:34 From  Elias Clark, Java, they/them  to  Everyone:
+	morning all y'all!!
+09:02:33 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	Morning
+09:03:44 From  Elias Clark, Java, they/them  to  Everyone:
+	got to see tons of cute cats this weekend - once we got it to work anyways LOL
+09:05:54 From  Elias Clark, Java, they/them  to  Everyone:
+	hi tasha!!!!!!
+09:10:08 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+09:21:01 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	Good job Grayson!!
+09:21:26 From  Jacob Chafin, Java, he/him  to  Everyone:
+	^^ Good job
+09:43:48 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	my client wont run
+09:43:52 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	help someone
+09:44:19 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	nvm I got it now
+09:44:38 From  Jacob Chafin, Java, he/him  to  Everyone:
+	🙌
+09:46:18 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+09:51:05 From  Ben Langhinrichs (he/him)  to  Everyone:
+	https://jwt.io/#debugger-io
+09:54:49 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	Pretty sure that date is in 2034
+09:55:46 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	(when the number of seconds since January 1, 1970 exceeds the maximum number that can be stored in memory for that date)
+09:56:32 From  Elias Clark, Java, they/them  to  Everyone:
+	I was reading about it last night - theres a minor kerfuffle in 2034, and then the next BIG problem w/ unix epoch time is gonna be after the heat death of the solar system so we're good LOL
+10:19:27 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	brb
+10:27:30 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb
+10:28:58 From  Danilo Pivaral-Alvarez  to  Everyone:
+	Ok I like it Picasso
+10:30:57 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^ 😂
+11:00:46 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+11:01:19 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+11:23:36 From  Elias Clark, Java, they/them  to  Everyone:
+	the proverbial looking behind the curtain moment
+11:29:43 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	Find Usages short cut in IntelliJ ===> Alt + F7
+11:29:59 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	Useful for navigating unfamiliar code bases, will show where methods are called
+11:30:13 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	^ Thanks 😀
+11:31:25 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	You can also right click the method you want to find, and select Find Usages from the context menu
+11:31:51 From  Andrew Pinner/ Java  to  Everyone:
+	or hold crtl and click on methods / variables and it will find the uses
+11:32:12 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	Oh way cool
+11:37:51 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	super neat
+11:44:26 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	brb
