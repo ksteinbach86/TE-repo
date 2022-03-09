@@ -1,0 +1,76 @@
+09:13:06 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	*
+09:13:40 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning everyone
+09:13:43 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Stateless and Rest
+09:13:49 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	Morning
+09:13:51 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning
+09:13:55 From  Angel Scott, Java, she/her  to  Everyone:
+	Good morning
+09:14:13 From  Elias Clark, Java, they/them  to  Everyone:
+	🌞
+09:16:39 From  Danilo Pivaral-Alvarez  to  Everyone:
+	☁️
+09:18:32 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	brb
+09:25:13 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	endpoint
+09:26:47 From  Angel Scott, Java, she/her  to  Everyone:
+	*
+09:27:00 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	encapsulation
+09:27:29 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	& Abstraction
+09:28:56 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	polymorphism
+09:32:27 From  Elias Clark, Java, they/them  to  Everyone:
+	FUNNY-CAT-PEERING-INTO-OPEN-DESKTOP-COMPUTER-CASE-600X400.JPG
+09:32:56 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+09:42:43 From  Elias Clark, Java, they/them  to  Everyone:
+	I thought cat cards was a web store and I kept putting in my debit card # in the caption :(
+09:44:23 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	*Server = controller, DAO, and model
+09:45:07 From  Elias Clark, Java, they/them  to  Everyone:
+	never underestimate the demand for cat photos
+09:49:15 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Clarity > Redundancy
+09:51:13 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	deserialize
+09:54:34 From  Payton Picone, CLE Java, He/Him  to  Everyone:
+	brb
+10:40:24 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Security is a separate but related API
+10:44:41 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Interview Qs
+10:45:00 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+10:47:41 From  Elias Clark, Java, they/them  to  Everyone:
+	brb
+10:55:00 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	oop
+10:57:39 From  Angel Scott, Java, she/her  to  Everyone:
+	That could be the place for your side projects to shine as well
+10:58:53 From  Elias Clark, Java, they/them  to  Everyone:
+	we're all sleep deprived these days!!
+10:59:01 From  Angel Scott, Java, she/her  to  Everyone:
+	^^
+11:13:38 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	Beeless interview, check
+11:13:55 From  Elias Clark, Java, they/them  to  Everyone:
+	oprah-bees.gif
+11:16:59 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+11:23:52 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	I am open for white board practice today, I'll throw something in the Java channel again.
+11:25:05 From  Dan Shaw - Java - (He/Him)  to  Everyone:
+	brb
+11:27:06 From  Angel Scott, Java, she/her  to  Everyone:
+	Sweet. I'll join you when available Dan
+11:52:21 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	3 types of SQL transactions
+11:53:10 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	/statements
