@@ -42,6 +42,7 @@ public class HotelController {
      */
     @RequestMapping(path = "/hotels/{id}", method = RequestMethod.GET)
     public Hotel get(@PathVariable int id) {
+
         return hotelDao.get(id);
     }
 
