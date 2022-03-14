@@ -1,0 +1,78 @@
+09:00:44 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Morning
+09:00:54 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Hi David!
+09:01:04 From  David Ferreira (He/Him)  to  Everyone:
+	Good morning :)
+09:01:36 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning!
+09:02:21 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	good morning!
+09:02:38 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning everyone
+09:02:43 From  Kyle Youngblood, CLE Java  to  Everyone:
+	morning y'all
+09:02:46 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	Buenas dias todos
+09:02:47 From  Angel Scott, Java, she/her  to  Everyone:
+	Good morning
+09:02:50 From  Elias Clark, Java, they/them  to  Everyone:
+	guten morgen
+09:10:05 From  Elias Clark, Java, they/them  to  Everyone:
+	<I> and <b>…….. rip
+09:17:38 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+09:21:52 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+09:37:05 From  Donny Sweeney Java (he/him)  to  Everyone:
+	APItizers
+09:37:20 From  Elias Clark, Java, they/them  to  Everyone:
+	^^ 👏
+09:37:31 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^
+09:42:27 From  David Ferreira (He/Him)  to  Everyone:
+	Good life lessons there.
+09:52:08 From  Elias Clark, Java, they/them  to  Everyone:
+	anyone else always pronounce it as "ihmg sirc"? lol
+10:06:57 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie time
+10:13:57 From  Elias Clark, Java, they/them  to  Everyone:
+	i made a cup of coffee during break and i cant drikn it bcos ruthie has pinned my left arm.
+10:15:07 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The way of the cat
+10:18:47 From  Elias Clark, Java, they/them  to  Everyone:
+	The Legend Of HTML: A Link To The CSS
+10:20:16 From  David Ferreira (He/Him)  to  Everyone:
+	HREF is Hypertext Reference (I looked it up as well) 	https://stackoverflow.com/a/3586200
+10:20:46 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	thanks
+10:20:52 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	👍 Thanks, David
+10:21:01 From  Elias Clark, Java, they/them  to  Everyone:
+	i always just pronounced it as 'href'.... the joys of learning html online lol
+10:27:50 From  Angel Scott, Java, she/her  to  Everyone:
+	brb
+10:28:16 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I think all text inside of the body element in the HTML document will follow this font-family rule.		<body>	    ALL THIS STUFF	</body>
+10:37:05 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	brb
+11:05:41 From  Angel Scott, Java, she/her  to  Everyone:
+	input and label elements are "inline" elements, which is why they appear on the same line instead of on a new one
+11:31:21 From  Kyle Youngblood, CLE Java  to  Everyone:
+	* keystroke shortcut to reformat code = ctrl + alt + F	just like line formatting in IntelliJ
+11:36:15 From  Jacob Chafin, Java, he/him  to  Everyone:
+	🙌 ^^ thank you
+11:42:34 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Is the formatter: shift + alt + f?  For whatever reason that's what works on my computer
+11:43:50 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^^ Dan's right it's shift + alt + F.
+11:43:57 From  Kyle Youngblood, CLE Java  to  Everyone:
+	S/O @Dan!
+11:44:15 From  Kyle Youngblood, CLE Java  to  Everyone:
+	My mac brain substituted shift for Command
+11:44:25 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	All good!
+11:51:57 From  Payton Picone, CLE Java, He/Him  to  Everyone:
+	same
+11:52:08 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	same
