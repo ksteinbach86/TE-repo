@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(241, 241, 204);
+}
+
+
+h1 {
+    font-size: 32px;
+    color:  cornflowerblue;
+}
+
+
+img {
+    height: 200px;
+}
