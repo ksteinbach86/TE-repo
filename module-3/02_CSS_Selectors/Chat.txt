@@ -1,0 +1,54 @@
+09:03:40 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning
+09:04:13 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Morning
+09:04:27 From  Elias Clark, Java, they/them  to  Everyone:
+	mornnnn
+09:04:31 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning
+09:04:39 From  Angel Scott, Java, she/her  to  Everyone:
+	Mornin
+09:26:40 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	I got issues everyday 😔😂
+09:28:07 From  Elias Clark, Java, they/them  to  Everyone:
+	WHERES THE BABY
+09:32:39 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	brb
+09:32:52 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+09:37:26 From  Angel Scott, Java, she/her  to  Everyone:
+	It's all good Kieta! It's easy to click on stuff on accident lol
+09:37:29 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	You're great Kieta!
+09:37:46 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^
+09:37:52 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol thanks guys
+09:39:17 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	brb
+09:50:08 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	how do you comment it out again
+09:50:25 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	I think it's ctrl + /
+09:50:36 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	thanks
+09:50:44 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	( I might be wrong!)
+09:51:02 From  Andrew Pinner/ Java  to  Everyone:
+	That is correct ^
+09:51:23 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	it worked
+09:59:15 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	that's dope
+10:01:53 From  Payton Picone, CLE Java, He/Him  to  Everyone:
+	brb
+10:27:17 From  Elias Clark, Java, they/them  to  Everyone:
+	rgb(255,255,255), or as I call it, 'spicy white'
+10:40:36 From  Elias Clark, Java, they/them  to  Everyone:
+	clockwise
+10:42:51 From  Elias Clark, Java, they/them  to  Everyone:
+	the good thing is that css is relatively easier to google for reference than java/sql is, from my experience
+11:37:34 From  Angel Scott, Java, she/her  to  Everyone:
+	Alternatively, I believe you can right click the specific element you want to take a closer look at and hit inspect
+11:43:44 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	brb

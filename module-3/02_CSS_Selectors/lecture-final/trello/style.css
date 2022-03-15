@@ -1,0 +1,145 @@
+html {
+    height: 100%;
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+
+    background-image: linear-gradient(to bottom, #858c90, #bbb);
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+
+    white-space: nowrap;
+}
+
+div.trello-list {
+    display: inline-block;
+
+    width: 300px;
+
+    background-color: #ddd;
+
+    border-radius: 5px 6px;
+
+    margin-right: 10px;
+
+    vertical-align: top;
+}
+
+div.trello-list li {
+    list-style: none;
+    background-color: white;
+    font-size: 0.9rem;
+    border-radius: 1px;
+    margin-bottom: 10px;
+    color: #092d42;
+    white-space: normal;
+    padding: 6px;
+}
+
+div.trello-list li:last-child {
+    margin-bottom: 0px;
+}
+
+div.trello-list a {
+    display: block;
+    text-decoration: none;
+    color: #888;
+    padding: 8px 0px 8px 5px; 
+    font-size: 0.85rem;
+}
+div.trello-list > ol {
+    padding-left: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+div.trello-list > h2 {
+    padding-left: 6px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+
+    height: 50px;
+}
+
+header > h1,
+header > p {
+    display: inline-block;
+    height: 20px;
+    padding-right: 20px;
+    vertical-align: middle;
+    color: rgba(255, 255, 255, 0.8);
+    border-right: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+header > h1 {
+    text-transform: uppercase;
+    font-size: 1.1rem;
+}
+
+header > p {
+    font-size: 0.9rem;
+    padding-left: 5px;
+}
+
+main {
+    margin-top: 50px;
+}
+
+.labels span {
+    display: inline-block;
+    vertical-align: top;
+    width: 35px;
+    height: 8px;
+    border-radius: 3px;
+    color: white;
+}
+
+.label.pathway {
+    background-color: red;
+}
+
+.label.individual {
+    background-color: green;
+}
+
+.label.pair {
+    background-color: teal;
+}
+
+.label.general {
+    background-color: orange;
+}
+
+body::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: #bbb;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+  }
+  
+  body::-webkit-scrollbar-thumb:hover {
+    background: #888;
+  }
+
+
+
+
+
+
