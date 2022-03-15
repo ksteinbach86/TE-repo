@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>reservations</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Bits & Bytes</h1>
+        <p>You've tried the REST API, now try the best API!</p>
+    </header>
+
+    <nav>
+        <a href="index.html">View menu</a>
+    </nav>
+
+    <main>
+        <h2>Reservation Form</h2>
+    <form method="POST" action="/api/reservation">
+
+        <div>
+        <label for="reservationName">Name</label>
+        <input id="reservationName" name="reservation_name" type="text" />
+        </div>
+        
+        <div>
+        <label for="numberOfGuests">Number of guestsL</label>
+        <input id="numberOfGuests" name="numberOfGuests" type="text" />
+        </div>
+        
+        <div>
+            <label for="reservationDate">Date:</label>
+            <input id="reservationDate" type="date" />
+        </div>
+        
+        <div>
+            <label for="reservationTime">Time:</label>
+            <input id="reservationTime" type="time" />
+        </div>
+        
+        <div>
+            <label for="reservationOccasion">Occasion:</label>
+            <input id="reservationOccasion" type="occasion" />
+        </div>
+        
+        <div>
+        <input type="submit" />
+        </div>
+        
+    </form>
+
+    </main>
+    
+</body>
+
+</html>
