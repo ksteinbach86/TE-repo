@@ -14,4 +14,78 @@ body {
 ul {
   margin: 0;
   padding: 0;
+  /*text-align: center; */
 }
+
+body > aside {
+  position: fixed;
+  border: 1px solid rgba(0, 173, 238, 0.4);
+  border-radius: 5px 6px;
+  height: 100vh;
+  width: 200px;
+  
+}
+
+.center {
+  display: block;
+  width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+main {
+  padding-left: 200px;
+  height: 100px;
+  padding-right: 20px;
+  
+}
+
+li {
+  text-align: center;
+  text-transform: uppercase;
+  border: 1px solid rgba(0, 173, 238, 0.4);
+  
+  list-style: none;
+  margin-bottom: 10px;
+  padding: 1px;
+}
+
+li > nav {
+  text-transform: bold;
+}
+
+li.home {
+  text-transform: uppercase;
+}
+
+li.about {
+  text-transform: uppercase;
+}
+
+li.services {
+  text-transform: uppercase;
+}
+
+li.portfolio {
+  text-transform: uppercase;
+}
+
+a {
+  font-weight: bold;
+  color: margin-bottom: 10px;;
+  text-decoration: none;
+}
+
+
+section > div {
+  display: inline-block;
+  width: 33%;
+  
+}
+
+section > h2 {
+  text-decoration-color: #8CC36F;
+}
+
+
