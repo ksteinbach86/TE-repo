@@ -1,0 +1,45 @@
+header {
+    grid-area: header;
+}
+
+main {
+    grid-area: main;
+}
+
+#headline {
+    grid-area: Student Smith;
+}
+
+#student-picture {
+    grid-area: picture;
+}
+
+#student-quote {
+    grid-area: quote;
+}
+
+#student-profile {
+    grid-area: profile;
+}
+
+#experience-grid {
+    grid-area: experience;
+}
+
+#student-contact {
+    grid-area: contact;
+}
+
+#experience-code {
+    grid-area: code;
+}#experience-datebaset {
+    grid-area: database;
+}#experience-web {
+    grid-area: web;
+}#experience-design {
+    grid-area: design;
+}
+
+footer {
+    grid-area: footer;
+}

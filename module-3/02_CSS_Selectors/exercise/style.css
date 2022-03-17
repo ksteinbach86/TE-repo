@@ -84,8 +84,9 @@ section > div {
   
 }
 
-section > h2 {
-  text-decoration-color: #8CC36F;
+h2 {
+  border: 1px solid #8CC36F;
+  color: #8CC36F;
 }
 
 

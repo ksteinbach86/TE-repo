@@ -50,3 +50,80 @@ header img {
 #student-picture img{
     border-radius: 50%;
 }
+
+header {
+    grid-area: header;
+}
+
+main {
+    grid-area: main;
+}
+
+#main-grid {
+    display: grid;
+}
+
+#headline {
+    grid-area: StudentSmith;
+}
+
+#student-picture {
+    grid-area: picture;
+}
+
+#student-quote {
+    grid-area: quote;
+}
+
+#student-profile {
+    grid-area: profile;
+}
+
+#student-contact {
+    grid-area: contact;
+}
+
+#experience-grid {
+    display: grid;
+}
+
+#experience-grid {
+    grid-area: experiencegrid;
+}
+
+#experience-code {
+    grid-area: code;
+}#experience-database {
+    grid-area: database;
+}#experience-web {
+    grid-area: web;
+}#experience-design {
+    grid-area: design;
+}
+
+#main-grid {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-areas:
+       "headline . student-picture"
+       "student-profile student-profile student-quote"
+       "experience-grid experience-grid experience-grid"
+       ;
+    height: 100;
+    
+}
+#main-grid {
+    display: grid;
+    grid-template-columns: 200px 400px 1fr 200px;
+    grid-template-areas:
+       "experience-code experience-code"
+       "experience-database experience-database"
+       "experience-web experience-design"
+       ;
+    height: 100;
+    
+}
+
+footer {
+    grid-area: footer;
+}
