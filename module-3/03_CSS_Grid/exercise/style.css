@@ -63,67 +63,71 @@ main {
     display: grid;
 }
 
+#main-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+       "headline headline student-picture"
+       "student-quote student-quote student-picture"
+       "student-profile student-profile student-contact"
+       "experience-grid experience-grid experience-grid"
+       ;
+    
+    row-gap: 20px;
+    column-gap: 50px;
+    align-items: center;
+    
+    
+}
+
 #headline {
-    grid-area: StudentSmith;
+    grid-area: headline;
+
 }
 
 #student-picture {
-    grid-area: picture;
+    grid-area: student-picture;
+    top: 50%;
+    right: 50%;
 }
 
 #student-quote {
-    grid-area: quote;
+    grid-area: student-quote;
 }
 
 #student-profile {
-    grid-area: profile;
+    grid-area: student-profile;
 }
 
 #student-contact {
-    grid-area: contact;
+    grid-area: student-contact;
 }
 
+
 #experience-grid {
+
     display: grid;
-}
-
-#experience-grid {
-    grid-area: experiencegrid;
+    grid-area: experience-grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+        "experience-code experience-code"
+        "experience-database experience-database"
+        "experience-web experience-design"
+        ;
+        row-gap: 20px;
+        column-gap: 50px;
+        
+    ;
 }
 
 #experience-code {
-    grid-area: code;
+    grid-area: experience-code;
 }#experience-database {
-    grid-area: database;
+    grid-area: experience-database;
 }#experience-web {
-    grid-area: web;
+    grid-area: experience-web;
 }#experience-design {
-    grid-area: design;
+    grid-area: experience-design;
 }
 
-#main-grid {
-    display: grid;
-    grid-template-columns: 200px 200px 200px 200px;
-    grid-template-areas:
-       "headline . student-picture"
-       "student-profile student-profile student-quote"
-       "experience-grid experience-grid experience-grid"
-       ;
-    height: 100;
-    
-}
-#main-grid {
-    display: grid;
-    grid-template-columns: 200px 400px 1fr 200px;
-    grid-template-areas:
-       "experience-code experience-code"
-       "experience-database experience-database"
-       "experience-web experience-design"
-       ;
-    height: 100;
-    
-}
-
-footer {
-    grid-area: footer;
-}
