@@ -1,0 +1,88 @@
+09:05:02 From  Donny Sweeney Java (he/him)  to  Everyone:
+	is that a chain of closets?
+09:05:20 From  Elias Clark, Java, they/them  to  Everyone:
+	you know, for the stuff you REALLY don't want easy access to.
+09:05:22 From  Angel Scott, Java, she/her  to  Everyone:
+	^Wondering the same thing
+09:05:24 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^ *array of closest
+09:05:38 From  Elias Clark, Java, they/them  to  Everyone:
+	Closets[]
+09:06:14 From  Donny Sweeney Java (he/him)  to  Everyone:
+	can we for loop thru those and separate them out
+09:06:31 From  Elias Clark, Java, they/them  to  Everyone:
+	for (Closet closet : closets )
+09:06:41 From  Donny Sweeney Java (he/him)  to  Everyone:
+	closets[] is now my least favorite array
+09:06:51 From  Kyle Youngblood, CLE Java  to  Everyone:
+	😆 @Donny
+09:07:03 From  Donny Sweeney Java (he/him)  to  Everyone:
+	which is impressive bc there is still a lot of resentment from module 1 arrays
+09:07:15 From  Elias Clark, Java, they/them  to  Everyone:
+	^ lmao
+09:09:19 From  Donny Sweeney Java (he/him)  to  Everyone:
+	tyyyy
+09:09:23 From  Donny Sweeney Java (he/him)  to  Everyone:
+	I couldn't foux
+09:09:27 From  Donny Sweeney Java (he/him)  to  Everyone:
+	focus*
+09:09:45 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol lol
+09:09:47 From  Kevin Steinbach, Java {he/him]  to  Everyone:
+	yet
+09:10:07 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	The only way is through!
+09:10:33 From  Elias Clark, Java, they/them  to  Everyone:
+	youre all welcome
+09:10:55 From  Elias Clark, Java, they/them  to  Everyone:
+	tasha time!!
+09:21:44 From  Angel Scott, Java, she/her  to  Everyone:
+	We never have dogs 😭
+09:22:15 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	^ I know. I love both. Birds and lizards too.
+09:23:34 From  Payton Picone, CLE Java, He/Him  to  Everyone:
+	brb
+09:47:10 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	brb
+09:52:21 From  Donny Sweeney Java (he/him)  to  Everyone:
+	brb
+10:00:26 From  Ben Langhinrichs (he/him)  to  Everyone:
+	While I also deplore the lack of dogs in our visual examples, I would be more likely to use penguins or camels if I were making my own. Maybe one of you could have a side project illustrating software concepts with dogs. I'd be sure to use them for future cohorts.
+10:10:20 From  Elias Clark, Java, they/them  to  Everyone:
+	gotta love ugly websites
+10:20:11 From  Elias Clark, Java, they/them  to  Everyone:
+	curse you, ever-evolving languages!!!
+10:20:51 From  Elias Clark, Java, they/them  to  Everyone:
+	(jk, we didn't have flexbox or grid when I first learned this stuff back in 2010 and like. its ridiculous how much easier stuff is w/ those. we used to have to just use boxes and inline-floats and whatnot)
+10:25:48 From  Elias Clark, Java, they/them  to  Everyone:
+	forgive me, I am murdered by allergies rn and am at least 30% in outer space
+10:26:10 From  Jacob Chafin, Java, he/him  to  Everyone:
+	👾
+10:26:19 From  Elias Clark, Java, they/them  to  Everyone:
+	🎇
+10:34:21 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+10:50:14 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+10:52:50 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	What if we removed the > between #featured and section
+10:59:04 From  Elias Clark, Java, they/them  to  Everyone:
+	surprise its a cheese shop
+10:59:26 From  Elias Clark, Java, they/them  to  Everyone:
+	aladdins SLAPS
+10:59:45 From  Elias Clark, Java, they/them  to  Everyone:
+	im allergic to 50% of their menu but its so good
+11:01:58 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+11:03:26 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	brb
+11:03:49 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Take that, client!
+11:04:07 From  Elias Clark, Java, they/them  to  Everyone:
+	sometimes you just gotta let the client know that they're dumb and their ideas are dumb!!
+11:04:16 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^^^
+11:09:41 From  Mikey Stewart, Java, he/him  to  Everyone:
+	im not afraid to show off our spaghetti code
+11:10:16 From  Kate Kohr, Java, (She/Her)  to  Everyone:
+	THANK YOU KIETA!!!!
