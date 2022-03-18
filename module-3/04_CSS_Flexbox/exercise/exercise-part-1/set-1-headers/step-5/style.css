@@ -4,6 +4,7 @@ body {
 }
 
 header {
+  display: flex;
   background-color: #F0F0F0;
   padding: 20px;
 }
@@ -12,10 +13,22 @@ header {
   width: 140px;
 }
 
+
 ul {
+  display: flex;
+  justify-content: left;
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+nav {
+  flex-grow: 1;
+  
+}
+
+.spacer {
+  justify-content: right;
 }
 
 li {
