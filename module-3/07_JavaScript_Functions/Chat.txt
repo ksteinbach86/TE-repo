@@ -1,0 +1,58 @@
+08:59:16 From  Donny Sweeney Java (he/him)  to  Everyone:
+	Good Morning!
+08:59:43 From  Andrew Pinner/ Java  to  Everyone:
+	Good Morning all!
+09:00:19 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning!
+09:00:35 From  Elias Clark, Java, they/them  to  Everyone:
+	greetings + salutations
+09:02:47 From  Angel Scott, Java, she/her  to  Everyone:
+	Kitty Party!
+09:03:28 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie loves to learn
+09:07:56 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	brb
+09:32:29 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+09:32:53 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	*
+09:44:41 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+09:56:27 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	How do you call for a new line in the developer tool console without running the code with enter?
+09:56:38 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Shift + Enter possibly
+09:57:12 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	yuppers
+09:59:50 From  Ben Langhinrichs (he/him)  to  Everyone:
+	As an answer to Danilo, while Shift-Enter may work, you can also just use Enter if you have started a function or parameter list and not finished it. I have not used Shift Enter in lecture yet today.
+10:19:47 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	brb
+10:21:40 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	*
+10:29:51 From  Payton Picone, CLE Java, He/Him  to  Everyone:
+	brb
+10:31:21 From  Angel Scott, Java, she/her  to  Everyone:
+	*
+10:38:48 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+10:43:26 From  Angel Scott, Java, she/her  to  Everyone:
+	Good ol ternary operators
+10:44:01 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	🧐
+10:45:01 From  Angel Scott, Java, she/her  to  Everyone:
+	lol. The part with the question mark Kieta
+10:45:25 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	yea lost me bad
+10:46:58 From  Angel Scott, Java, she/her  to  Everyone:
+	I'll explain it to you later
+10:47:42 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	if (CONDITION {	    TRUE	} else {	    FLASE	}		--------------------------------------------------------------		(CONDITION) ? TRUE : FALSE;			Fancy short hand, top is if/else form, below the dotted line is called a ternary operator.  They both do the same thing just the ternary operator is syntactic sugar to make it one line
+10:47:52 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Ha! Flase haha
+10:47:56 From  Angel Scott, Java, she/her  to  Everyone:
+	^^
+10:49:05 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	ok thanks Angel
+11:11:54 From  Ben Langhinrichs (he/him)  to  Everyone:
+	Fancier shorthand: CONDITION
