@@ -20,18 +20,11 @@
  * @returns {boolean} true if they are admitted
  */
 
-// function isAdmitted(gpa, satScore, recommendation) {
-//     if (let gpa <= 4.2 && gpa >= 1.0) {
-//         return true;
-//     } else if (satScore > 1300 || gpa > 3.0 && recommendation) {
-//         return true;   
-// } else if (satScore > 1200 && recommendation) {
-//     return true;
-// }
-//     else return false; 
-
-// }
-
+function isAdmitted(gpa, satScore = 0, recommendation =false) {
+    let admitted = (gpa > 4.0 || satScore > 1200 || gpa > 3.0 && recommendation || satScore
+        > 1200 && recommendation);
+        return admitted;
+}
  
 
 
@@ -150,16 +143,31 @@ function getFullAddressesOfProperties(strObj) {
  */
 
 function findLargest (myArrays) {
-    i = 0;
-    x = "";
+    a = 0;
+    b = "";
     myArrays.forEach((myArray) => {
-        if (i < myArray && x < myArray) {
-            i = myArray;
-            x = myArray;
+        if (typeof myArray != Number) {
+            if(b < myArray) {
+                b= myArray
+            }
+        } else if(a < myArray) {
+             a = myArray;
         }
-    })
-    return i;
-}
+        // if (typeof myArray == String) {
+        //     if(a < myArray) {
+        //         a = myArray
+        //     }
+        // }
+
+        }); 
+        
+        if(typeof myArrays[0] != Number) {
+            return b;
+        }
+        return a;
+    }
+
+
 
 
 /**
@@ -204,3 +212,7 @@ function findLargest (myArrays) {
  *
  * Read the tests to verify you have the correct behavior.
  */
+
+function getSumOfSubArrayValues(){
+    return 0;
+}
