@@ -1,0 +1,98 @@
+09:02:12 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning everyone
+09:02:24 From  Angel Scott, Java, she/her  to  Everyone:
+	Morning Kieta!
+09:02:32 From  Jacob Chafin, Java, he/him  to  Everyone:
+	good morning!
+09:02:40 From  Kyle Youngblood, CLE Java  to  Everyone:
+	morning y'all!
+09:02:47 From  iPhone  to  Everyone:
+	Morning! (This is Dan)
+09:02:59 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie says good mornin
+09:03:19 From  Andrew Pinner/ Java  to  Everyone:
+	Hello and good morning. Also nice to meet you iPhone named Dan
+09:03:56 From  Elias Clark, Java, they/them  to  Everyone:
+	Dan "The iPhone" Shaw
+09:07:56 From  Elias Clark, Java, they/them  to  Everyone:
+	my upstairs neighbor has been doing construction since 8 am.... hes got buzz saws going..... rip
+09:08:42 From  Angel Scott, Java, she/her  to  Everyone:
+	Who wakes up at 8 in the morning and thinks "This is a good time to renovate my house"....
+09:08:54 From  Elias Clark, Java, they/them  to  Everyone:
+	apparently my neighbor, for the past 12 months
+09:09:04 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Do you have headphones to help block the noise?
+09:09:45 From  Elias Clark, Java, they/them  to  Everyone:
+	its not SUPER bad, just mostly baffling
+09:16:01 From  Angel Scott, Java, she/her  to  Everyone:
+	🎵I always feel like somebody's watching meeeee🎵
+09:16:25 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^^^
+09:16:27 From  Elias Clark, Java, they/them  to  Everyone:
+	(tentatively) tasha time....?
+09:17:01 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	brb
+09:22:20 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	How does one create comments in html?
+09:22:36 From  Elias Clark, Java, they/them  to  Everyone:
+	ctrl+/ will still work in vsc
+09:22:42 From  Elias Clark, Java, they/them  to  Everyone:
+	otherwise its <!-- comment -->
+09:22:53 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	thanks!
+09:23:26 From  Elias Clark, Java, they/them  to  Everyone:
+	👍
+09:25:18 From  Elias Clark, Java, they/them  to  Everyone:
+	'unfocus' was RIGHT THERE
+09:33:33 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Kyle you're a robot!
+09:34:26 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	needs the =>
+09:38:52 From  Kyle Youngblood, CLE Java  to  Everyone:
+	🤖 @Jay
+09:41:09 From  Andrew Pinner/ Java  to  Everyone:
+	Hey David!
+09:41:19 From  Angel Scott, Java, she/her  to  Everyone:
+	David's here!
+09:41:41 From  iPhone  to  Everyone:
+	Time for a cigar party!
+09:41:43 From  David Ferreira (He/Him)  to  Everyone:
+	Hello
+09:41:53 From  Kyle Youngblood, CLE Java  to  Everyone:
+	👏👏👏 ^^
+09:41:54 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Hello David
+10:20:48 From  Elias Clark, Java, they/them  to  Everyone:
+	RUTHIE JUST BAPPED ME IN THE FACE :(
+10:23:06 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	How does it know my name??
+10:23:36 From  Elias Clark, Java, they/them  to  Everyone:
+	Ben 'Java' Langhinrichs
+10:24:19 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Cigar party🙌🏾
+10:24:36 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^^^ 😂
+10:24:40 From  Angel Scott, Java, she/her  to  Everyone:
+	Think you'd prefer a rum party Kieta
+10:24:53 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	lol both Angel
+10:28:37 From  Elias Clark, Java, they/them  to  Everyone:
+	10:30? I was confused by VSC today at 8:59 am
+10:29:46 From  David Ferreira (He/Him)  to  Everyone:
+	brb
+10:37:04 From  Elias Clark, Java, they/them  to  Everyone:
+	(elevator pitch voice) I'm a go-getter, I carve my own path. I destroy code and conventions and will render all your programs unusable from day 1!
+10:37:26 From  David Ferreira (He/Him)  to  Everyone:
+	Pattern recognition is an import skill we test you folks for.	You all have it just need to polish it.
+10:39:59 From  Elias Clark, Java, they/them  to  Everyone:
+	its beautiful...……………...
+10:49:10 From  Elias Clark, Java, they/them  to  Everyone:
+	I have visions of making a side project... of the most annoying website ever.....
+10:49:49 From  Angel Scott, Java, she/her  to  Everyone:
+	^^ You'll have plenty of websites to take inspiration from lol
+10:50:06 From  Elias Clark, Java, they/them  to  Everyone:
+	y'all remember zombocom
+10:53:00 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	brb
+11:07:49 From  Elias Clark, Java, they/them  to  Everyone:
+	ben teaching us the basics of hacking
