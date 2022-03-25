@@ -20,6 +20,7 @@ const groceries = [
 function setPageTitle() {
   const title = document.getElementById('title');
   title.innerText = pageTitle;
+
 }
 
 /**
@@ -35,4 +36,34 @@ function displayGroceries() {
     li.appendChild(checkCircle);
     ul.appendChild(li);
   });
+
 }
+
+//  This is everything I added:
+  document.addEventListener('DOMContentLoaded', () => {
+    setPageTitle();
+    displayGroceries();
+
+    let groceryItems = groceriesList.querySelectorAll('li');
+    groceryItems.forEach((grocery) => {
+    grocery.addEventListener('click'), () => {
+      
+    }
+  
+  });
+
+  // const buttonAgain = document.getElementById('buttonAgain');
+  // buttonAgain.addEventListener('dblclick', (event) => {
+  //   alert('Incomplete!');
+  // });
+
+  // function toggleDescriptionEdit(desc) {
+  //   const textBox = desc.nextElementSibling;
+  //   textBox.groceries = description;
+  //   textBox.shoppingList.remove('Mark All Incomplete!');
+  //   desc.classList.add('Mark All Complete!');
+  //   textBox.focus();
+
+  // }
+
+  });
