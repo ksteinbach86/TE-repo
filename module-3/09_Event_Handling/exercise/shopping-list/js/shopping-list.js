@@ -44,26 +44,44 @@ function displayGroceries() {
     setPageTitle();
     displayGroceries();
 
-    let groceryItems = groceriesList.querySelectorAll('li');
+    let groceryItems = document.querySelectorAll('li');
     groceryItems.forEach((grocery) => {
-    grocery.addEventListener('click'), () => {
-      
-    }
+    grocery.addEventListener('click', () => {
+    if (!grocery.classList.contains('completed')) {
+      grocery.classList.add('completed');
+      grocery.classList.remove('incomplete');
+
+    };
+    
+    if (grocery.classList.contains('completed')) {
+      grocery.classList.add('completed');
+      grocery.classList.remove('incomplete');
+    };
+    
+  }
+
+);
+
+const changeButton = document.querySelector('.btn');
+changeButton.addEventListener('click', () => {
+  if (allItemsIncomplete) {
+    changeButton.innerText = 'Mark All Incomplete';
+    allItemsIncomplete = false;
+    groceryItems.forEach((grocery) => {
+      grocery.classList.add('completed');
+      grocery.classList.remove('incomplete');
+    });
   
-  });
+  }
+   else {
+     changeButton.innerText = 'Mark All Complete';
+     allItemsIncomplete = true;
+     groceryItems.forEach((grocery)  => {
+      grocery.classList.add('incomplete');
+      grocery.classList.remove('completed');
+     });
+   };
 
-  // const buttonAgain = document.getElementById('buttonAgain');
-  // buttonAgain.addEventListener('dblclick', (event) => {
-  //   alert('Incomplete!');
-  // });
+ });
 
-  // function toggleDescriptionEdit(desc) {
-  //   const textBox = desc.nextElementSibling;
-  //   textBox.groceries = description;
-  //   textBox.shoppingList.remove('Mark All Incomplete!');
-  //   desc.classList.add('Mark All Complete!');
-  //   textBox.focus();
-
-  // }
-
-  });
+  })})
