@@ -52,15 +52,17 @@ function displayGroceries() {
       grocery.classList.remove('incomplete');
 
     };
-    
+    grocery.addEventListener('dblclick', () => {
     if (grocery.classList.contains('completed')) {
-      grocery.classList.add('completed');
-      grocery.classList.remove('incomplete');
+      grocery.classList.add('incomplete');
+      grocery.classList.remove('completed');
     };
     
   }
 
 );
+
+
 
 const changeButton = document.querySelector('.btn');
 changeButton.addEventListener('click', () => {
@@ -84,4 +86,7 @@ changeButton.addEventListener('click', () => {
 
  });
 
-  })})
+  })
+})
+
+})
