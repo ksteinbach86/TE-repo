@@ -1,0 +1,42 @@
+09:05:29 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	Good morning.
+09:05:38 From  Angel Scott, Java, she/her  to  Everyone:
+	Good morning
+09:05:46 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie says good morn!
+09:05:47 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning
+09:05:47 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	Good morning!
+09:11:03 From  Elias Clark, Java, they/them  to  Everyone:
+	good morning tasha!!!!!!!!!!!!!!!
+09:11:20 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+09:29:40 From  Andrew Pinner/ Java  to  Everyone:
+	There are sites out their Jacob that you can upload an image and it will convert it to ico for you
+09:30:02 From  Jacob Chafin, Java, he/him  to  Everyone:
+	👀 OooOOh thank you ^^
+09:30:11 From  Andrew Pinner/ Java  to  Everyone:
+	👍
+09:32:59 From  David Ferreira (He/Him)  to  Everyone:
+	https://www.techwalla.com/articles/how-to-create-an-ico-file-from-a-jpeg-in-paint
+09:41:41 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Thank you *2 ^^ 👀
+09:48:17 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	brb
+09:49:01 From  Elias Clark, Java, they/them  to  Everyone:
+	back in the day the internet wasn't as strong, so people had to use upper-case HTML to yell their code at each other :)
+10:46:24 From  Elias Clark, Java, they/them  to  Everyone:
+	hi tasha!!!!!!!
+10:52:52 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	brb
+11:01:06 From  Grayson Gregg, Java,  he/him  to  Everyone:
+	good question Kyle
+11:04:19 From  Jacob Chafin, Java, he/him  to  Everyone:
+	brb
+11:24:43 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	You can set up VScode to format on Save as well.  I use an extension called Prettier which makes it very nice
+11:31:36 From  Jacob Chafin, Java, he/him  to  Everyone:
+	👀 ^^
+11:53:58 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Selector specificity in the CSS?
