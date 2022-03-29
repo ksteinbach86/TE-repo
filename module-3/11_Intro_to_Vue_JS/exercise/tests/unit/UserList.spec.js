@@ -1,3 +1,4 @@
+
 /* eslint-disable no-unused-vars, no-console */
 import { shallowMount, Wrapper } from "@vue/test-utils";
 import UserList from "@/components/UserList.vue";
