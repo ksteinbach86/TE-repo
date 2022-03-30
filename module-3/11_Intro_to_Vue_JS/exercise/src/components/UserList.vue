@@ -11,12 +11,13 @@
     </thead>
     <tbody>
       <tr>
-        <td><input type="text" id="firstNameFilter"/></td>
-        <td><input type="text" id="lastNameFilter"/></td>
-        <td><input type="text" id="usernameFilter"/></td>
-        <td><input type="text" id="emailFilter"/></td>
+        <td><input type="text" id="firstNameFilter" v-model="filter.firstName"/></td>
+        <td><input type="text" id="lastNameFilter" v-model="filter.lastName"/></td>
+        <td><input type="text" id="usernameFilter" v-model="filter.username"/></td>
+        <td><input type="text" id="emailFilter" v-model="filter.emailAddress"/></td>
         <td>
-          <select id="statusFilter">
+          <select id="statusFilter" v-model="filter.status"
+          v-bind:class="{ disabled: status.disabled }">
             <option value="">Show All</option>
             <option value="Active">Active</option>
             <option value="Disabled">Disabled</option>
@@ -24,7 +25,7 @@
         </td>
       </tr>
       <!-- user listing goes here -->
-      <tr class="user-listing" v-for="user in users" v-bind:key="user.list">
+      <tr class="user-list" v-for="user in users" v-bind:key="user.list">
           <td>  {{ user.firstName }} </td>
           <td>  {{ user.lastName }}  </td>
           <td>  {{ user.username }}  </td>
@@ -47,10 +48,47 @@ export default {
         { firstName: 'Ben', lastName: 'Carter', username: 'bcarter', emailAddress: 'bcarter@gmail.com', status: 'Active' },
         { firstName: 'Katie', lastName: 'Jackson', username: 'kjackson', emailAddress: 'kjackson@yahoo.com', status: 'Active' },
         { firstName: 'Mark', lastName: 'Smith', username: 'msmith', emailAddress: 'msmith@foo.com', status: 'Disabled' }
-      ]
-    }
+      ],
+      filter:
+      {
+      firstName: '',
+      lastName: '',
+      username: '',
+      emailAddress: '',
+      status: ''
+      }
   }
+
+},
+
+computed: {
+        filteredList() {
+            return this.users.filter((user) => {
+
+              if (this.filter.firstName && !user.firstName.toLowerCase().includes(this.filter.firstName.toLowerCase())) {
+                return false;
+              }
+              if (this.filter.lastName && !user.lastName.toLowerCase().includes(this.filter.lastName.toLowerCase())) {
+                return false;
+              }
+              if (this.filter.username && !user.username.toLowerCase().includes(this.filter.username.toLowerCase())) {
+                return false;
+              }
+              if (this.filter.emailAddress && !user.emailAddress.toLowerCase().includes(this.filter.emailAddress.toLowerCase())) {
+                return false;
+              }
+              if (this.filter.status && !user.status.toLowerCase().includes(this.filter.status.toLowerCase())) {
+                return false;
+              }
+
+              return true;
+                
+          });
+     }
 }
+
+}
+
 </script>
 
 <style scoped>
@@ -70,4 +108,6 @@ tr.disabled {
 input, select {
   font-size: 16px;
 }
+
+
 </style>
