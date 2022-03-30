@@ -1,8 +1,9 @@
 <template>
-  <div id="app">
+  <div id='app'>
     <header>
-      <img alt="Vue logo" src="./assets/logo.png" />
+      <img src="./assets/logo.png" alt="Vue logo" />
     </header>
+
     <product-review></product-review>
   </div>
 </template>
@@ -10,8 +11,9 @@
 <script>
 import ProductReview from "./components/ProductReview.vue";
 
+
 export default {
-  name: "app",
+  name: 'app',
   components: {
     ProductReview
   }
