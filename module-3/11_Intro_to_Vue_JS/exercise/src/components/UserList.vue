@@ -16,8 +16,8 @@
         <td><input type="text" id="usernameFilter" v-model="filter.username"/></td>
         <td><input type="text" id="emailFilter" v-model="filter.emailAddress"/></td>
         <td>
-          <select id="statusFilter" v-model="filter.status"
-          v-bind:class="{ disabled: status.disabled }">
+          <select id="statusFilter" v-model="filter.status">
+          <!-- v-bind:class="{ disabled: status.disabled }" -->
             <option value="">Show All</option>
             <option value="Active">Active</option>
             <option value="Disabled">Disabled</option>
