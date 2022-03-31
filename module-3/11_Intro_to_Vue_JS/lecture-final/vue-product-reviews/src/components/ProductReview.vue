@@ -28,6 +28,35 @@
                 5 Star Review
             </div>
         </div>
+
+
+        <form v-on:submit.prevent="addNewReview" v-if="showForm === true">
+            <div class="form-element">
+                <label for="reviewer">Name:</label>
+                <input id="reviewer" type="text" v-model="newReview.reviewer"/>
+            </div>
+            <div class="form-element">
+                <label for="title">Title:</label>
+                <input id="title" type="text" v-model="newReview.title"/>
+            </div>
+            <div class="form-element">
+                <label for="rating">Rating:</label>
+                <select id="rating" type="text" v-model.number="newReview.rating">
+                    <option value="1">1 Star</option>
+                    <option value="2">2 Stars</option>
+                    <option value="3">3 Stars</option>
+                    <option value="4">4 Stars</option>
+                    <option value="5">5 Stars</option>
+                </select>
+            </div>
+            <div class="form-element">
+                <label for="review">Review:</label>
+                <textarea id="review" type="text" v-model="newReview.review"/>
+            </div>
+
+            <input type="submit" value="Save" />
+            <input type="button" value="Cancel" v-on:click.prevent="resetForm" />
+        </form>
         
         <div class="review" v-for="review in reviews" v-bind:key="review.id"
             v-bind:class="{ favorited: review.favorited }">
@@ -58,7 +87,9 @@ export default {
     data() { 
         return {
             name: 'Cigar Parties for Dummies',
-            description: 'Host and plan the perfect partyu for all your squirrely friends.',
+            description: 'Host and plan the perfect party for all your squirrely friends.',
+            newReview: {},
+            showForm: true,
             reviews: [
             {
                 reviewer: 'Malcolm Gladwell',
@@ -104,7 +135,7 @@ export default {
                 return currentSum + review.rating;
             }, 0);
 
-            return sum / this.reviews.length;
+            return (sum / this.reviews.length).toFixed(2);
         },
         numberOfOneStarReviews() {
             return this.reviews.reduce((currentCount, review) => {
@@ -155,6 +186,16 @@ export default {
                     return currentCount;
                 }
             }, 0);
+        }
+
+    },
+    methods: {
+        addNewReview() {
+            this.reviews.unshift(this.newReview);
+            this.resetForm();
+        },
+        resetForm() {
+            this.newReview = {};
         }
 
     }
@@ -219,6 +260,24 @@ main div.review h3 {
 
 main div.review h4 {
     font-size: 1rem;
-};
+}
+
+div.form-element {
+    margin-top: 10px;
+}
+
+div.form-element > label {
+    display: block;
+}
+
+div.form-element > input, div.form-element > select {
+    height: 30px;
+    width: 300px;
+}
+
+div.form-element > textarea {
+    height: 60px;
+    width: 300px;
+}
 
 </style>

@@ -52,7 +52,7 @@
           <td>{{ user.emailAddress }}</td>
           <td>{{ user.status }}</td>
           <td>
-            <button class="btnEnableDisable">Enable or Disable</button>
+            <button class="btnEnableDisable">{{ user.status == 'Active' ? 'Disable' : 'Enable' }}</button>
           </td>
         </tr>
       </tbody>
@@ -64,24 +64,26 @@
       <button>Delete Users</button>
     </div>
 
-    <button>Add New User</button>
+    <button v-on:click.prevent="showForm = !showForm">Add New User</button>
 
-    <form id="frmAddNewUser">
+                                     
+
+    <form id="frmAddNewUser" v-show="showForm">
       <div class="field">
         <label for="firstName">First Name:</label>
-        <input type="text" name="firstName" />
+        <input type="text" name="firstName" v-model="newUser.firstName"/>
       </div>
       <div class="field">
         <label for="lastName">Last Name:</label>
-        <input type="text" name="lastName" />
+        <input type="text" name="lastName" v-model="newUser.lastName"/>
       </div>
       <div class="field">
         <label for="username">Username:</label>
-        <input type="text" name="username" />
+        <input type="text" name="username" v-model="newUser.username"/>
       </div>
       <div class="field">
         <label for="emailAddress">Email Address:</label>
-        <input type="text" name="emailAddress" />
+        <input type="text" name="emailAddress" v-model="newUser.emailAddress"/>
       </div>
       <button type="submit" class="btn save">Save User</button>
     </form>
@@ -92,7 +94,9 @@
 export default {
   name: "user-list",
   data() {
+    
     return {
+      showForm: false,
       filter: {
         firstName: "",
         lastName: "",
@@ -160,7 +164,26 @@ export default {
       ]
     };
   },
-  methods: {},
+  methods: {
+
+    saveUser() {
+      if (this.newUser.users) {
+      this.users.unshift(this.saveUser);
+      this.resetForm();
+      }
+    },
+    resetForm() {
+            this.newReview = {};
+            this.showForm = false;
+        },
+
+    flipStatus(id) {
+      this.users.forEach((user) => {
+        if (this.userId)
+      })
+
+  },
+  
   computed: {
     filteredList() {
       let filteredUsers = this.users;
@@ -199,6 +222,8 @@ export default {
       }
       return filteredUsers;
     }
+  
+
   }
 };
 </script>
