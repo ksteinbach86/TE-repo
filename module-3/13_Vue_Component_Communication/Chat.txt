@@ -1,0 +1,148 @@
+09:03:00 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good morning
+09:03:08 From  Angel Scott, Java, she/her  to  Everyone:
+	Mornin!
+09:03:11 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Good morning
+09:03:29 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	Good morning!
+09:03:41 From  Donny Sweeney Java (he/him)  to  Everyone:
+	Good morning!
+09:03:44 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie says good mornin
+09:04:16 From  Andrew Pinner/ Java  to  Everyone:
+	crowds.. EW
+09:04:34 From  Elias Clark, Java, they/them  to  Everyone:
+	I cant do theatre, it needs subtitles lol
+09:06:57 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+09:17:15 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	*encapsulation*
+09:19:49 From  Angel Scott, Java, she/her  to  Everyone:
+	Single responsibility principle is the S in SOLID:	 https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+09:23:12 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	👍 Thanks Angel
+09:44:17 From  Payton Picone, CLE Java, He/Him  to  Everyone:
+	brb
+09:44:23 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	brb
+09:56:10 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	This doesn't sound so bad today until its time to do homework😖
+09:56:22 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	^^^
+09:56:23 From  Angel Scott, Java, she/her  to  Everyone:
+	^^
+09:56:30 From  Andrew Pinner/ Java  to  Everyone:
+	vv
+09:56:31 From  Elias Clark, Java, they/them  to  Everyone:
+	^^
+09:56:55 From  Angel Scott, Java, she/her  to  Everyone:
+	Gonna be fun suffering later today
+09:57:12 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	😩
+09:57:55 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	😵
+10:04:22 From  Donny Sweeney Java (he/him)  to  Everyone:
+	the dollar store
+10:04:31 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	😁
+10:04:34 From  Andrew Pinner/ Java  to  Everyone:
+	Don't do it Jacob please no
+10:04:35 From  Elias Clark, Java, they/them  to  Everyone:
+	^ hahaa
+10:06:09 From  Andrew Pinner/ Java  to  Everyone:
+	its afk Jacob he isn't real
+10:09:06 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	Jacob just materialized inside of himself
+10:09:38 From  Angel Scott, Java, she/her  to  Everyone:
+	Yep. You've just witnessed the horror that is afk Jacob
+10:09:49 From  Jacob Chafin, Java, he/him  to  Everyone:
+	Wait till I add responsive coding to afk Jacob
+10:10:05 From  Jacob Chafin, Java, he/him  to  Everyone:
+	I finally found a side project
+10:12:48 From  Andrew Pinner/ Java  to  Everyone:
+	That would be entertaining.
+10:14:05 From  Andrew Pinner/ Java  to  Everyone:
+	or is this already afk Jacob responding?! Has he evolved???
+10:14:18 From  Jacob Chafin, Java, he/him  to  Everyone:
+	🤖
+10:14:24 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	AFK Jacob has become sentient
+10:14:34 From  Jacob Chafin, Java, he/him  to  Everyone:
+	🧔
+10:32:23 From  Nicholas Edsall, JAVA, He/Him  to  Everyone:
+	vue in general has been greek to me so no
+10:34:07 From  David Ferreira (He/Him)  to  Everyone:
+	You'll get accustomed to it. 	Java was scary at first. 	Postgres was scary at first.
+10:34:35 From  Jacob Chafin, Java, he/him  to  Everyone:
+	true ^^ this is being thrown out faster as well so it'll click eventually
+10:35:24 From  Angel Scott, Java, she/her  to  Everyone:
+	I don't think I've ever felt this overwhelmed in the cohort before
+10:35:31 From  Elias Clark, Java, they/them  to  Everyone:
+	^^ same
+10:35:36 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^^^ preach!
+10:35:40 From  Kyle Youngblood, CLE Java  to  Everyone:
+	@Angel
+10:37:29 From  Angel Scott, Java, she/her  to  Everyone:
+	There's fundamental stuff I'm not understanding from the previous days lessons that makes all this make basically no sense to me
+10:37:38 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^^
+10:37:48 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	^^^
+10:38:48 From  Elias Clark, Java, they/them  to  Everyone:
+	and then he drinks the rock-pebble-sand-beer mixture and its a total power play and rad as heck
+10:44:49 From  David Ferreira (He/Him)  to  Everyone:
+	This is JOB training. 	We want you to have the skills to gain and keep an JOB.
+10:45:04 From  David Ferreira (He/Him)  to  Everyone:
+	Grades are less important.
+10:52:26 From  Elias Clark, Java, they/them  to  Everyone:
+	today on day #57 of my upstairs neighbor doing construction: he is apparently using some sort of buzzsaw. cool
+10:52:51 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	brb
+10:55:55 From  Elias Clark, Java, they/them  to  Everyone:
+	components: 🎊 yay new review
+11:10:47 From  Angel Scott, Java, she/her  to  Everyone:
+	Dan has a kitty!
+11:10:54 From  Elias Clark, Java, they/them  to  Everyone:
+	WHERES CAT
+11:10:57 From  Elias Clark, Java, they/them  to  Everyone:
+	WHERES CAT?????????
+11:10:58 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Disco Daydream, the orange menace
+11:11:21 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	YES, Dan
+11:17:28 From  Andrew Pinner/ Java  to  Everyone:
+	Lets just go back to java :D
+11:17:35 From  Angel Scott, Java, she/her  to  Everyone:
+	^^^^^^^
+11:17:37 From  Angel Scott, Java, she/her  to  Everyone:
+	YES!
+11:17:43 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Home sweet home
+11:17:53 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	There's no place like it
+11:18:13 From  Angel Scott, Java, she/her  to  Everyone:
+	Except for Kieta lol
+11:18:34 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Wait what I do now
+11:18:51 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	oh Java lol
+11:27:04 From  Andrew Pinner/ Java  to  Everyone:
+	I would think because it is a function and not a property of the object unlike name and props
+11:36:37 From  Kieta Gatson, Java, She/Her  to  Everyone:
+	Elias😂
+11:37:00 From  Elias Clark, Java, they/them  to  Everyone:
+	las componentas esta muy complicado!!!
+11:40:29 From  Kyle Youngblood, CLE Java  to  Everyone:
+	brb
+11:49:04 From  Andrew Pinner/ Java  to  Everyone:
+	column.c might do it idk though
+11:54:05 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Woot!
+11:55:22 From  Angel Scott, Java, she/her  to  Everyone:
+	Vue has been great guys. So much fun
+11:55:30 From  Elias Clark, Java, they/them  to  Everyone:
+	love it!!! love Vue.
+11:55:38 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	So. Much. Fun.
