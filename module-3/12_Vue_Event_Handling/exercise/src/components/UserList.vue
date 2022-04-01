@@ -15,7 +15,7 @@
       <tbody>
         <tr>
           <td>
-            <input type="checkbox" id="selectAll" />
+            <input type="checkbox" v-on:click="selectAll($event)" v-bind:checked="selectedUserIDs.length == users.length" id="selectAll" />
           </td>
           <td>
             <input type="text" id="firstNameFilter" v-model="filter.firstName" />
@@ -44,7 +44,7 @@
           v-bind:class="{ disabled: user.status === 'Disabled' }"
         >
           <td>
-            <input type="checkbox" v-bind:id="user.id" v-bind:value="user.id" />
+            <input type="checkbox" v-bind:id="user.id" v-bind:value="user.id" v-bind:checked="selectedUserIDs.includes(user.id)" />
           </td>
           <td>{{ user.firstName }}</td>
           <td>{{ user.lastName }}</td>
@@ -59,9 +59,9 @@
     </table>
 
     <div class="all-actions">
-      <button>Enable Users</button>
-      <button>Disable Users</button>
-      <button>Delete Users</button>
+      <button v-bind:disabled="actionButtonDisabled()">Enable Users</button>
+      <button v-bind:disabled="actionButtonDisabled()">Disable Users</button>
+      <button v-bind:disabled="actionButtonDisabled()">Delete Users</button>
     </div>
 
     <button v-on:click.prevent="showForm = !showForm">Add New User</button>
@@ -166,6 +166,10 @@ export default {
     };
   },
 
+
+
+
+
   methods: {
 
     saveUser() {
@@ -215,11 +219,12 @@ export default {
     deleteSelectedUsers() {
       this.selectedUserIDs.forEach((id) => {
         let indexOfUser = this.user.indexOf(id)
-         this.users.splice(indexOfUser, 1) 
+         this.users.splice(indexOfUser, 0) 
       })
     }
   },
   
+
 
   computed: {
     filteredList() {
@@ -252,17 +257,36 @@ export default {
             .includes(this.filter.emailAddress.toLowerCase())
         );
       }
+
       if (this.filter.status != "") {
         filteredUsers = filteredUsers.filter((user) =>
           user.status === this.filter.status
         );
-      }
+      
       return filteredUsers;
+      }
+
+    },
+
+    actionButtonDisabled() {
+      if (this.selectedUserIDs.length) {
+      return false;
+      }
+
+      return true;
     }
+  }
+
+};
+
+
   
 
-  }
-}
+
+
+
+
+
 
 </script>
 
