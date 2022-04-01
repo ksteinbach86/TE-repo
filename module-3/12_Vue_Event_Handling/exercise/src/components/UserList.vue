@@ -52,7 +52,7 @@
           <td>{{ user.emailAddress }}</td>
           <td>{{ user.status }}</td>
           <td>
-            <button class="btnEnableDisable">{{ user.status == 'Active' ? 'Disable' : 'Enable' }}</button>
+            <button class="btnEnableDisable" v-on:click="flipStatus(user.id)" >{{ user.status == 'Active' ? 'Disable' : 'Enable' }}</button>
           </td>
         </tr>
       </tbody>
@@ -96,6 +96,7 @@ export default {
   data() {
     
     return {
+      selectedUserIDs: [],
       showForm: false,
       filter: {
         firstName: "",
@@ -164,26 +165,62 @@ export default {
       ]
     };
   },
+
   methods: {
 
     saveUser() {
-      if (this.newUser.users) {
+      if (this.newUser.firstName && this.newUser.lastName && this.newUser.username 
+      && this.newUser.emailAddress && this.newUser.status) {
       this.users.unshift(this.saveUser);
       this.resetForm();
       }
     },
     resetForm() {
-            this.newReview = {};
+            this.newUser = {
+              id: null,
+              firstName: '',
+              lastName: '',
+              username: '',
+              emailAddress: '',
+              status: 'Active'
+            };
             this.showForm = false;
-        },
+      },
 
     flipStatus(id) {
-      this.users.forEach((user) => {
-        if (this.userId)
-      })
+        this.users.forEach((user) => {
+          if (user.id == id) {
+          user.status == "Active" ? user.status="Disabled" : user.status="Active"
+        }
+      });
+      
+    },
 
+    enableSelectedUser() {
+      this.users.forEach((user) => {
+        if(this.selectedUserIDs.includes(user.id)) {
+          user.status = 'Active'
+        }
+      })
+    },
+
+    disableSelectedUser() {
+      this.users.forEach((user) => {
+        if(this.selectedUserIDs.includes(user.id)) {
+          user.status = 'Disabled'
+        }
+      })
+    },
+
+    deleteSelectedUsers() {
+      this.selectedUserIDs.forEach((id) => {
+        let indexOfUser = this.user.indexOf(id)
+         this.users.splice(indexOfUser, 1) 
+      })
+    }
   },
   
+
   computed: {
     filteredList() {
       let filteredUsers = this.users;
@@ -225,7 +262,8 @@ export default {
   
 
   }
-};
+}
+
 </script>
 
 <style scoped>
