@@ -1,0 +1,82 @@
+08:59:56 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Good luck in interviews everyone!
+09:03:41 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Condolences, Ben
+09:03:55 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^^ ❤️
+09:04:32 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	I'm so sorry for your loss Ben. Much love for you and your family.
+09:05:35 From  Elias Clark, Java, they/them  to  Everyone:
+	Over-Vue
+09:06:05 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	With Vue the puns are always in sight.
+09:06:18 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	👏
+09:06:22 From  Andrew Pinner/ Java  to  Everyone:
+	<cry v-for: component in components/>
+09:06:29 From  Kyle Youngblood, CLE Java  to  Everyone:
+	^^
+09:06:36 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	^^ lol
+09:07:00 From  Angel Scott, Java, she/her  to  Everyone:
+	PLEASE don't forget to remind Ben to record again after breaks! I think I'll just sob uncontrollably in a corner if I go back to watch the recording and see it's only an hour or so long
+09:07:16 From  Mikey Stewart, Java, he/him  to  Everyone:
+	😂 same
+09:07:25 From  Mikey Stewart, Java, he/him  to  Everyone:
+	we only have ourselves to blame
+09:07:37 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	^Will do our best!
+09:09:11 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	loco data is loco
+09:20:46 From  Elias Clark, Java, they/them  to  Everyone:
+	why on earth did they name them 'views' when the program itself is called 'vue'....
+09:22:03 From  Donny Sweeney Java (he/him)  to  Everyone:
+	vuez
+09:23:05 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	motion to pronounce vue as voo
+09:23:14 From  Elias Clark, Java, they/them  to  Everyone:
+	voo-ey
+09:27:44 From  Donny Sweeney Java (he/him)  to  Everyone:
+	I can't risk that habit bc I will say it during an interview
+09:28:01 From  Elias Clark, Java, they/them  to  Everyone:
+	"voo-ey dot jssss"
+09:28:02 From  Angel Scott, Java, she/her  to  Everyone:
+	^^ 😂
+09:29:22 From  Mikey Stewart, Java, he/him  to  Everyone:
+	brb
+09:30:36 From  Donny Sweeney Java (he/him)  to  Everyone:
+	too soon Ben, too soon
+09:32:38 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Good to know
+09:34:32 From  Payton Picone, CLE Java, He/Him  to  Everyone:
+	brb
+09:41:53 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	brb
+09:44:41 From  Elias Clark, Java, they/them  to  Everyone:
+	plus its experience w another IDE!
+10:02:31 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	Good luck to those with interviews!
+10:02:51 From  Elias Clark, Java, they/them  to  Everyone:
+	🍊 yall got this !!!!!
+10:02:58 From  Kyle Youngblood, CLE Java  to  Everyone:
+	👏👏👏
+10:03:06 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	🙌
+10:07:49 From  Nick Steinhouse - Java  (he/him)  to  Everyone:
+	brb
+10:09:28 From  David Ferreira (He/Him)  to  Everyone:
+	https://stackoverflow.com/a/45814848
+10:29:53 From  Danilo Pivaral-Alvarez, Java, he/him  to  Everyone:
+	*step through of routing to mutation*
+10:56:29 From  Jacob Chafin, Java, he/him  to  Everyone:
+	brb
+11:29:31 From  Elias Clark, Java, they/them  to  Everyone:
+	ruthie would NEVER give anything 5 stars. she's tsundere.
+11:38:36 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	Go is for the history stack apparently
+11:39:00 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	back === this.$router.go(-1)
+11:39:21 From  Dan Shaw / Java / [He/Him]  to  Everyone:
+	https://router.vuejs.org/guide/essentials/navigation.html#replace-current-location
+11:53:22 From  JéLeah "Jay" Hill, Java, (She/Her)  to  Everyone:
+	wireframe in module-3\04_CSS_Flexbox
