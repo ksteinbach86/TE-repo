@@ -3,18 +3,28 @@
     <div v-for="topic in topics" v-bind:key="topic.id" class="topic">
       {{ topic.title }}
     </div>
+   
   </div>
 </template>
 
 <script>
+import TopicService from "@/services/TopicsService";
 export default {
   name: 'topic-list',
   data() {
     return {
       topics: []
     }
+  },
+
+
+  created() {
+    TopicService.list().then((response) => {
+    this.topics = response.data;
+    })
   }
 }
+
 </script>
 
 <style>
